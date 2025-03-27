@@ -1,0 +1,20 @@
+{
+  "obsidian-space@@background-image-toggle": false,
+  "id@@h1-underline": true,
+  "id@@headers-one-color": false,
+  "id@@h1-color-theme@@light": "#8CE0EA",
+  "id@@h1-color-theme@@dark": "#8CE0EA",
+  "id@@h2-color-theme@@light": "#ED81DB",
+  "id@@h2-color-theme@@dark": "#ED81DB",
+  "id@@h3-color-theme@@light": "#7EE787",
+  "id@@h3-color-theme@@dark": "#7EE787",
+  "id@@h4-color-theme@@light": "#FD7D7D",
+  "id@@h4-color-theme@@dark": "#FD7D7D",
+  "id@@h5-color-theme@@light": "#C784F7",
+  "id@@h5-color-theme@@dark": "#C784F7",
+  "id@@h6-color-theme@@light": "#7889E7",
+  "id@@h6-color-theme@@dark": "#7889E7",
+  "vicious@@callout Style": "callout-style-02",
+  "vicious@@highlightcolors": "highlight-C011",
+  "vicious@@vibrant-folders": false
+}

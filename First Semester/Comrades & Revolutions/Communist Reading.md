@@ -1,0 +1,18 @@
+- There were huge mass movements after the fall of several communist states (e.g., Berlin/Germany)  
+- 1989 and 1789 (The French Revolution) have often been compared  
+- The effects of reform in the Eastern Bloc forced changes in the USSR due to the threat of populism  
+- East Germany was well informed of what was occurring in the Eastern Bloc by Western TV, and soon Henniker's government collapsed (3 months) 
+- 25,000 people fled East Berlin for the West in a single night  
+- The fall of the Berlin Wall allowed for East Germans to visit ‘the temples of consumerism’ from which they had inly viewed for a distance  
+- The fall of the Berlin Wall saw the rapid increase of liberal reforms, with free elections in March, which the Communists lost ad saw the fall of many communist era elites.  
+- East Germans was subsumed into West Germany  
+- When word broke out about one liberalisation effort in one Eastern Bloc nation it spread to yet another  
+- ‘Once communist leaders starting falling in one place their legitimacy in other places were Poland’- Poland and Hungary served as the first examples  
+- As each claimed their independence from the Soviet system they reaffirmed the existence of the nation state in the east  
+- Perestroika and Glasnost served as an example for large parts of the general population and professional opposition of the Eastern Bloc 
+- It became obvious that Gorbachev would no longer intervein militarily in the Eastern Bloc in defence of communist regimes ‘Gorbachev would be willing to let his colonies to go if they insisted’. This ‘robbed them’ of their power  
+- It allowed for a more rapid increase in globalisation by opening up half of Europe  
+- The loss of communism meant that capitalism lost its main rival  
+- The USSR lost its grip entirely on the East of Europe  
+- Changes in the Eastern Bloc were reported to the USSR due to Glasnost, the idea of ‘returning to Europe’ and not to becoming capitalism was an idea that took root. ‘the alternative to communism was not capitalism but Europe’  
+- rise of nationalism in Eastern Europe (Czech-Slovak ‘divorce’)
