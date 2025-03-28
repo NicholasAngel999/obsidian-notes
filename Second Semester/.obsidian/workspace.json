@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "any type.md",
+                "file": "test file.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "any type"
+              "title": "test file"
             }
           }
         ]
@@ -169,11 +169,12 @@
   },
   "active": "1649a10f65ef5dd5",
   "lastOpenFiles": [
+    "any type.md",
+    "test file.md",
     "Medieval presentation.md",
     "Crime and Punishment/Prisons.md",
     "obsidian-notes/README.md",
     "Crime and Punishment/women and crime.md",
-    "any type.md",
     "Valentines day planning.md",
     "obsidian-notes",
     "Crime Act Pres.md",
@@ -203,7 +204,6 @@
     "images",
     "images/Screenshot 2025-02-08 135754.png",
     "Crime and Punishment/Justice and the magistrate.md",
-    "Crime and Punishment/From Magistrates to Jurors.md",
     "Dissertation Research Skills",
     "Untitled.canvas",
     "Medieval Chivalry/Untitled",
