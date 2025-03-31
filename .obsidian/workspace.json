@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "6c407dad3f953551",
+    "id": "3e967c168619842e",
     "type": "split",
     "children": [
       {
-        "id": "0e46b715a8fb5290",
+        "id": "9b2ed33142ece7fc",
         "type": "tabs",
         "children": [
           {
-            "id": "1649a10f65ef5dd5",
+            "id": "2516cb1890187e6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test file.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test file"
+              "title": "New tab"
             }
           }
         ]
@@ -27,20 +23,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c706cca3de1abec9",
+    "id": "89db7aa60bb4d766",
     "type": "split",
     "children": [
       {
-        "id": "3ed967d4294081af",
+        "id": "bcd92c55f0d2a3da",
         "type": "tabs",
         "children": [
           {
-            "id": "e5bf19fa09400529",
+            "id": "c3dc26bb933ba5e2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "4128250eba8ba64e",
+            "id": "eb306141dfd77dc7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "04dea3e0f937eadb",
+            "id": "d50d615509433d6a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5110321044922
+    "width": 300
   },
   "right": {
-    "id": "09ff80183222ed7a",
+    "id": "85b6eb59853b1d51",
     "type": "split",
     "children": [
       {
-        "id": "aa6a0501cd9a881a",
+        "id": "af6c0cf19cbb70e8",
         "type": "tabs",
         "children": [
           {
-            "id": "78e99932896249fd",
+            "id": "db674bae5ddc3816",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crime and Punishment/Prisons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,49 +99,49 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prisons"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "19ae7a1e8ec2c90c",
+            "id": "9cf237625ca34470",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crime and Punishment/Prisons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Prisons"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "3837a677296408a4",
+            "id": "cad5959230b27102",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "9ec458c107a2e094",
+            "id": "9b1ed9aaa8043ea7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crime and Punishment/Prisons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prisons"
+              "title": "Outline"
             }
           }
         ]
@@ -166,47 +161,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1649a10f65ef5dd5",
-  "lastOpenFiles": [
-    "any type.md",
-    "test file.md",
-    "Medieval presentation.md",
-    "Crime and Punishment/Prisons.md",
-    "obsidian-notes/README.md",
-    "Crime and Punishment/women and crime.md",
-    "Valentines day planning.md",
-    "obsidian-notes",
-    "Crime Act Pres.md",
-    "Dissertation Research Skills/Dissertation research skills blog thing.md",
-    "Medieval Chivalry/books and shit to remember for medieval.md",
-    "Medieval Chivalry/Medievalism.md",
-    "Medieval Chivalry/Chivalry and War.md",
-    "Medieval Chivalry/Courtly Love.md",
-    "Medieval Chivalry/mondsay online.md",
-    "Crime and Punishment/The life of a pirate.md",
-    "Crime and Punishment/Property Crime.md",
-    "Dissertation Research Skills/Essay talk with Jim.md",
-    "images/Pasted image 20250211133544.png",
-    "Dissertation Research Skills/Dissertation research kinda lesson.md",
-    "images/Pasted image 20250218143734.png",
-    "images/Pasted image 20250218144227.png",
-    "images/Pasted image 20250218144152.png",
-    "images/Pasted image 20250218144124.png",
-    "Medieval Chivalry/Chapter 9 Medieval chivalry-Primus.md",
-    "Crime and Punishment/Punishment.md",
-    "Medieval Chivalry/Monday Consolidation.md",
-    "Crime and Punishment/from parish constables to detectives.md",
-    "Crime and Punishment/Reading the first.md",
-    "Medieval Chivalry/reading for medieval.md",
-    "images/Pasted image 20250208140358.png",
-    "Medieval Chivalry/Chapter 9 Medieval chivalry.md",
-    "images",
-    "images/Screenshot 2025-02-08 135754.png",
-    "Crime and Punishment/Justice and the magistrate.md",
-    "Dissertation Research Skills",
-    "Untitled.canvas",
-    "Medieval Chivalry/Untitled",
-    "Medieval Chivalry",
-    "Crime and Punishment"
-  ]
+  "active": "2516cb1890187e6a",
+  "lastOpenFiles": []
 }
