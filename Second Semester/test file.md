@@ -9,3 +9,6 @@ made edits to this file on startup
 make sure new one works
 
 is this work?
+
+
+I can edit this from phone 
