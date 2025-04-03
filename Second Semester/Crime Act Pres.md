@@ -136,5 +136,19 @@ https://www.oldbaileyonline.org/record/t17440510-27 *main case*
 
 https://www.oldbaileyonline.org/record/o17440912-2?text=Robert%20Fuller *supporting case with same names*
 
+https://www.digitalpanopticon.org/life?id=obpt17440510-27-defend339 - digital panopticon
 
+https://www.oldbaileyonline.org/about/verdicts#guiltyrecommendation
 
+https://www.oldbaileyonline.org/record/s17440510-1?text=fuller
+
+# brief 
+--- 
+
+Each group member is required to create a short report (500 words) of their case to include  
+the following:  
+ Name of your group  
+ Case details and reference from the Old Bailey website.  
+ Brief summary  
+ My role in the group  
+ Bibliography
