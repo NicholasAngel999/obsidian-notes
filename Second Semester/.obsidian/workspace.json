@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crime and Punishment/Juvenile delinquents.md",
+                "file": "Blog Posts reading pop cult.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Juvenile delinquents"
+              "title": "Blog Posts reading pop cult"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5110321044922
+    "width": 239.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "09ff80183222ed7a",
@@ -169,17 +170,20 @@
   },
   "active": "1649a10f65ef5dd5",
   "lastOpenFiles": [
-    "Crime and Punishment/From Magistrates to Jurors.md",
-    "Crime and Punishment/Juvenile delinquents.md",
-    "Crime Act Pres.md",
-    "Medieval presentation.md",
-    "Medieval Chivalry/Rachel and medieval tabletop games.md",
+    "used notes/Medieval presentation.md",
+    "Blog Posts reading pop cult.md",
+    "used notes",
     "test file.md",
+    "used notes/Valentines day planning.md",
     "any type.md",
+    "Medieval Chivalry/reading for medieval.md",
+    "Crime and Punishment/Juvenile delinquents.md",
+    "Crime and Punishment/From Magistrates to Jurors.md",
+    "used notes/Crime Act Pres.md",
+    "Medieval Chivalry/Rachel and medieval tabletop games.md",
     "Crime and Punishment/Prisons.md",
     "obsidian-notes/README.md",
     "Crime and Punishment/women and crime.md",
-    "Valentines day planning.md",
     "obsidian-notes",
     "Dissertation Research Skills/Dissertation research skills blog thing.md",
     "Medieval Chivalry/books and shit to remember for medieval.md",
@@ -198,9 +202,6 @@
     "images/Pasted image 20250218144124.png",
     "Medieval Chivalry/Chapter 9 Medieval chivalry-Primus.md",
     "Crime and Punishment/Punishment.md",
-    "Medieval Chivalry/Monday Consolidation.md",
-    "Crime and Punishment/from parish constables to detectives.md",
-    "Crime and Punishment/Reading the first.md",
     "images/Pasted image 20250208140358.png",
     "images",
     "images/Screenshot 2025-02-08 135754.png",
