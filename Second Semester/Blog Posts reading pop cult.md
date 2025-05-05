@@ -1,6 +1,8 @@
 # ~~How has the idea of chivalry been re imagined in modern popular culture and what does that say about contemporary values~~
 
 
+# DARK SOULS
+
 
 ## Stubbs, Jonathan, ‘Hollywood’s Middle Ages: The Development of Knights of the Round Table and Ivanhoe, 1935-53’, _Exemplaria (Binghamton, N.Y.)_, 21.4 (2009), pp. 398–417, doi:10.1179/175330709X449107
 ---
@@ -50,4 +52,20 @@ the monograph explores Tolkien's influence on how the public envisage the Middle
 
 # check over this 
 ## Fitzpatrick, KellyAnn, ‘Digital Gaming: Coding a Connective Neomedievalism’, in _Neomedievalism, Popular Culture, and the Academy: From Tolkien to Game of Thrones_, Medievalism (Boydell & Brewer, 2019), pp. 171–95
+
+
+
+
+
+# THIS IS MLA NOT MHRA
+## Playing the Middle Ages: Pitfalls and Potential in Modern Games. United Kingdom, Bloomsbury Publishing, 2023.
+
+"The violence of the game, therefore, instils a visceral sense of risk" [228]
+- Anything medieval often has the idea of being overtly violent
+
+"typically, fantasy video games attempt to instil in the player a sense of empowerment" [228]
+- possibly the idea that you had to rise through ranks ??????
+
+"the game will never let you stop being vulnerable" [228] 
+- very medieval
 
