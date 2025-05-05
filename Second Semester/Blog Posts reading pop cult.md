@@ -46,3 +46,8 @@ the monograph explores Tolkien's influence on how the public envisage the Middle
 "Such a departure, however, fits with director Robert Zemeckis’s promise that “This has nothing to do with the Beowulf that you were forced to read in junior high school" [73]
 - basically talking about how we are using romanticised views of medieval values to embed them into modern society but this film in particular is trying to break the mould and show a more true depiction of history
 
+
+
+# check over this 
+## Fitzpatrick, KellyAnn, ‘Digital Gaming: Coding a Connective Neomedievalism’, in _Neomedievalism, Popular Culture, and the Academy: From Tolkien to Game of Thrones_, Medievalism (Boydell & Brewer, 2019), pp. 171–95
+
