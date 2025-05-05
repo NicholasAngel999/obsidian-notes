@@ -69,3 +69,19 @@ the monograph explores Tolkien's influence on how the public envisage the Middle
 "the game will never let you stop being vulnerable" [228] 
 - very medieval
 
+
+
+## ‘No Mastery without Mystery: Dark Souls and the Ludic Sublime’, _Game Studies_, 15.1 (2015)
+
+“Dark Souls sets out with the express purpose of unsettling these preconceptions, deploying a range of formal techniques and mechanisms designed to arrest the player’s judgment and prevent her from arriving at a stable cosmic understanding, preserving a sense of mystery and gesturing towards a whole that escapes the player’s conceptualizing grasp.”
+
+you can argue that _Dark Souls_ uses its game design to deconstruct traditional chivalric ideals, presenting a world where:
+
+- **Honor is ambiguous**: Actions lack clear moral outcomes.
+    
+- **Heroism is questioned**: Success often comes through trial and error, not noble deeds.
+    
+- **Identity is fragmented**: Players encounter multiple versions of themselves, challenging the notion of a singular, heroic self.
+    
+
+By integrating Vella's analysis demonstrate how _Dark Souls_ serves as a modern commentary on the complexities and contradictions of medieval chivalry in contemporary popular culture.
