@@ -3,6 +3,7 @@
 
 # DARK SOULS
 
+so i am basically saying that _dark souls_ draws heavily on medieval imagery but is deliberately different from traditional illusions about chivalry by making them bleak and ambiguous. the game reflects a modern disillusioned view of chivalry and the middle ages aligning with contemporary anxieties about power identity and failure
 
 ## Stubbs, Jonathan, ‘Hollywood’s Middle Ages: The Development of Knights of the Round Table and Ivanhoe, 1935-53’, _Exemplaria (Binghamton, N.Y.)_, 21.4 (2009), pp. 398–417, doi:10.1179/175330709X449107
 ---
