@@ -5,6 +5,11 @@
 
 so i am basically saying that _dark souls_ draws heavily on medieval imagery but is deliberately different from traditional illusions about chivalry by making them bleak and ambiguous. the game reflects a modern disillusioned view of chivalry and the middle ages aligning with contemporary anxieties about power identity and failure
 
+In traditional chivalric literature and medieval ideals, **identity is stable, noble, and often inherited**. A knight is defined by his **name**, **lineage**, **loyalty**, and **honourable actions**. Think of figures like Sir Gawain or Lancelot — their identities are deeply tied to social status, moral codes, and the communities they serve.
+
+But in _Dark Souls_, this model of identity is **completely destabilised**:
+
+
 ## Stubbs, Jonathan, ‘Hollywood’s Middle Ages: The Development of Knights of the Round Table and Ivanhoe, 1935-53’, _Exemplaria (Binghamton, N.Y.)_, 21.4 (2009), pp. 398–417, doi:10.1179/175330709X449107
 ---
 
@@ -58,7 +63,7 @@ the monograph explores Tolkien's influence on how the public envisage the Middle
 
 
 # check over this 
-## Fitzpatrick, KellyAnn, ‘Digital Gaming: Coding a Connective Neomedievalism’, in _Neomedievalism, Popular Culture, and the Academy: From Tolkien to Game of Thrones_, Medievalism (Boydell & Brewer, 2019), pp. 171–95
+## Fitzpatrick, KellyAnn, ‘Introduction’, in _Neomedievalism, Popular Culture, and the Academy: From Tolkien to Game of Thrones_, Medievalism (Boydell & Brewer, 2019), pp. 1-10
 
 
 
