@@ -13,6 +13,12 @@ As Nickolas Haydock has argued, “movie medievalism . . . fetishizes the alteri
 
 I would argue that medieval Britain has allowed Hollywood filmmakers to explore the values on which America was founded, particularly at moments when the relationship between the modern nation and these historical ideals has required negotiation [pg 398-399]
 
+"The Middle Ages have a long record of service as a setting for romantic and heroic Hollywood films" [398]
+
+
+movie medievalism . . . fetishizes the alterity of the Middle Ages as a temporal Other while compulsively retooling imagined continuities to fit the rapidly changing priorities of the contemporary world” [398]
+
+
 
 
 
@@ -71,6 +77,7 @@ the monograph explores Tolkien's influence on how the public envisage the Middle
 
 
 
+
 ## ‘No Mastery without Mystery: Dark Souls and the Ludic Sublime’, _Game Studies_, 15.1 (2015)
 
 “Dark Souls sets out with the express purpose of unsettling these preconceptions, deploying a range of formal techniques and mechanisms designed to arrest the player’s judgment and prevent her from arriving at a stable cosmic understanding, preserving a sense of mystery and gesturing towards a whole that escapes the player’s conceptualizing grasp.”
@@ -85,3 +92,6 @@ you can argue that _Dark Souls_ uses its game design to deconstruct traditional 
     
 
 By integrating Vella's analysis demonstrate how _Dark Souls_ serves as a modern commentary on the complexities and contradictions of medieval chivalry in contemporary popular culture.
+
+
+
