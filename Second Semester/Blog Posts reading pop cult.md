@@ -65,6 +65,8 @@ the monograph explores Tolkien's influence on how the public envisage the Middle
 # check over this 
 ## Fitzpatrick, KellyAnn, ‘Introduction’, in _Neomedievalism, Popular Culture, and the Academy: From Tolkien to Game of Thrones_, Medievalism (Boydell & Brewer, 2019), pp. 1-10
 
+"use of the word to characterize terrorists as “the primitive, the archaic, the premodern” is not surprising, and he cites other professional medievalists who have also reacted to this use of “medievalist” with the scholarly tools available to them at the time" [2]
+
 
 
 
