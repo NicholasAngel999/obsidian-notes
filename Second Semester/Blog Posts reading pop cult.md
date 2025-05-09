@@ -35,6 +35,8 @@ _this is the one that talks about Disney robin hood_
 - anthropomorphise medieval characters for children with the aim of teaching children fantasised and romanticised medieval values
 
 
+The story works freely from traditional anthropomorphic stereotypes, and since there are no “human” characters, its talking animals represent the human “kingdom” without restraints of scale or perspective. Unlike in Chaucer, there is no sense of an existential limit to the field of action, no ditch around the farmyard that lets the beast fable expose the vanity of human aspirations. Rather, Robin Hood sets up its own humanoid social conspectus, whose politics are illuminated partly through traditional animal symbolism (including its Disney history), partly through reference to ideas of medieval society, and partly through the translation of medieval Nottingham to “Nottingham ” a small (white), sleepy Southern US settlement. [32]
+
 ## Matthews, David, _Medievalism : A Critical History_, 1st ed. (Boydell & Brewer, 2015), doi:10.1515/9781782043973
 ---
 
@@ -103,3 +105,24 @@ By integrating Vella's analysis demonstrate how _Dark Souls_ serves as a modern 
 
 
 
+
+
+# pictures ideas
+
+![[xwsaztdaoosmspmprf9blv2le_-ktzjn-99ba.webp]]
+
+
+![[Pasted image 20250508140230.jpg]]
+
+
+
+
+![[Pasted image 20250508140310.jpg]]
+
+
+
+![[Pasted image 20250508140317.jpg]]
+
+
+
+![[Pasted image 20250508140334.jpg]]
