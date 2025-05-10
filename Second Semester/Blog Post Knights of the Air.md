@@ -55,5 +55,23 @@ figures" [205]
 
 "In this case, myths and legends are seen as a way to "sell" the idea of airpower to the military establishment and the public." [206]
 
+""The nineteenth century notion of honor and chivalry in battle had been mortally wounded in the trenches along with the millions of men killed in the slaughter, but the aviator, who fought his battles hand-to-hand above the mass killing on the ground, was seen as a breed apart" [207]
+
+
+
+"Military and political leaders also engaged in a kind of hero worship of pilots. British Prime Minister David Lloyd George waxed particularly eloquent, "The heavens are their battlefield; they are the Cavalry of the clouds. High above the squalor and the mud, so high in the firmament that they are not visible from the earth, they fight out the eternal issues of right and wrong.""  [207]
+
+
+
+
+"The public's vision of the great "duel" in the air between two equally skilled and chivalrous pilots is largely a creation of propaganda and the media" [207]
+
+
+"Fair fights were not something that pilots would hope to find. In fact, pilots preferred situations where they could shoot the enemy "in the back when he wasn't looking, or bring odds of ten to one against him," [208]
+
+
+
+
+# Corum, James S, ‘Legend, Memory and the Great War in the Air’, _War in History_, 1 (1994), pp.362–63
 
 
