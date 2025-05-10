@@ -72,6 +72,15 @@ figures" [205]
 
 
 
+
+
 # Corum, James S, ‘Legend, Memory and the Great War in the Air’, _War in History_, 1 (1994), pp.362–63
+
+
+"Legend, Memory and the Great War in the Air may be an instance of cultural historians taking their subject too seriously. The author forcefully asserts that the myths of the 'knights of the air' of the First World War 'have
+influenced the planning and use of air power during World War II and are still with us today' (p. 29) - pure nonsense." [363]
+
+
+"The professional airmen gave the fighter pilot a minor role in air doctrine at the time that the popular image of such men was at its peak.There may have been a lot of dumb airmen since the First World War, but I have seen no evidence that they took their air doctrine from Holly wood's version of war." [363]
 
 
