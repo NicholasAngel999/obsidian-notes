@@ -16,3 +16,15 @@
 
 
 
+###### Cordingly, David, _Life among the Pirates : The Romance and the Reality_ (Abacus, 1999) - Library only
+
+
+
+###### Cawthorne, Nigel, _A History of Pirates: Blood and Thunder on the High Seas_ (Arcturus, 2003)
+
+
+
+###### Defoe, Daniel, _A General History of the Pyrates_ (Open Road Media, 2020)
+
+
+
