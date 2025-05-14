@@ -1,7 +1,15 @@
-
+[[Punishment]]
 # Possible readings 
 
 ###### King, Peter, and Richard Ward, ‘RETHINKING THE BLOODY CODE IN EIGHTEENTH-CENTURY BRITAIN: CAPITAL PUNISHMENT AT THE CENTRE AND ON THE PERIPHERY’, _Past & Present_, 228.228 (2015), pp. 159–205. 
+---
+During the long eighteenth century the capital code, and
+specifically the so-called 'Bloody Code', which subjected
+and increasing range of property crimes to the death penalty was the centre of much popular attention and of extensive debate [p.159]
+
+The impact of the Bloody Code has also attracted much attention from historians, some of whom have argued that it played a vital role both within the criminal law and in eighteenth-century social relations more generally [p.159-160]
+
+
 
 
 ###### HANDLER, PHIL, ‘FORGERY AND THE END OF THE “BLOODY CODE” IN EARLY NINETEENTH-CENTURY ENGLAND’, _The Historical Journal_, 48.3 (2005), pp. 683–702.
