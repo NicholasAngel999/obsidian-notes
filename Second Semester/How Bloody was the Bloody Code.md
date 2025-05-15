@@ -84,21 +84,44 @@ and increasing range of property crimes to the death penalty was the centre of m
 A reluctance to execute too many convicts and concerns that the death penalty failed to deter crime led to the development, from the late seventeenth century, of the secondary punishments of transportation and imprisonment,3 while for a variety of reasons victims and witnesses of serious crime (felonies) frequently failed to prosecute, despite their legal obligations. Instead, they chose informal methods for dealing with the culprit (or simply ignored the crime). [97]
 
 
- 
+ The rewards which stimulated so many capital convictions came to be labelled as 'blood money', and they added to growing doubts about the use of the 'bloody code' [98]
+ - _by this we mean rewards from statutory rewards which stopped in 1818_
+
+By the end of the eighteenth century reformers called for a centralised police force and the creation of public prosecutors, further steps in the evolution of a system in which the state, not the victim, would eventually acquire the power to determine which criminals would be prosecuted [98]
+- _this could be argument for not so bloody code. they were making steps towards a less bloody code_
+
+Concurrently, parliament began to meet regularly, allowing more legislation to be passed in response to pressing concerns. As well as offering rewards for the conviction of criminals, parliamentary statutes created new capital offences (adding to the bloody code) to deter potential offenders and revised and introduced new secondary punishments [98]
+
+
+
+
 
 ##### Walliss, John, ‘New Directions in the Historiography of the Administration of the Bloody Code’, _History Compass_, 16.8 (2018).
 
+Between 1688 and 1820, the number of capital crimes in England and Wales increased exponentially from 50 to over 220.
+
+“there is probably no other country in the world in which so many and so great a variety of human actions are punishable with loss of life as in England.”
+- _sir Samuel Romilly told the house of commons in 1810_
+
+“… frightful to look back on the penal code of England, as it stood even in our own day. Every page of our statute-book smelt of blood.”
+- _Charles Phillips described with horror 1857_
+
+the majority of those convicted of lesser offences were often pardoned, receiving instead a sentence of transportation or even imprisonment. Indeed, it was estimated in the 1820s that in order to hang all those condemned to death, four persons would have to be dispatched on the gallows every day of the year with the exception of Sundays
+
+The 1970s and 1980s witnessed a debate among Marxist historians and others over the extent to which the Bloody Code operated as a tool of the ruling elite to protect property interests
 
 
-##### Cordingly, David, _Life among the Pirates : The Romance and the Reality_ (Abacus, 1999) - Library only
+
+
+## Cordingly, David, _Life among the Pirates : The Romance and the Reality_ (Abacus, 1999) - Library only
+## Beattie, J. M, _Crime and the Courts in England, 1660-1800_ (Clarendon, 1986) - library only
+
+
+###### _**Cawthorne, Nigel, _A History of Pirates: Blood and Thunder on the High Seas_ _(Arcturus, 2003)**_
 
 
 
-##### Cawthorne, Nigel, _A History of Pirates: Blood and Thunder on the High Seas_ (Arcturus, 2003)
-
-
-
-##### Defoe, Daniel, _A General History of the Pyrates_ (Open Road Media, 2020)
+##### 
 
 
 
