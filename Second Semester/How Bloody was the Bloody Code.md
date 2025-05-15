@@ -67,11 +67,22 @@ and increasing range of property crimes to the death penalty was the centre of m
 "In all the capital code expanded from 50 to over 200 separate statutes that decreed the death penalty for those that broke them. In reality most of those executed continued to be condemned under legislation enacted in the medieval and early modern periods." [281]
 
 
+"In addition, there were a host of related offences that also prescribed the death sentence. Ostensibly the act was aimed at preventing poaching and attacks on gamekeepers around Waltham in Hampshire but has come to be seen as an example of the Hanoverian regime’s brutal repression of the labouring class." [282]
+
+
+"This meant that individuals could be tried before judges and juries where they might be less likely to benefit from the sympathies of locals. For example, smugglers and those accused of attacks on the revenue men who policed the illegal trade in alcohol and tobacco along the southern coast were often acquitted by sympathetic juries who either approved of their actions or had been bribed or coerced into so doing.24 By moving offenders to assizes in ‘neutral’ areas, and allowing more time to bring cases to trial, prosecutions were more likely to succeed [282]
+
+
+"The Black Act, therefore, needs to be seen as a draconian piece of legislation that undermined some of the basic principles of the English criminal justice system. [282]
+
 
 
 
 
 ##### Clayton, Mary, and Robert Shoemaker, ‘Blood Money and the Bloody Code: The Impact of Financial Rewards on Criminal Justice in Eighteenth-Century England’, _Continuity and Change_, 37.1 (2022), pp. 97–125. 
+
+A reluctance to execute too many convicts and concerns that the death penalty failed to deter crime led to the development, from the late seventeenth century, of the secondary punishments of transportation and imprisonment,3 while for a variety of reasons victims and witnesses of serious crime (felonies) frequently failed to prosecute, despite their legal obligations. Instead, they chose informal methods for dealing with the culprit (or simply ignored the crime). [97]
+
 
 
 
