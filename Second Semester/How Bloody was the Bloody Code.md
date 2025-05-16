@@ -112,6 +112,14 @@ The 1970s and 1980s witnessed a debate among Marxist historians and others over 
 
 
 
+##### King, Peter, _Punishing the Criminal Corpse, 1700-1840 : Aggravated Forms of the Death Penalty in England_, 1st ed. 2017. (Palgrave Macmillan UK, 2017).
+
+
+##### McGowen, Randall, ‘The Body and Punishment in Eighteenth-Century England’, _The Journal of Modern History_, 59.4 (1987), pp. 651-
+
+
+##### Emsley, Clive, _Crime and Society in England, 1750-1900_, Fifth edition. (Routledge, 2017).
+
 
 ## Cordingly, David, _Life among the Pirates : The Romance and the Reality_ (Abacus, 1999) - Library only
 ## Beattie, J. M, _Crime and the Courts in England, 1660-1800_ (Clarendon, 1986) - library only
@@ -119,9 +127,6 @@ The 1970s and 1980s witnessed a debate among Marxist historians and others over 
 
 ###### _**Cawthorne, Nigel, _A History of Pirates: Blood and Thunder on the High Seas_ _(Arcturus, 2003)**_
 
-
-
-##### 
 
 
 
