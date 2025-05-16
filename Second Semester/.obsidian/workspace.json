@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5110321044922
+    "width": 239.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "09ff80183222ed7a",
@@ -169,6 +170,17 @@
   },
   "active": "e16d164d1c8d4d69",
   "lastOpenFiles": [
+    "home",
+    "/home/cole/Documents/obsidian-notes/Second Semester/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Medium.ttf/",
+    "/home/cole/Documents/obsidian-notes/Second Semester/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Medium.ttf",
+    "/home/cole/Documents/obsidian-notes/Second Semester/usr/share/fonts/TTF",
+    "/home/cole/Documents/obsidian-notes/Second Semester/usr/share/fonts",
+    "/home/cole/Documents/obsidian-notes/Second Semester/usr/share",
+    "/home/cole/Documents/obsidian-notes/Second Semester/usr",
+    "/home/cole/Documents/obsidian-notes/Second Semester",
+    "/home/cole/Documents/obsidian-notes",
+    "/home/cole/Documents",
+    "/home/cole",
     "Crime and Punishment/Punishment.md",
     "How Bloody was the Bloody Code.md",
     "Crime and Punishment/The life of a pirate.md",
@@ -189,7 +201,6 @@
     "images/Pasted image 20250508140230.jpg",
     "images/xwsaztdaoosmspmprf9blv2le_-ktzjn-99ba.webp",
     "used notes/Medieval presentation.md",
-    "used notes",
     "test file.md",
     "any type.md",
     "Medieval Chivalry/reading for medieval.md",
@@ -199,19 +210,12 @@
     "Medieval Chivalry/Rachel and medieval tabletop games.md",
     "Crime and Punishment/Prisons.md",
     "obsidian-notes/README.md",
-    "obsidian-notes",
     "Dissertation Research Skills/Dissertation research skills blog thing.md",
     "Medieval Chivalry/books and shit to remember for medieval.md",
     "Medieval Chivalry/Medievalism.md",
     "Medieval Chivalry/Chivalry and War.md",
     "Medieval Chivalry/Courtly Love.md",
-    "Medieval Chivalry/mondsay online.md",
     "images/Pasted image 20250218143734.png",
-    "images",
-    "Dissertation Research Skills",
-    "Untitled.canvas",
-    "Medieval Chivalry/Untitled",
-    "Medieval Chivalry",
-    "Crime and Punishment"
+    "Untitled.canvas"
   ]
 }

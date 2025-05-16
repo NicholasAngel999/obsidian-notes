@@ -1,7 +1,7 @@
 {
-  "font_folder": ".obsidian/fonts/",
-  "font": "none",
-  "force_mode": false,
+  "font_folder": "/home/cole/Documents/obsidian-notes/Second Semester/.obsidian/fonts/JetBrainsMonoNLNerdFontMono-Medium.ttf/",
+  "font": "all",
+  "force_mode": true,
   "custom_css_mode": false,
   "custom_css": ""
 }

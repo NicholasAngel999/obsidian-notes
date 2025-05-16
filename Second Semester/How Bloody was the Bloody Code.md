@@ -121,10 +121,6 @@ The 1970s and 1980s witnessed a debate among Marxist historians and others over 
 ##### Emsley, Clive, _Crime and Society in England, 1750-1900_, Fifth edition. (Routledge, 2017).
 
 
-## Cordingly, David, _Life among the Pirates : The Romance and the Reality_ (Abacus, 1999) - Library only
-
-
-
 
 ## Beattie, J. M, _Crime and the Courts in England, 1660-1800_ (Clarendon, 1986) - library only
 
@@ -132,10 +128,21 @@ The 1970s and 1980s witnessed a debate among Marxist historians and others over 
 
 from figure 11.1 we can see that from 1710 transportation and imprisonment was the most common punishment with capital punishment being the lowest behind clergy whipping something that is not a well recognised punishment [620]
 
+Looking at figures 5.1 and 5.2 we can see those indictments for crimes against property was following a similar trend in Surrey and Sussex between the same years [202/203]
 
 
-###### _**Cawthorne, Nigel, _A History of Pirates: Blood and Thunder on the High Seas_ _(Arcturus, 2003)**_
+##### Linebaugh, Peter, _The London Hanged : Crime and Civil Society in the Eighteenth Century_, 2nd ed. (Verso, 2006)[modules](https://github.com/Matt-FTW/dotfiles/tree/main/.config/waybar/modules "modules")
+
+"the same word 'capital' has come to mean both crimes punishable by deat[modules](https://github.com/Matt-FTW/dotfiles/tree/main/.config/waybar/modules "modules")h and the accumulation of wealth founded on the produce of previous (or dead) labour might be left to etymologists [...] so exact in expressing the theme of this book" [XVII]
+
+"The Willaimite chttps://github.com/Matt-FTW/dotfiles/tree/main/.config/waybar/modulesrimihttps://github.com/Matt-FTW/dotfiles/tree/main/.config/waybar/modulesnal code established an ever more refined relation between money and the death sentence" [54]
+
+"larceny is 'grand' when the value of stolen goods exceeds 12d. and petty when the value is less than 12d. Of decisive importance to the life of the offender was thus (1) the physical location of the misapropriated goods and (2) the monetary value of the goods" [54]
 
 
 
+##### Sharpe, J. A, _Crime in Seventeenth-Century England : A County Study_ (Cambridge University Press, 1983)
+
+
+"the english criminal law, in its intebtions at least, was punitive rather than restitutive in character" [141]
 
