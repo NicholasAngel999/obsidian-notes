@@ -122,7 +122,16 @@ The 1970s and 1980s witnessed a debate among Marxist historians and others over 
 
 
 ## Cordingly, David, _Life among the Pirates : The Romance and the Reality_ (Abacus, 1999) - Library only
+
+
+
+
 ## Beattie, J. M, _Crime and the Courts in England, 1660-1800_ (Clarendon, 1986) - library only
+
+"if the jury convicted a prisoner of the less serious charge of petty larceny the courts might order that he be whipped before being released. but that was the only real punishment other than hanging the judges had at their disposal, and it was in any case rarely resorted to in the 1660s" [619]
+
+from figure 11.1 we can see that from 1710 transportation and imprisonment was the most common punishment with capital punishment being the lowest behind clergy whipping something that is not a well recognised punishment [620]
+
 
 
 ###### _**Cawthorne, Nigel, _A History of Pirates: Blood and Thunder on the High Seas_ _(Arcturus, 2003)**_
