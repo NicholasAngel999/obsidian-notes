@@ -134,7 +134,7 @@ Looking at figures 5.1 and 5.2 we can see those indictments for crimes against p
 
 ##### Linebaugh, Peter, _The London Hanged : Crime and Civil Society in the Eighteenth Century_, 2nd ed. (Verso, 2006)[modules](https://github.com/Matt-FTW/dotfiles/tree/main/.config/waybar/modules "modules")
 
-"the same word 'capital' has come to mean both crimes punishable by deat[modules](https://github.com/Matt-FTW/dotfiles/tree/main/.config/waybar/modules "modules")h and the accumulation of wealth founded on the produce of previous (or dead) labour might be left to etymologists [...] so exact in expressing the theme of this book" [XVII]
+"the same word 'capital' has come to mean both crimes punishable by death and the accumulation of wealth founded on the produce of previous (or dead) labour might be left to etymologists [...] so exact in expressing the theme of this book" [XVII]
 
 "The Willaimite criminal code established an ever more refined relation between money and the death sentence" [54]
 
