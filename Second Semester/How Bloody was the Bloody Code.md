@@ -96,7 +96,8 @@ Concurrently, parliament began to meet regularly, allowing more legislation to b
 
 
 
-##### Walliss, John, ‘New Directions in the Historiography of the Administration of the Bloody Code’, _History Compass_, 16.8 (2018).
+##### Wallis, John, 'New Directions in the historiography of the Administration of the Bloody Code', 20 July 2018, <compas.onlinelibrary.wiley.com> [accessed 13 May 2025]
+
 
 Between 1688 and 1820, the number of capital crimes in England and Wales increased exponentially from 50 to over 220.
 
@@ -135,7 +136,7 @@ Looking at figures 5.1 and 5.2 we can see those indictments for crimes against p
 
 "the same word 'capital' has come to mean both crimes punishable by deat[modules](https://github.com/Matt-FTW/dotfiles/tree/main/.config/waybar/modules "modules")h and the accumulation of wealth founded on the produce of previous (or dead) labour might be left to etymologists [...] so exact in expressing the theme of this book" [XVII]
 
-"The Willaimite chttps://github.com/Matt-FTW/dotfiles/tree/main/.config/waybar/modulesrimihttps://github.com/Matt-FTW/dotfiles/tree/main/.config/waybar/modulesnal code established an ever more refined relation between money and the death sentence" [54]
+"The Willaimite criminal code established an ever more refined relation between money and the death sentence" [54]
 
 "larceny is 'grand' when the value of stolen goods exceeds 12d. and petty when the value is less than 12d. Of decisive importance to the life of the offender was thus (1) the physical location of the misapropriated goods and (2) the monetary value of the goods" [54]
 
@@ -146,3 +147,147 @@ Looking at figures 5.1 and 5.2 we can see those indictments for crimes against p
 
 "the english criminal law, in its intebtions at least, was punitive rather than restitutive in character" [141]
 
+
+##### Landau, Norma, _Law, Crime, and English Society, 1660-1830_, 1st ed. (Cambridge University Press, 2002)
+?//
+
+
+##### Seal, Lizzie, '# Criminalisation and the eighteenth-century's 'Bloody Code'', 25 July 2016, <crimeandjustice.org> [accessed 14th May 2025].
+
+"The eighteenth-century criminal law operated as an instrument of terror to subjugate and maintain order among the population."
+
+
+### 🔹 **Michel Foucault**, _Discipline and Punish: The Birth of the Prison_, trans. Alan Sheridan (London: Penguin, 1991):
+
+> **“The public execution is to be understood not only as a judicial but also as a political ritual.”**  
+> 📄 **Page 47**
+
+---
+
+### 🔹 **Émile Durkheim**, _The Division of Labour in Society_, trans. W. D. Halls (Basingstoke: Macmillan, 1984):
+
+> **“Punishment is above all intended to have its effect upon honest people. Its purpose is to act as a visible symbol of the collective conscience.”**  
+> 📄 **Page 108**
+
+
+Durkheim, Emile, _The Division of Labour in Society_ (Macmillan, 1984)
+
+
+### **Introduction**
+
+- **Context**: Briefly explain what the Bloody Code was — a set of laws in 17th–19th century England that made over 200 crimes punishable by death.
+    
+- **Key debate**: Bloody on paper, but how bloody in practice?
+    
+- **Thesis**: The Bloody Code was bloody in **legal scope and symbolic intent**, but in **practice**, it was increasingly **tempered by judicial discretion, social pressures, and reformist tendencies**.
+    
+
+---
+
+### **Paragraph 1: The Expansion of Capital Law – A Bloody Framework**
+
+**Purpose**: Establish that the Code _was_ bloody in legal theory and symbolic power.
+
+- **Point**: The dramatic expansion of capital crimes gave the law a terrifying appearance.
+    
+- **Quote**: “Every page of our statute book smelt of blood.” – _Phillips_.
+    
+- **Evidence**:
+    
+    - 50 capital crimes in 1688 → over 220 by 1820s (Gray; King & Ward).
+        
+    - Capital offences for minor property crimes: stealing over 1s, poaching, cutting down trees.
+        
+- **Analysis**:
+    
+    - Laws disproportionately targeted the poor (Linebaugh: lower classes bore the brunt).
+        
+    - The state used capital law as a **symbol of social control** — particularly to protect property.
+        
+    - Foucault/Durkheim perspective: punishment as a **public spectacle reinforcing order**.
+        
+
+---
+
+### **Paragraph 2: Enforcement in Practice – The Role of Mercy and Discretion**
+
+**Purpose**: Challenge the image of unrelenting bloodshed — show how the Code was mediated by the legal system.
+
+- **Point**: Though laws were severe, enforcement was inconsistent and often lenient.
+    
+- **Evidence**:
+    
+    - **Pardons** were common: judges, juries, and even victims helped reduce capital sentences (Walliss).
+        
+    - Shoemaker & Clayton: **victims often reluctant** to push for death.
+        
+    - Beattie: juries often gave **perverse verdicts** to avoid capital convictions (e.g. reducing theft value).
+        
+- **Quote**: “The law provided the stick, but its wielding was far more tentative.” – _Walliss_ (paraphrased).
+    
+- **Analysis**:
+    
+    - The discretion in practice contrasts with the harshness of the statute.
+        
+    - Reflects a tension between law as deterrent vs law as lived justice.
+        
+
+---
+
+### **Paragraph 3: Transportation and Reform as Alternatives**
+
+**Purpose**: Show that by the late 18th century, alternative punishments were systematically replacing death.
+
+- **Point**: Reformers pushed alternatives to execution, and the legal system adapted.
+    
+- **Evidence**:
+    
+    - Growing use of **transportation to colonies** instead of hanging.
+        
+    - **Handler** on the forgery crisis: public outcry and Whig campaigns led to reduced capital punishment for economic crimes.
+        
+    - Beattie: judges like Sir William Blackstone expressed concern about too many capital offences.
+        
+- **Analysis**:
+    
+    - Emphasise **growing humanitarian movement** and Enlightenment influence.
+        
+    - Bloody Code as a **symbolic vestige** increasingly out of step with moral/legal thinking.
+        
+
+---
+
+### **Paragraph 4: Execution as Spectacle – The “Bloodiness” Remains**
+
+**Purpose**: Reinforce that while death sentences were rare, public hangings retained symbolic importance.
+
+- **Point**: Public executions were still used as **social theatre**, especially for deterrence.
+    
+- **Evidence**:
+    
+    - Linebaugh: executions as “rituals of state power” – meant to terrify and instruct.
+        
+    - Shoemaker & Beattie: executions became more focused on **urban working-class criminals**, reinforcing class discipline.
+        
+    - Gallows built to hang 20+ people at once (Walliss).
+        
+- **Quote**: "The hangman’s noose did not just end lives; it performed power." – _Linebaugh_ (paraphrased).
+    
+- **Analysis**:
+    
+    - Even with pardons and reform, symbolic bloodiness persisted in how the state **performed justice**.
+        
+    - But this was more about **control and fear**, not routine slaughter.
+        
+
+---
+
+### **Conclusion**
+
+- **Restate thesis**: The Bloody Code was undoubtedly _bloody in name and design_, but **its bloodiness was largely symbolic**, used as a **tool of deterrence and control**. In **practice**, mercy, pragmatism, and reformism steadily undermined its severity.
+    
+- **Reflection**:
+    
+    - The real “blood” of the Bloody Code lay not in the number hanged, but in the **fear it instilled** and the **social divisions it upheld**.
+        
+    - Its decline marks a shift in criminal justice from **terror to rehabilitation**.
