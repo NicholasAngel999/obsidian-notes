@@ -132,7 +132,7 @@ from figure 11.1 we can see that from 1710 transportation and imprisonment was t
 Looking at figures 5.1 and 5.2 we can see those indictments for crimes against property was following a similar trend in Surrey and Sussex between the same years [202/203]
 
 
-##### Linebaugh, Peter, _The London Hanged : Crime and Civil Society in the Eighteenth Century_, 2nd ed. (Verso, 2006)[modules](https://github.com/Matt-FTW/dotfiles/tree/main/.config/waybar/modules "modules")
+##### Linebaugh, Peter, _The London Hanged : Crime and Civil Society in the Eighteenth Century_, 2nd ed. (Verso, 2006)
 
 "the same word 'capital' has come to mean both crimes punishable by death and the accumulation of wealth founded on the produce of previous (or dead) labour might be left to etymologists [...] so exact in expressing the theme of this book" [XVII]
 
