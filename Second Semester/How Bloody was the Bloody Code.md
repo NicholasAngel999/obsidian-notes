@@ -145,16 +145,29 @@ Looking at figures 5.1 and 5.2 we can see those indictments for crimes against p
 ##### Sharpe, J. A, _Crime in Seventeenth-Century England : A County Study_ (Cambridge University Press, 1983)
 
 
-"the english criminal law, in its intebtions at least, was punitive rather than restitutive in character" [141]
+"the english criminal law, in its intentions at least, was punitive rather than restitutive in character" [141]
 
 
 ##### Landau, Norma, _Law, Crime, and English Society, 1660-1830_, 1st ed. (Cambridge University Press, 2002)
 ?//
+_“Judges and juries often exercised significant discretion, using legal loopholes and procedural rules to avoid imposing the death penalty except in the most serious cases.”_ (p. 87)
 
 
 ##### Seal, Lizzie, '# Criminalisation and the eighteenth-century's 'Bloody Code'', 25 July 2016, <crimeandjustice.org> [accessed 14th May 2025].
 
 "The eighteenth-century criminal law operated as an instrument of terror to subjugate and maintain order among the population."
+
+
+
+From **J. S. Cockburn, _A History of English Assizes, 1558-1714_ (1972), p. 104**:  
+_“The Bloody Code was designed to terrify and deter by threatening death for a wide range of offences, but in reality judges and juries exercised considerable discretion, often avoiding capital punishment.”_
+
+
+
+##### Gatrell, V. A. C, _The Hanging Tree : Execution and the English People, 1770-1868_ (Oxford University Press, 1996)
+“The gallows lost its monopoly as the symbol of justice.” [p.7]
+
+
 
 
 ### 🔹 **Michel Foucault**, _Discipline and Punish: The Birth of the Prison_, trans. Alan Sheridan (London: Penguin, 1991):
@@ -291,3 +304,14 @@ Durkheim, Emile, _The Division of Labour in Society_ (Macmillan, 1984)
     - The real “blood” of the Bloody Code lay not in the number hanged, but in the **fear it instilled** and the **social divisions it upheld**.
         
     - Its decline marks a shift in criminal justice from **terror to rehabilitation**.
+
+
+
+
+_example conclusion to paraphrase from_
+
+Judges, juries, and even the Crown played pivotal roles in mitigating the law’s harshest outcomes, reflecting a criminal justice system that was not entirely bloodthirsty, but responsive to evolving social pressures and moral concerns.
+
+The role of execution, meanwhile, must be understood less as a reflection of routine violence and more as a symbolic act—one that reinforced state authority and deterred through spectacle rather than frequency. The performative aspect of public hangings, described as judicial rituals, underscores the importance of perception and fear in maintaining social order. Rather than indicating mass brutality, the Bloody Code’s effectiveness often stemmed from its potential violence, not its constant enactment.
+
+Thus, the “bloody” nature of the code may lie more in its symbolic resonance than its actual application. By viewing the code in this way, we can move beyond simplistic interpretations of the eighteenth-century justice system and recognise it as a dynamic institution—one shaped by competing demands for order, justice, deterrence, and mercy. The Bloody Code, then, was not simply an era of legalised cruelty, but a chapter in the broader evolution of law and punishment, where symbolic power, social control, and gradual reform coexisted in a tense and telling balance.
