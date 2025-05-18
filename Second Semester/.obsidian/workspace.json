@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How Bloody was the Bloody Code.md",
+                "file": "Dissertation proposal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How Bloody was the Bloody Code"
+              "title": "Dissertation proposal"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5110321044922,
-    "collapsed": true
+    "width": 239.5110321044922
   },
   "right": {
     "id": "09ff80183222ed7a",
@@ -159,17 +158,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e16d164d1c8d4d69",
   "lastOpenFiles": [
+    "used notes/How Bloody was the Bloody Code.md",
+    "Dissertation proposal.md",
     "home",
     "/home/cole/Documents/obsidian-notes/Second Semester/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Medium.ttf/",
     "/home/cole/Documents/obsidian-notes/Second Semester/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Medium.ttf",
@@ -180,9 +181,7 @@
     "/home/cole/Documents/obsidian-notes/Second Semester",
     "/home/cole/Documents/obsidian-notes",
     "/home/cole/Documents",
-    "/home/cole",
     "Crime and Punishment/Punishment.md",
-    "How Bloody was the Bloody Code.md",
     "Crime and Punishment/The life of a pirate.md",
     "Crime and Punishment/Reading the first.md",
     "Crime and Punishment/women and crime.md",
