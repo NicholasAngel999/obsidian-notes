@@ -315,3 +315,40 @@ Judges, juries, and even the Crown played pivotal roles in mitigating the law’
 The role of execution, meanwhile, must be understood less as a reflection of routine violence and more as a symbolic act—one that reinforced state authority and deterred through spectacle rather than frequency. The performative aspect of public hangings, described as judicial rituals, underscores the importance of perception and fear in maintaining social order. Rather than indicating mass brutality, the Bloody Code’s effectiveness often stemmed from its potential violence, not its constant enactment.
 
 Thus, the “bloody” nature of the code may lie more in its symbolic resonance than its actual application. By viewing the code in this way, we can move beyond simplistic interpretations of the eighteenth-century justice system and recognise it as a dynamic institution—one shaped by competing demands for order, justice, deterrence, and mercy. The Bloody Code, then, was not simply an era of legalised cruelty, but a chapter in the broader evolution of law and punishment, where symbolic power, social control, and gradual reform coexisted in a tense and telling balance.
+
+
+
+Clayton, Mary and Shoemaker, Robert, ‘Blood Money and the Bloody Code: The Impact of Financial Rewards on Criminal Justice in Eighteenth-Century England’, _Continuity and Change_, 37.1 (2022).
+
+
+Michel Foucault, _Discipline and Punish: The Birth of the Prison_ (London: Penguin, 1991).
+
+
+J. S. Cockburn, _A History of English Assizes, 1558-1714_ (1972).
+
+
+Drew Gray, ‘The Decline and Fall of the “Bloody Code”: The Changing Nature of Punishment Policy in the Long Eighteenth Century’, in _Crime, Policing and Punishment in England, 1660-1914_ (Bloomsbury Publishing Plc, 2016).
+
+
+Lizzie Seal, ‘Criminalisation and the Eighteenth-Century’s ‘Bloody Code’’, 25 July 2016, <crimeandjustice.org> [accessed 14 May 2025].
+
+
+J.A, Sharpe, _Crime in Seventeenth-Century England: A County Study_, (Cambridge University Press, 1983).
+
+
+
+Norma Landau, _Law, Crime, and English Society, 1660-1830,_ 1st ed. (Cambridge University Press, 2002).
+
+
+
+J.M, Beattie, _Crime and the Courts in England, 1660-1800,_ (Clarendon, 1986).
+
+
+
+Peter Linebaugh, _The London Hanged: Crime and Civil Society in the Eighteenth Century_, 2nd ed. (Verso, 2006).
+
+
+Emile Durkheim, _The Division of Labour in Society,_ (Macmillan, 1984).
+
+
+John Walliss, 'New Directions in the historiography of the Administration of the Bloody Code', 20 July 2018, <compas.onlinelibrary.wiley.com> [accessed 13 May 2025].
