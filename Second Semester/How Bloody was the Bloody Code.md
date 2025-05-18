@@ -352,3 +352,51 @@ Emile Durkheim, _The Division of Labour in Society,_ (Macmillan, 1984).
 
 
 John Walliss, 'New Directions in the historiography of the Administration of the Bloody Code', 20 July 2018, <compas.onlinelibrary.wiley.com> [accessed 13 May 2025].
+
+
+
+
+
+Bibliography 
+
+Clayton, Mary and Shoemaker, Robert, ‘Blood Money and the Bloody Code: The Impact of Financial Rewards on Criminal Justice in Eighteenth-Century England’, _Continuity and Change_, 37.1 (2022).
+
+  
+
+Foucault, Michel, _Discipline and Punish: The Birth of the Prison_ (London: Penguin, 1991).
+
+  
+
+Cockburn, J.S, _A History of English Assizes, 1558-1714_ (1972).
+
+Gray, Drew, ‘The Decline and Fall of the “Bloody Code”: The Changing Nature of Punishment Policy in the Long Eighteenth Century’, in _Crime, Policing and Punishment in England, 1660-1914_ (Bloomsbury Publishing Plc, 2016).
+
+  
+
+Seal, Lizzie, ‘Criminalisation and the Eighteenth-Century’s ‘Bloody Code’’, 25 July 2016, <crimeandjustice.org> [accessed 14 May 2025].
+
+  
+
+Sharpe, J.A, _Crime in Seventeenth-Century England: A Court Study_ (Cambridge University Press, 1983).
+
+  
+
+Landau, Norma, _Law, Crime and English Society, 1660-1830,_ 1st ed. (Cambridge University Press, 2002).
+
+  
+
+Beattie, J.M, _Crime and the Courts in England, 1660-1800,_ (Clarendon, 1986).
+
+  
+
+  
+
+Linebaugh, Peter, _The London Hanged: Crime and Civil Society in the Eighteenth Century_, 2nd ed. (Verso, 2006).
+
+  
+
+Durkheim, Emile, _The Division of Labour in Society_ (Macmillan, 1984).
+
+  
+
+Walliss, John, ‘New Directions in the Historiography of the Administration of the Bloody Code’, 20 July 2018, <compas.onlinelibrary.wiley.com> [accessed 13 May 2025].
