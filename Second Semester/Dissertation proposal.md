@@ -25,3 +25,55 @@ _de Havilland Mosquito and uses in intelligence systems_
 
 
 
+https://www.dehavillandmuseum.co.uk/dehavilland-aircraft/aircraft-engines/
+
+iwm.org
+
+
+https://www.historyofwar.org/articles/weapons_mosquito_IV.html
+
+https://www.classicwarbirds.co.uk/british-aircraft/de-havilland-mosquito.php
+
+https://www.flight-manuals-online.com/product/de-havilland-dh98-mosquito/
+
+RAF operational records
+- **The National Archives (TNA), Kew**
+
+- **AIR 27** – Squadron Operations Record Books (look at 540, 541, and 544 Squadrons – PRU units)
+    
+- **AIR 28** – RAF Station Records
+    
+- **AIR 29** – Unit histories, especially PRUs
+    
+- **AIR 40** – Intelligence Reports and assessments
+    
+- **AIR 14/3272** – Mosquito tactical assessments
+
+Photographic Reconnaissance Unit Reports 
+- **TNA AIR 40/1672 and related files** – Technical and operational evaluations
+    
+- **IWM Documents** – Firsthand accounts and operational manuals from PRU pilots and technicians
+
+
+Aircraft Modification Records - _RAF Museum Hendon && Science Museum Library_
+- **TNA AVIA 15** – Ministry of Aircraft Production technical records
+    
+- **RAF Museum (Hendon)** – Engineering drawings, aircraft manuals, and modification sheets
+    
+- **Science Museum Library** – Technical documentation, especially camera systems
+
+
+Air Ministry Training and Intelligence Bulletins
+- **TNA AIR 10** – Training manuals
+    
+- **TNA AIR 40/2000+** – Bulletins and guides for photo interpreters
+
+
+Period Technical Manuals and Pilot Notes
+- **RAF Museum or Hendon** – Full technical manuals for PR variants
+    
+- **"Mosquito Pilot's Notes" (Air Ministry-issued 1944–45)** – also available via Osprey or facsimile reprints
+    
+- **Science Museum Group Library & Archives**
+
+new
