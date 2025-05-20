@@ -77,3 +77,28 @@ Period Technical Manuals and Pilot Notes
 - **Science Museum Group Library & Archives**
 
 new
+
+
+# section 2 - Historiography I need to engage with
+---
+
+Andrew, Christopher M, _The Defence of the Realm : The Authorized History of MI5_, Updated [ed.]. (Penguin, 2010)
+
+Keegan, John, *Intelligence in War: Knowledge of the Enemy From Napoleon to Al-Qaeda*, (Random House, 2010)
+
+Goodman, Michael S, _The Official History of the Joint Intelligence Committee. Volume I, From the Approach of the Second World War to the Suez Crisis_ (Routledge, 2014)
+
+Sweetman, John, _Bomber Crew : Taking on the Reich_ (Abacus, 2005)
+
+Hennessy, Peter, ‘The British Secret State Old and New’, _RUSI Journal_, 150.3 (2005), pp. 16–22. 
+
+Cox, Sebastian, and Peter W Gray, _Air Power History : Turning Points from Kitty Hawk to Kosovo_ (Frank Cass, 2002)
+
+Birtles, Philip, *De Havilland Mosquito: The Original Multirole Combat Aircraft*, (Fonthill Media, 2017)
+
+Bowman, Martin. W, *Mosquito Missions: RAF and Commonwealth de Havilland Mosquitoes*, (Pen & Sword Aviation, 2012)
+
+Downing, Taylor, _Spies in the Sky : The Secret Battle for Aerial Intelligence during World War II_ (Abacus, 2012)
+
+Ehlers, Robert, _Targeting the Third Reich : Air Intelligence and the Allied Bombing Campaigns_ (University Press of Kansas, 2009)
+
