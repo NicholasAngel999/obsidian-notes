@@ -102,3 +102,60 @@ Downing, Taylor, _Spies in the Sky : The Secret Battle for Aerial Intelligence
 
 Ehlers, Robert, _Targeting the Third Reich : Air Intelligence and the Allied Bombing Campaigns_ (University Press of Kansas, 2009)
 
+
+
+### 🧠 Step-by-step guide to using your sources:
+
+#### 1. **Group them by theme:**
+
+- **A. British Intelligence & Strategic Thinking:**
+    
+    - Christopher Andrew
+        
+    - Michael Goodman
+        
+    - John Keegan
+        
+    - Peter Hennessy
+        
+- **B. Aerial Reconnaissance & Intelligence Strategy:**
+    
+    - Taylor Downing
+        
+    - Robert Ehlers
+        
+    - Sebastian Cox & Peter Gray
+        
+    - John Sweetman
+        
+- **C. Aircraft Development & the Mosquito:**
+    
+    - Philip Birtles
+        
+    - Martin Bowman
+        
+
+#### 2. **For each group:**
+
+- Identify what the **dominant argument** is.
+    
+- Note any **gaps**, silences, or **underexplored connections** (e.g. the lack of direct analysis on how the Mosquito affected intelligence systems).
+    
+- Emphasise **what your dissertation adds** — linking tech modification to intelligence transformation.
+    
+
+---
+
+### ✍️ Refined Historiography Section (with your sources):
+
+> **Historiography**
+> 
+> Historiography — the study of how historians have interpreted and written about the past — is essential to understanding the relationship between aircraft development and wartime intelligence systems. This dissertation engages with three main bodies of scholarship: the history of British intelligence, studies of aerial reconnaissance and air power, and specialist works on the de Havilland Mosquito. While each contributes important insights, none fully explores how the Mosquito’s technical evolution reshaped Britain’s intelligence-gathering capacities during the Second World War. This dissertation seeks to bridge that gap.
+> 
+> The most substantial body of literature concerns **British intelligence**. Christopher Andrew’s _The Defence of the Realm_ (2010) and Michael S. Goodman’s _The Official History of the Joint Intelligence Committee_ (2014) provide authoritative institutional histories of MI5 and the JIC. Both authors emphasise the increasing professionalisation and strategic influence of intelligence services during the war. However, their focus lies largely on **signals intelligence (SIGINT)** and codebreaking, especially the operations at Bletchley Park, rather than **imagery intelligence (IMINT)** or aerial reconnaissance. John Keegan’s _Intelligence in War_ (2010) is more sceptical about the utility of intelligence overall, arguing that it rarely determines victory on its own. Peter Hennessy (2005) also emphasises the bureaucratic growth of the “secret state,” but with little attention to the technological enablers of intelligence such as aircraft.
+> 
+> In contrast, historians of **aerial reconnaissance and air power** have begun to restore the significance of photographic intelligence. Taylor Downing’s _Spies in the Sky_ (2012) is central here, offering a detailed history of Allied photo-reconnaissance units and the secret work at RAF Medmenham. He identifies the Mosquito’s speed and altitude as decisive for gathering actionable intelligence over enemy territory — yet stops short of analysing how modifications to the aircraft itself made this possible. Robert Ehlers' _Targeting the Third Reich_ (2009) broadens the focus to include air intelligence’s role in bombing campaigns, arguing that successful targeting depended on accurate, timely reconnaissance. Similarly, Sebastian Cox and Peter Gray’s _Air Power History_ (2002) places aerial reconnaissance as a key turning point in 20th-century warfare, though their work remains broad in scope. John Sweetman’s _Bomber Crew_ (2005), meanwhile, offers useful insight into the operational side of air campaigns, revealing how intelligence shaped — and was shaped by — frontline experiences.
+> 
+> Finally, specialist works on the **Mosquito aircraft itself** provide essential technical context. Philip Birtles’ _De Havilland Mosquito_ (2017) and Martin Bowman’s _Mosquito Missions_ (2012) detail the aircraft’s versatility, charting its evolution from bomber to reconnaissance platform to special operations craft. These texts offer detailed accounts of structural changes — such as the replacement of armaments with cameras — but focus more on engineering than on strategic implications. As a result, the crucial link between the Mosquito’s technological adaptability and the intelligence structures that exploited it remains underdeveloped.
+> 
+> This dissertation will situate itself at the intersection of these literatures. It argues that historians have yet to fully explore how aircraft design and intelligence systems co-evolved — particularly in the case of the Mosquito. By examining the aircraft’s technical changes between 1941 and 1945 and their operational implications, this study contributes to a more integrated understanding of wartime innovation. In doing so, it extends recent efforts to reassess the diversity of British intelligence beyond signals work and highlights the central role of aircraft in shaping what wartime intelligence could achieve
