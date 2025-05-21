@@ -63,3 +63,8 @@ This shows there is a gap in the connection between aircraft innovation and wide
 [9](#sdfootnote9anc)Philip Birtles, _De Havilland Mosquito: the Original Multirole Combat Aircraft,_ (Fonthill Media, 2017).
 
 [10](#sdfootnote10anc)Martin W Bowman, _Mosquito Missions: RAF and Commonwealth de Havilland Mosquitoes_, (Pen & Sword Aviation, 2012).
+
+
+
+
+
