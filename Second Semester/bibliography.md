@@ -30,3 +30,7 @@ The National Archive, 'AIR 2/7731', <discovery.nationalarchives.gov.uk> [accesse
 
 British Pathe, 'Mosquito Bomber Production (1943)', <britishpathe.com> [accessed 20 May 2025]. 
 
+Air Corps Library, 'Servicing and Descriptive Handbook for F.B. MK.26 Mosquito', <app.aircorpslibrary.com> [accessed 19 May 2025]. 
+
+Air Corps Library, 'Pilots Notes for Mosquito Marks Vii, XI, & XVI', <app.aircorpslibrary.com> [accessed 19 May 2025]. 
+

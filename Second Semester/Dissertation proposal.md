@@ -237,33 +237,7 @@ As such, there is a gap in connecting aircraft innovation — particularly the M
 - Limitations: technical and complex; must link to operational consequences.
     
 
-#### 🛫 **4. Personnel Diaries, Letters & Memoirs**
-
-- Diaries or memoirs of PRU pilots and intelligence officers:
-    
-    - Example: **Adrian Warburton’s accounts**
-        
-    - Personal collections or IWM archives.
-        
-- Strengths: narrative insight into how aircraft and missions were experienced.
-    
-- Limitations: anecdotal; may exaggerate or understate aspects.
-    
-
-#### 🗃️ **5. RAF Intelligence & Medmenham Reports**
-
-- **Intelligence summaries and photographic interpretation reports** — found in:
-    
-    - **TNA AIR 40 series**
-        
-    - Select files in **CAB** (Cabinet Office) series relating to JIC decisions.
-        
-- Strengths: show how PR imagery from Mosquitoes fed into decision-making.
-    
-- Limitations: scattered across many files, some may be restricted or heavily redacted.
-    
-
-#### 📰 **6. Wartime Press Reports & Propaganda**
+#### 📰 **4. Wartime Press Reports & Propaganda**
 
 - Mosquito coverage in **The Times**, **Flight magazine**, and **RAF wartime newsreels** (British Pathé or IWM).
     
