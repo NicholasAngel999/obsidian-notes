@@ -34,3 +34,5 @@ Air Corps Library, 'Servicing and Descriptive Handbook for F.B. MK.26 Mosquito',
 
 Air Corps Library, 'Pilots Notes for Mosquito Marks Vii, XI, & XVI', <app.aircorpslibrary.com> [accessed 19 May 2025]. 
 
+Imperial War Museum, 'Royal Air Force: Operations by the Photographic Reconnaissance Units, 1939-1945', <iwm.org> [accessed 22 May 2025].
+
