@@ -35,7 +35,8 @@
               "title": "bibliography"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,10 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e16d164d1c8d4d69",
+  "active": "433ede3ceaad7616",
   "lastOpenFiles": [
-    "bibliography.md",
     "Dissertation proposal.md",
+    "bibliography.md",
     "possible help for diss.md",
     "used notes/How Bloody was the Bloody Code.md",
     "home",

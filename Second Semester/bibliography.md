@@ -28,3 +28,5 @@ Imperial War Museum, 'The Mosquito Mark XVI', <iwm.org.uk> [accessed 19 May 2025
 
 The National Archive, 'AIR 2/7731', <discovery.nationalarchives.gov.uk> [accessed 19 May 2025].
 
+British Pathe, 'Mosquito Bomber Production (1943)', <britishpathe.com> [accessed 20 May 2025]. 
+
