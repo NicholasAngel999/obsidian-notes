@@ -246,4 +246,83 @@ As such, there is a gap in connecting aircraft innovation — particularly the M
 - Limitations: filtered through censorship; not always accurate.
 
 
+---
+
+
+
+
+
+**Introduction**
+
+- Briefly introduce the de Havilland Mosquito and its importance.
+    
+- Define key terms (e.g., reconnaissance, intelligence systems).
+    
+- Outline your research question: _How did wartime modifications to the Mosquito change British aerial intelligence gathering between 1942 and 1945?_
+    
+- Explain methodology and scope.
+    
+- Give a brief overview of your chapter structure.
+    
+
+---
+
+**Chapter 1: The Strategic Context of British Aerial Intelligence (1939–1942)**
+
+- Examine the state of British intelligence-gathering before the Mosquito’s widespread deployment.
+    
+- Cover early limitations of photographic reconnaissance using slower aircraft (e.g., Blenheims, Spitfires).
+    
+- Introduce the development of RAF intelligence systems: the creation of PRUs (Photographic Reconnaissance Units), integration with MI4 and Bletchley Park.
+    
+- Argue the need for a faster, higher-flying platform — which set the stage for the Mosquito’s role.
+    
+
+---
+
+**Chapter 2: The Mosquito in Intelligence Roles — Technical Evolution and Tactical Change (1942–1945)**
+
+- Focus on the modifications made to Mosquito variants used for reconnaissance (e.g., PR Mk IV, PR Mk XVI).
+    
+- Use primary sources (manuals, blueprints, aerial photographs) to explore technical changes: camera bay design, pressurized cabins, longer-range fuel tanks.
+    
+- Show how these physical changes enabled new types of missions: deep-penetration recon, low-light/night photography, faster intelligence turnarounds.
+    
+- Argue that these improvements changed not just the aircraft, but RAF intelligence doctrine.
+    
+
+---
+
+**Chapter 3: Case Studies in Action — Mosquito Intelligence and the Shaping of Allied Strategy**
+
+- Present specific intelligence operations where the Mosquito played a critical role: e.g., preparations for D-Day, reconnaissance over Peenemünde, V-1/V-2 site tracking.
+    
+- Use declassified reports, reconnaissance photos, and squadron logs.
+    
+- Evaluate the operational and strategic impact of Mosquito-gathered intelligence.
+    
+- Consider how commanders adapted their tactics based on this new real-time aerial data.
+    
+
+---
+
+**Chapter 4 (Optional): Limitations, Challenges, and Legacy**
+
+- Reflect on the limits of aerial intelligence and the Mosquito’s weaknesses (e.g., weather dependence, camera limitations, vulnerability at low altitudes).
+    
+- Situate the Mosquito’s legacy within postwar aerial reconnaissance — what carried forward into the Cold War era?
+    
+- Touch on how it laid groundwork for future spy aircraft like the English Electric Canberra or U-2.
+    
+
+---
+
+**Conclusion**
+
+- Reiterate your main argument: that the Mosquito, through engineering adaptation, reshaped British aerial intelligence during a critical phase of WWII.
+    
+- Reflect on how airframe innovation enabled doctrinal shifts in intelligence and strategy.
+    
+- Briefly suggest areas for further research (e.g., comparisons with American aircraft, Cold War surveillance developments).
+
 
