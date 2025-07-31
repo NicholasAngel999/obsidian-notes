@@ -34,7 +34,7 @@ Offer not available on new accounts opened before 01 August 2025.
 
 
 
-You could combine these to get:
+# You could combine these to get:
 
 💷 £175 from First Direct (keep for a few months, use for savings)
 
