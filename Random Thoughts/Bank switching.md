@@ -38,6 +38,6 @@ Offer not available on new accounts opened before 01 August 2025.
 
 💷 £175 from First Direct (keep for a few months, use for savings)
 
-🛒 Use Chase as your daily spending card (1% cashback on essentials)
+~~🛒 Use Chase as your daily spending card (1% cashback on essentials)~~
 
 After August 1, open Lloyds Student Account to claim the £100 + £90 Deliveroo
