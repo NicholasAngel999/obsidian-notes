@@ -31,3 +31,13 @@ Offer not available on new accounts opened before 01 August 2025.
 •    Pay in at least £1,500 to their eligible Santander account within 60 days of the initial switch request, which can be done through multiple payments, 
 •    Set up at least two active household Direct Debits within 60 days of the initial switch request, and 
 •    Not have held a Santander current account on 1st January 2025.
+
+
+
+You could combine these to get:
+
+💷 £175 from First Direct (keep for a few months, use for savings)
+
+🛒 Use Chase as your daily spending card (1% cashback on essentials)
+
+After August 1, open Lloyds Student Account to claim the £100 + £90 Deliveroo
