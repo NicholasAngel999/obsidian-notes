@@ -59,11 +59,11 @@ Mosquito is met at air base. Jeep in foreground, as Mosquito takes off. Mosquito
 Video shows the camera kept in a small hatch on the rear right side of the plane, behind wing 
 
 
-<div style="border:1px solid #ccc; padding:10px; text-align:center; width:480px;">
   <a href="https://www.iwm.org.uk/collections/item/object/1060019810" target="_blank">
-    ▶ Watch Mosquito Reconnaissance Footage at IWM
-  </a>
-</div>
+  <div style="border: 3px solid #bd93f9; border-radius: 6px; padding: 12px; text-align:center; width:480px; background-color:#282a36;">
+    ▶ Watch Mosquito Reconnaissance Video (IWM)
+  </div>
+</a>
 <br>
 
 **Catalogue Number - ACA 17**
@@ -96,4 +96,22 @@ Catalogue number -- TR 2788
 
 
 
+<br>
+<br>
+<br>
+
+
+## Mosquito Servicing [Allocated-Title]
+<br>
+<a href="https://www.iwm.org.uk/collections/item/object/1060019798" target="_blank" 
+   style="display:inline-block; text-decoration:none; color:#f8f8f2;">
+  <div style="border: 3px solid #bd93f9; border-radius: 6px; padding: 12px; text-align:center; width:480px; background-color:#282a36;">
+    ▶ Watch Mosquito Reconnaissance Video (IWM)
+  </div>
+</a>
+
+<br>
+
+*video description* <br>
+Mosquitos are prepared for combat, in the hangar and on the tarmac. Two girls put the finishing touches to a perspex cowling; mechanics work on the fuselage; girls hammer oleo legs into shape; a Mosquito is scraped down for painting and the tail is painted, outside on the tarmac; a 4,000 lb bomb is hoisted into the bomb bay; the tail fins are tested - 'Services O.K. 18/4/1944' is written on the propeller blade. A Mosquito taxies; a line of Mosquitos, ready for action, is shown.
 
