@@ -31,24 +31,69 @@ _After the Second World War, although much of the MAPRW print library was gifted
 # International War Museum 
 _search was "Mosquito reconnaissance_
 
+## First Photo
 **Photographs**
 *Good Looks Only Equalled By Efficiency - The RAFs Super-Speed "Mosquito" Reconnaissance Bomber*
 Originally captioned -- "The Mosquito twin-engined R.A.F. reconnaissance bomber, one of the fastest aircraft of its type, has carried the daylight airwar to Germnay. Making long-range attacks without fighter escort, it can outdistance enemy interceptor fighters, as was instanced in the daylight raid on Oslo. it is a weapon which the enemy will find hard to combat. Of simple wooden construction, it has two Rolls Royce engines. Its offensive armament may consists of four 20 mm cannon and four .303 machine guns. Undercarriage and tail wheel units are retractable. It has the de Havilland 3-blade type propeller. Dimensions - span 54 ft. 2 inches : length (overall) 40 ft. 9 1/2 inches : height 15 ft. 3 inches. The de Havilland "Mosquito" R.A.F. reconnaissance bomber in flight."
 
-<a href="https://www.iwm.org.uk/collections/item/object/205447768" target="_blank"> <img src="https://media.iwm.org.uk/ciim5/769/188/mid_CH_007783_1.jpg?action=e&cat=Photographs" alt="GOOD LOOKS ONLY EQUALLED BY EFFICIENCY - THE RAF�s SUPER-SPEED &quot;MOSQUITO&quot; RECONNAISSANCE BOMBER."> </a> <span> <br>GOOD LOOKS ONLY EQUALLED BY EFFICIENCY - THE RAF�s SUPER-SPEED "MOSQUITO" RECONNAISSANCE BOMBER. <a href="https://www.iwm.org.uk/corporate/privacy-copyright">Image: IWM (CH 7783)</a> </span>
+<a href="https://www.iwm.org.uk/collections/item/object/205447768" target="_blank">
+  <img src="https://media.iwm.org.uk/ciim5/769/188/mid_CH_007783_1.jpg?action=e&cat=Photographs"
+       alt="GOOD LOOKS ONLY EQUALLED BY EFFICIENCY - THE RAF’s SUPER-SPEED 'MOSQUITO' RECONNAISSANCE BOMBER."
+       style="border: 3px solid #bd93f9; border-radius: 6px; padding: 4px;">
+</a>
+<span>
+  <br>GOOD LOOKS ONLY EQUALLED BY EFFICIENCY - THE RAF’s SUPER-SPEED "MOSQUITO" RECONNAISSANCE BOMBER.
+  <a href="https://www.iwm.org.uk/corporate/privacy-copyright">Image: IWM (CH 7783)</a>
+</span>
 
 
+## video of mosquito take off/landing camera unloaded
 **Video/Film**
 Photo Reconnaissance Mosquito [Allocated Title]
 
 Mosquito is met at air base. Jeep in foreground, as Mosquito takes off. Mosquito taxiing as jeep is driven past. Jeep meets Mosquito: pilots are driven to base tent. A dispatch rider collects camera from the aircraft
+<br>
+<br>
+<br>
 
 Video shows the camera kept in a small hatch on the rear right side of the plane, behind wing 
 
-<a href="https://www.iwm.org.uk/embed/?id=1060019810&media_id=2387051" taregt="_blank"> <img src="https://www.iwm.org.uk/embed/?id=1060019810&media_id=2387051" height="430" width="480" frameborder="no" scrolling="no"></iframe>
+
+<div style="border:1px solid #ccc; padding:10px; text-align:center; width:480px;">
+  <a href="https://www.iwm.org.uk/collections/item/object/1060019810" target="_blank">
+    ▶ Watch Mosquito Reconnaissance Footage at IWM
+  </a>
+</div>
+<br>
 
 **Catalogue Number - ACA 17**
 *production date - 1944-05-19*
+
+<br>
+<br>
+<br>
+
+
+## De Havilland Mosquito PR XVI, NS787`M', of No 684 Squadron
+ 
+
+
+<a href="https://www.iwm.org.uk/collections/item/object/205018262" target="_blank"> <img src="https://media.iwm.org.uk/ciim5/7/514/mid_000000.jpg?action=e&cat=Photographs" alt="ROYAL AIR FORCE PHOTOGRAPHIC RECONNAISSANCE MOSQUITO IN FLIGHT OVER BENGAL, MARCH 1945" style="border: 3px solid #bd93f9; border-radius: 6px; padding: 4px;"> </a> <br><span> ROYAL AIR FORCE PHOTOGRAPHIC RECONNAISSANCE MOSQUITO IN FLIGHT OVER BENGAL, MARCH 1945 <a href="https://www.iwm.org.uk/corporate/privacy-copyright">Image: IWM (TR 2788)</a> </span>
+
+De Havilland Mosquito PR XVI, NS787`M', of No 684 Squadron, Royal Air Force based at Alipore. The aircraft, piloted by Flight Lieutenant C G Andrews, a New Zealander, is carrying a 100-gallon auxiliary tank under each wing. The natural metal finish plane has dark blue SEAC bands.
+
+Catalogue number -- TR 2788
+
+<br>
+<br>
+<br>
+
+## RAF Mosquito Mark II
+
+*catalogue Number - CH 10329*
+
+<a href="https://www.iwm.org.uk/collections/item/object/205449980" target="_blank"> <img src="https://media.iwm.org.uk/ciim5/772/173/mid_CH_010329_1.jpg?action=e&cat=Photographs" alt="THE R.A.F&#039;s MOSQUITO - MARK II" style="border: 3px solid #bd93f9; border-radius: 6px; padding: 4px;"> </a> <br><span> THE R.A.F's MOSQUITO - MARK II <a href="https://www.iwm.org.uk/corporate/privacy-copyright">Image: IWM (CH 10329)</a> </span>
+
 
 
 
