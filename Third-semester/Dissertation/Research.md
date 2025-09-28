@@ -115,3 +115,15 @@ Catalogue number -- TR 2788
 *video description* <br>
 Mosquitos are prepared for combat, in the hangar and on the tarmac. Two girls put the finishing touches to a perspex cowling; mechanics work on the fuselage; girls hammer oleo legs into shape; a Mosquito is scraped down for painting and the tail is painted, outside on the tarmac; a 4,000 lb bomb is hoisted into the bomb bay; the tail fins are tested - 'Services O.K. 18/4/1944' is written on the propeller blade. A Mosquito taxies; a line of Mosquitos, ready for action, is shown.
 
+**production date -- 1944-04-19**
+
+<a href="https://www.iwm.org.uk/embed/?id=80021043&media_id=104515" target="_blank" style="display:inline-block; text-decoration:none; color:#f8f8f2;">
+  <div style="border: 3px solid #bd93f9; border-radius: 6px; padding: 12px; text-align:center; width:480px; background-color:#282a36;">
+    ▶ Listen To Mosquito DH.98 (IWM)
+  </div>
+</a>
+
+
+[[possible help for diss]]
+
+
