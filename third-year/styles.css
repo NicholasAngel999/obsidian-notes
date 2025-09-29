@@ -1,0 +1,120 @@
+/* Theme variables (soft purple + pastel green) */
+:root{
+  --bg: #f7f6fb;
+  --card: #ffffff;
+  --accent-purple: #8b6eff;  /* soft purple */
+  --accent-green: #9ef7c6;   /* pastel green */
+  --muted: #6b6b7a;
+  --shadow: 0 6px 18px rgba(40,32,80,0.08);
+  --radius: 14px;
+  --max-width: 900px;
+  --gap: 18px;
+  --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Noto Mono", monospace;
+}
+
+/* Base */
+* { box-sizing: border-box; }
+html,body { height:100%; }
+body{
+  margin:0;
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: linear-gradient(180deg,var(--bg), #f1eff9 60%);
+  color:#222;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  padding:30px;
+  display:flex;
+  justify-content:center;
+  align-items:flex-start;
+}
+
+/* Page wrapper */
+.wrap{
+  width:100%;
+  max-width:var(--max-width);
+  display:grid;
+  grid-template-columns: 1fr;
+  gap: var(--gap);
+  align-items:start;
+}
+
+/* Header */
+.page-header{
+  background: linear-gradient(90deg, rgba(139,110,255,0.12), rgba(158,247,198,0.06));
+  padding:22px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(139,110,255,0.06);
+}
+.page-header h1{
+  margin:0 0 6px 0;
+  font-size:1.7rem;
+  color:var(--accent-purple);
+  letter-spacing: -0.5px;
+}
+.small-note{
+  color:var(--muted);
+  font-size:0.95rem;
+}
+
+/* Cards for sections */
+.card{
+  background:var(--card);
+  padding:18px;
+  border-radius:12px;
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(0,0,0,0.04);
+}
+.card h2{
+  margin:0 0 10px 0;
+  color:#3a2f6b;
+  font-size:1.1rem;
+}
+.modules{
+  margin:0;
+  padding-left:18px;
+  color:#222;
+  line-height:1.6;
+}
+.modules li{
+  margin:8px 0;
+}
+
+/* Deadline callout */
+.deadline{
+  border-left:6px solid var(--accent-purple);
+  background: linear-gradient(180deg, rgba(139,110,255,0.04), rgba(158,247,198,0.02));
+  padding:14px 18px;
+  border-radius:10px;
+  display:flex;
+  gap:12px;
+  align-items:flex-start;
+}
+.deadline h3{
+  margin:0;
+  color:var(--accent-purple);
+  font-size:1rem;
+}
+.deadline p{
+  margin:4px 0 0 0;
+  color:var(--muted);
+}
+
+/* Footer */
+.page-footer{
+  text-align:center;
+  color:var(--muted);
+  font-size:0.85rem;
+  padding:6px 0 18px 0;
+}
+
+/* Small utility */
+code{ font-family: var(--mono); background:#f3f3f6; padding:2px 6px; border-radius:6px; font-size:0.92em; }
+
+/* Responsive tweaks */
+@media (max-width:560px){
+  body { padding:18px; }
+  .page-header h1{ font-size:1.4rem; }
+  .card{ padding:14px; }
+  .deadline{ padding:10px; }
+}
