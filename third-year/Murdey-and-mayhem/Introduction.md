@@ -44,3 +44,44 @@ BBC introduced crime stories in the 1920s.
 **Murder (Abolition of Death Penalty) Act (1965)** – not fully abolished at first (suspended), formally abolished in 1969  
 
 
+# US Justice system
+**seperation of powers**
+- The executive 
+- The legislative 
+- The Judiciary 
+
+**Types of law**
+- federal laws 
+    - Bigger crimes not very often
+- State laws
+  - Most managed at state level
+
+Layers of govt. blurred national pciture 
+
+US Judicial system modelled on English Common Law but managed at a state level 
+
+
+# First World War 
+**Global Affairs**
+- US becomes super power 
+- removes spanish influence 
+- Panama canal
+- involved in European conflict 
+
+**Politics**
+- Progressive era 
+  - Interventioalist
+- Consolidation of segregation 
+- Final settling of the West 
+
+**Economics**
+- Economic strength 
+- Largest consumer market 
+- Rise of Fordism/Taylorism 
+  -industrial capitalism 
+
+**Society**
+- Campaign for prohibition
+- Campaign fot Suffrage
+- Wild West 
+- US Cinema Industry
