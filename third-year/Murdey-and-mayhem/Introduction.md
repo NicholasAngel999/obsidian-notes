@@ -85,3 +85,46 @@ US Judicial system modelled on English Common Law but managed at a state level
 - Campaign fot Suffrage
 - Wild West 
 - US Cinema Industry
+
+<br>
+<br>
+
+# Modern Period
+**global affairs**
+- OPEC Crisis
+- Rise of far east states
+- End of Cold War 
+
+**Politics**
+- Nixon and Watergate
+- Raegan years
+- Clinton years 
+- New Republican 1994
+
+**Economics**
+- Eclipse of US industrial Economy 
+- Rise in Silicone Valley 
+  - change in all areas 
+- Growth in US Service Sector
+
+
+**Society**
+- Feminist movement 
+- Conservative revival 
+- Collapse of US inner cities 
+- Domination of US population
+
+# Turning Points in crime 
+- corrupt organisations Act 
+  - first attempt to control the Mafia 
+- Rodney King
+- Crime Bill (1994)
+    - Gun Crime
+    - Drug related crime
+    - Terrorist threat
+
+- Son of Sam 
+- Waco
+- Oklahoma Bombing
+- O.J. Simpson trial 
+- JonBenet Ramsay
