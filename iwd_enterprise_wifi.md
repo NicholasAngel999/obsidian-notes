@@ -1,10 +1,12 @@
 # create enterprise WiFi for iwd
 
+## create the directory and edit the file
+
 sudo mkdir -p /var/lib/iwd
 
-sudo nvim /var/lib/iwd/YourSSID.8021x
----
+sudo nvim /var/lib/iwd/YourSSID.8021x *make sure to change the SSID to the actual WiFi name*
 
+## enter this into the file created
 
 [Security]
 
