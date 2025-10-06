@@ -17,3 +17,13 @@ EAP-Identity=your_username@domain
 EAP-PEAP-Phase2-Method=MSCHAPV2
 
 EAP-PEAP-Password=your_password
+
+
+
+## uni specific set up
+[Security]
+
+EAP-Method=PEAP
+EAP-Identity=cole.sumner23@my.northampton.ac.uk
+EAP-PEAP-Phase2-Method=MSCHAPV2
+EAP-PEAP-Password=SuperBowl@52
