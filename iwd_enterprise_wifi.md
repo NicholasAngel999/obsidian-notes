@@ -3,7 +3,7 @@
 sudo mkdir -p /var/lib/iwd
 
 sudo nvim /var/lib/iwd/YourSSID.8021x
-
+---
 
 
 [Security]
