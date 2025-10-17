@@ -389,6 +389,8 @@ The impending Spanish Armada and fears of Catholic reprisal after the beheading 
 
 
 
+
+
 # AI Summary for whole thing 
 
 ## Thomas Cruso and the Origins of Early Modern Intelligence
@@ -484,3 +486,56 @@ The Peninsular system showed the value of decentralised, flexible intelligence c
 Though still informal, it prefigured the institutionalisation of intelligence in the later 19th century.
 
 The model resurfaced in the Crimean War, proving the adaptability of Wellington’s civilian–military approach.
+
+
+
+# Stephen Alford, The Watchers: A Secret History of the Reign of Elizabeth I (2012), Chapter 16
+## What Drove the English Government’s Need for Intelligence in the 1580s
+
+Political and Religious Background
+
+The execution of Mary, Queen of Scots (1587) fundamentally reshaped England’s political and security landscape.
+
+Although Elizabeth I resisted killing a fellow monarch, pressure from the Privy Council and Parliament forced her hand.
+
+Mary’s involvement in the Babington Plot—a Catholic conspiracy to assassinate Elizabeth—was uncovered by Walsingham’s intelligence network through intercepted correspondence, coded letters, and partial forgery.
+
+This episode demonstrated the power of espionage and entrapment in securing the Protestant regime.
+
+Religious and International Tensions
+
+Mary’s death made King Philip II of Spain both politically emboldened and morally justified (in Catholic eyes) to act against England.
+
+Across Europe, England was portrayed as a heretic state persecuting Catholics, fuelling anti-English sentiment.
+
+The Catholic exiles and Jesuit missionaries, backed by Spain, became perceived as agents of subversion.
+
+Elizabeth’s government now faced a real external and internal Catholic threat, heightening the need for continuous intelligence.
+
+The Spanish Threat
+
+By the mid-1580s, Spanish military activity in the Low Countries and the assassination of William of Orange (1584) under Philip’s orders signalled open hostility.
+
+English policymakers (notably Lord Burghley) believed invasion was imminent, citing multiple plots and Spain’s growing naval power.
+
+The Spanish Armada (launched 1588) became the focus of intelligence operations; though widely known, England still required accurate, timely confirmation of Spanish intentions amid a sea of misinformation and rumour.
+
+Intelligence Operations and Methods
+
+Francis Walsingham expanded his network across Europe, relying on codebreakers and double agents.
+
+Thomas Phelippes, master cryptographer, perfected double-agent techniques, turning Catholic exiles (e.g., Thomas Barnes and Charles Paget) into sources of intelligence and disinformation.
+
+The network’s dual purpose:
+
+Gather real intelligence on Spanish plans and Catholic conspiracies.
+
+Feed false intelligence back to confuse and mislead England’s enemies.
+
+Outcome and Legacy
+
+The Babington Plot and Armada crisis institutionalised intelligence as a core function of Elizabethan governance.
+
+Surveillance, interception, and counter-espionage became essential tools of national defence.
+
+The 1580s thus marked the transformation of espionage from ad hoc diplomacy into systematic state security, laying early foundations for later British intelligence practice.
