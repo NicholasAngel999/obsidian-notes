@@ -1,4 +1,4 @@
-# Reading for post Early Modern Intelligence
+)¬# Reading for post Early Modern Intelligence
 
 ## John Cruso, *Militarie Instructions for the Cavallrie* (1644)
 ---
