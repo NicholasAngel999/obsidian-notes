@@ -157,3 +157,12 @@ This 1909 document reveals that the British departments established the SSB not 
 2. **Impact of Changing Security Needs:**
     
     - The decision to establish the SSB was driven by the recognition that espionage had become a critical aspect of national security. The Bureau was designed to formalize and streamline intelligence operations, setting the stage for the modern intelligence agencies in Britain.
+
+
+
+# defectors 
+number of deserters/defectors 
+- don't get many early on
+- they first suspected the cavalry weren't doing their job - they were killing them 
+
+defector is essentially someone who deserts their own army 
