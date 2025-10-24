@@ -1,7 +1,7 @@
 
 # What does this document tell us about the motives of British government departments when establishing the SSB in 1909?
 
-## 🧭 **Answer: The Motives Behind Establishing the Secret Service Bureau (SSB) in 1909**
+## **Answer: The Motives Behind Establishing the Secret Service Bureau (SSB) in 1909**
 
 The 1909 CID sub-committee paper reveals that the **motives of the British government departments** (the War Office, Admiralty, and Home Office) were driven by a blend of **security concerns, administrative efficiency, and political discretion.**
 
@@ -57,17 +57,17 @@ This indicates that while the departments saw espionage as vital, they also soug
 
 ---
 
-## **🎯 Summary**
+## **Summary**
 
 The document shows that the **British government’s motives** in 1909 were:
 
-|Motive|Evidence from Document|Explanation|
-|---|---|---|
-|**National security**|Concern about German espionage (paras 5–6)|Protect Britain from foreign spies and improve overseas intelligence.|
-|**Administrative coordination**|Complaints about lack of continuity (para 4)|Create a central, permanent bureau to unify War Office and Admiralty efforts.|
-|**Secrecy / plausible deniability**|“To serve as a screen… so no direct evidence” (para 3–4)|Shield officials from direct contact with spies.|
-|**Operational expertise**|Use of detectives and retired officers (paras 8–10)|Combine police and military skill sets.|
-|**Economy**|Budgeting and cost-saving (para 14–15)|Keep the new service small and efficient.|
+| Motive                              | Evidence from Document                                   | Explanation                                                                   |
+| ----------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **National security**               | Concern about German espionage (paras 5–6)               | Protect Britain from foreign spies and improve overseas intelligence.         |
+| **Administrative coordination**     | Complaints about lack of continuity (para 4)             | Create a central, permanent bureau to unify War Office and Admiralty efforts. |
+| **Secrecy / plausible deniability** | “To serve as a screen… so no direct evidence” (para 3–4) | Shield officials from direct contact with spies.                              |
+| **Operational expertise**           | Use of detectives and retired officers (paras 8–10)      | Combine police and military skill sets.                                       |
+| **Economy**                         | Budgeting and cost-saving (para 14–15)                   | Keep the new service small and efficient.                                     |
 
 ---
 
@@ -166,3 +166,5 @@ number of deserters/defectors
 - they first suspected the cavalry weren't doing their job - they were killing them 
 
 defector is essentially someone who deserts their own army 
+
+These deserters are illiterate 
