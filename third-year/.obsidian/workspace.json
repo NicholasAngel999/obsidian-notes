@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a68842be55fb6cd",
@@ -183,11 +182,14 @@
   },
   "active": "393e32c4c1f1f9b4",
   "lastOpenFiles": [
-    "secret-intelligence/Reading for Victorian intelligence.md",
-    "Murdey-and-mayhem/Source Analysis.md",
-    "secret-intelligence/post_early_modern_reading.md",
+    "Murdey-and-mayhem/rise_of_modern_killer.md",
+    "Murdey-and-mayhem/case_study_session.md",
     "Murdey-and-mayhem/Week_2_First_Session.md",
+    "Murdey-and-mayhem/the_moors_murders.md",
+    "Murdey-and-mayhem/Source Analysis.md",
     "Murdey-and-mayhem/Introduction.md",
+    "secret-intelligence/Reading for Victorian intelligence.md",
+    "secret-intelligence/post_early_modern_reading.md",
     "Dissertation/bibliography.md"
   ]
 }
