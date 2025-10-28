@@ -77,3 +77,68 @@ Marshall’s testimony reveals how **definitions of crime and justice are politi
 # Violent crime
 
 
+# Outline of analysis
+---
+### Introduction -- NONE
+~200 words 
+who - Mrs. Lupe Marshall
+when - 1937
+where - Chicago
+Memorial Day Massacre 
+
+introduce broader context of the US labour unrest police suppression of strikes and role of La Follette Committee
+
+
+### Historical Context 
+~ 300/400 words
+
+*Great Depression* - widespread unemployment and union growth 
+
+*Republic Steel Strike (1937)* - Steel workers organising committee - **demanded recognition for their work**
+- Press coverage and photographs shocked the public 
+
+#### La Follette Civil Liberties Committee 
+- formed as a specialised arm of the US Senate to investigate employer and police brutality against labour 
+	- role of policing in this time was seen to be protecting industrial interests over public 
+
+***How does this shape the meaning and reliability of Mrs. Marshall's testimony***
+
+
+### Content Analysis 
+~350/400 words 
+
+examine what the source says and *how* it says it
+
+worth mentioning - graphic violence // dehumanisation // police actions // own victimisation // perspective // imagery 
+
+
+### Explore language 
+~250 words on tone and repetition and use of language
+
+
+### Purpose and audience 
+~250/300 words
+
+who 
+why
+audience -- more limited than thought 
+bias 
+position 
+impact of oath
+
+
+8/9 hold 80% dominance 
+name drops -- important 
+mention cant compare to UK -- Actually say it 
+
+is it trade union dispute or was it racially enforced
+
+9 -- still limited UK comparsion
+
+- **second theme policing??**
+- violence 
+- protest 
+#### Reading
+crime 20th century N America 
+Policing *potentially racism within policing or violence in protest*
+
