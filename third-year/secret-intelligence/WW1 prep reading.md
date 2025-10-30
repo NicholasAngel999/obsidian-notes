@@ -82,6 +82,13 @@ In essence, Boghardt's research reveals that the true story of German espionage 
 
 
 
+- German agents were not above committing serious blunders when gathering intelligence. In late August, a rumour began spreading across the United Kingdom to the effect that a large number of Russian soldiers, having embarked at Archangel, had landed in Scotland and were headed south to relieve the Allies on the Western front.  **92**
+- The rumour of Russian troops moving southwards to relieve the Allies on the Western front started and spread at a time when the German armies had conquered Belgium and seemed on the verge of defeating France. -- **93**
+	- Curiously, German operatives reporting from Britain succumbed to the myth of the Russian troops as readily as many Britons did. On 4 September 1914, naval agent Carl Hans Lody reported that he had sighted Russian troops moving southwards from Scotland,19 although he later admitted that he had not seen the Russians personally, but had only heard about them in his boarding house and the barber shop
+- German military intelligence later concluded that the Allies had launched a successful disinformation campaign.27 This is unlikely, given that many English people believed in the existence of the Russians as well, and the German spymasters found it perhaps more comforting to attribute their agents’ confusion to a concerted enemy effort rather than gullibility. *93*
+- Consequently, the Admiralstab reduced the number of agents for Britain and shifted its attention to the seaports in neutral countries where intelligence on the arrival and departure of Allied and neutral merchant ships could be obtained more easily than in the United Kingdom. Hence, ‘N’ established a marine interrogation service (Schiffsbefragungsdienst) in the Netherlands and Scandinavia.*94*
+- 
+
 
 
 
