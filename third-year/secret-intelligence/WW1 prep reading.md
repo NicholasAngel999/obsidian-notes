@@ -80,17 +80,6 @@ The reality of German covert operations, according to Boghardt, was one of **lim
 In essence, Boghardt's research reveals that the true story of German espionage in WWI is not a thrilling narrative of super-spies, but a more mundane tale of a **poorly executed operation** that was effectively neutralized by a newly formed British counter-intelligence service almost before the war even began.
 
 
-# book quotes
-
-Germany was struggling to find plans to get around Britain's absolutely superior naval forces
-
-Since the Agadir crisis in 1911, Berlin anticipated British hostility in any future major European conflict.1 This scenario proved correct, however the Admiralstab developed its operations planning solely on the assumption of an all-out surface battle between the German and British navies during the first weeks of hostilities.
-
-
-The Imperial Navy entered the war in expectation of a major clash with its British counterpart. German naval intelligence acted accordingly, and ‘N’s first naval agent in Britain after the outbreak of war, Naval Lieutenant Carl Hans Lody, was instructed to report on British losses in such a battle. When this battle failed to materialize, the Admiralstab was compelled to revise its operations planning.
-
-
-For example, the ‘cigar order’ of naval agent Willem Johannes Roos to his spymaster Hilmar Dierks in Holland – ‘Wire lowest rate 10,000 Sumatra ss 2,000 Sumatra A.K. 22,000 mixture C.I.F. Edinburgh’ – was deciphered as: ‘ten battleships and two old cruisers were in or about to leave Edinburgh and there were 22,000 troops.’9 Naval agent Adolf Weiszflog’s ‘order’ to ‘Ship immediately 160 boxes 100 – 2 tins 80 boxes 100 – 4 tins smoked herrings guaranteed good quality’ in reality indicated the presence of sixteen large battleships and eight older destroyers in Edinburgh.10
 
 
 
