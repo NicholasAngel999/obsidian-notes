@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secret-intelligence/WW1 prep reading.md",
+                "file": "Murdey-and-mayhem/The Evolution of Terrorism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WW1 prep reading"
+              "title": "The Evolution of Terrorism"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a68842be55fb6cd",
@@ -181,12 +180,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "df80a49d0d35e468",
+  "active": "393e32c4c1f1f9b4",
   "lastOpenFiles": [
+    "secret-intelligence/WW1 prep reading.md",
+    "Murdey-and-mayhem/The Evolution of Terrorism.md",
     "Pasted image 20251029131142.png",
     "Pasted image 20251029131017.png",
     "seeing_ghosts/Untitled.md",
-    "secret-intelligence/WW1 prep reading.md",
     "Murdey-and-mayhem/Source Analysis.md",
     "Murdey-and-mayhem/rise_of_modern_killer.md",
     "Murdey-and-mayhem/case_study_session.md",
