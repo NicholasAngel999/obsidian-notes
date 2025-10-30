@@ -14,7 +14,15 @@
 
 
 
-# siege of Sidney street 
+### siege of Sidney street 
 
 
+
+# Lockerbie
+It is terrorism 
+- compare it to other 1980 terrorism attacks
+
+
+
+[[gangsters]]
 
