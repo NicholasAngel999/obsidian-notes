@@ -48,3 +48,93 @@
 ### **Policing**
 
 - **Chris A. Williams, _Police and policing in the twentieth century_** (2011): A **focused, modern historical overview** of policing in the 20th century, which will provide necessary institutional context for any event involving police action (like the Memorial Day Massacre).
+
+
+`Source 10 - Policing:`
+C. Emsley, The Great British Bobby: A History of British Policing from the Eighteenth
+Century to the Present (London: Querces, 2010).
+T. Finneran, The History of the Police in the United States of America (Independently
+Published: 2025).
+P. Joyce, Policing: Development and Contemporary Practice (London: Sage, 2011).
+I. McKenzie, Behind the Uniform: Policing in Britain and America (Hemel Hempstead:
+Harvester Wheatsheaf, 1989).
+R.C. Wadman, To Protect and Serve: A History of Police in America (Upper Saddle
+River, N.J: Prentice Hall, 2004).
+
+
+
+
+
+Source 10:
+Policing: Excerpt of Testimony by Mrs Lupe Marshall to the La Follette
+Committee Investigating the Chicago Memorial Day Massacre, 1937.
+Senator LA FOLLETTE. Were you successful in your efforts to get away from the
+police?
+Mrs. MARSHALL. No; I was not. After I evaded these policemen that were immediately
+in front of me . . . . I was aware that my head was bleeding. I noticed that my blouse
+was all stained with blood, and that sort of brought me to, and I started walking slowly
+toward the direction from which a policeman had just clubbed an individual, and this
+individual dragged himself a bit and tried to get up, when the policeman clubbed him
+again. He did that four times.
+Senator LA FOLLETTE. When he was on the ground?
+Mrs. MARSHALL. While he was trying to get up. Every time he tried to get up the
+policeman’s club came down on him. Then he took him by the foot and turned him
+over. When the man finally fell so he could not move, the policeman took him by the
+foot and turned him on his back, and started dragging him. As he turned over, I noticed
+that the man’s shirt was all blood stained here on the side, so I screamed at the
+policeman and said, “Don’t do that. Can’t you see he is terribly injured?” And at the
+moment I said that, somebody struck me from the back again and knocked me down.
+As I went down somebody kicked me on the side here, a policeman kicked me on the
+side here.
+Senator LA FOLLETTE. How can you be sure they were policemen?
+Mrs. MARSHALL. Well, I could see from the sides. I could not identify the particular
+policemen that did it, but I could see their uniforms, and I could see the edges, the
+ends of the clubs from the side of my eyes.
+Senator LA FOLLETTE. Go ahead.
+Mrs. MARSHALL. So, after he kicked me I tried to get up, and they hit me three times
+across the back, and then somebody picked me up and took me to the patrol wagon.
+As we were walking along to the patrol wagon I noticed men lying all over the field.
+Some of them were motionless. Some were groaning, but nearly all of those that were
+lying down had their heads covered with blood, and their clothing was stained with
+blood. They took me to one patrol wagon, and as I was walking toward it the policeman
+is dragging me by the arm. As I was walking toward it, one man that I presumed was
+a newspaper reporter asked my name...
+Mrs. MARSHALL. ...and I said “Lupe Marshall”, and I gave him my address as quickly
+as I could, and I was about to give him my telephone number when he twisted me
+14
+around and he said, “Come on, get going!” And as we approached the patrol wagon I
+noticed that it was full, so they said, “No, we can’t get her in there.”
+Then they took me to the other patrol wagon, and that patrol wagon was filled also, so
+they took me to a distance and at that moment a patrol wagon drove in, or got into
+position, but it was in motion, and it stopped right in front of us, and they opened the
+door, and I was going to step in. I had one foot on the step when a policeman put his
+hand on my back, on my buttocks, and shoved me in there, so that if I had not put my
+hands across my face I would have struck the grating of the window in the front of the
+patrol wagon in there. After I poised myself I walked over in the wagon and sat next to
+the door, and observed out as much as I could. When the policemen started to pick
+up those men that had been lying approximately where I had been standing when the
+thing started, they started bringing them in by their feet and their hands, half dragging
+them and half picking them up, and there was one man that they brought, the first one
+that they put in the wagon, he was a heavy set fellow. He weighed about 200 pounds,
+blonde fellow. They grabbed him, and shoved him in the wagon...and I noticed that he
+had two red stains about the size of a penny, one on the upper side of his abdomen
+and one lower, and immediately after that other policemen started bringing the other
+wounded men, and that is the confusion in which they threw every one of the men that
+were in the wagon with me. None of the men that were in the wagon with me were
+able to sit up. None of them sat on the benches. I had to lift my feet up on to the bench
+to allow them to put the men in there.
+Senator LA FOLLETTE. Did they pile them one on top of another.
+Mrs. MARSHALL. They piled them one on top of the other. There were some men who
+had their heads underneath others. Some had their arms all twisted up, and their legs
+twisted up, until they filled the wagon up, and one man said, “Well, I guess that’s all”,
+and they shut the door.
+Senator LA FOLLETTE. How many would you say were in the patrol wagon at this
+time?
+Mrs. MARSHALL. 16 men—16 men, besides myself.
+Senator LA FOLLETTE. Were there any others seriously wounded in the wagon?
+Mrs. MARSHALL. They were all seriously wounded. On the way to the hospital—
+Senator LA FOLLETTE. Just a moment. Had any of them, could you see, received
+any first aid?
+Mrs. MARSHALL. No; none of them, because I saw where they were picking them up
+from. They were picking them up from the original position in which they laid there.
+They were bringing them into the wagon
