@@ -143,3 +143,28 @@ They were bringing them into the wagon
 
 # David Garland, _The Culture of Control: Crime and Social Order in Contemporary Society_ (2002)
 
+"so how did the social changes of the late modernity come to impress themselves upon the field of crime control and criminal justice? Not directly to be sure, but through a series of accommodations and adjustments undertaken by various agencies in response to the specific pressures, problems or opportunities that these agencies encountered" - *103*
+
+
+- Police departments across the USA responded to this crisis by seeking to professionalize themselves, by investing in the hardware and information systems... The outcome... was a motorized police force, withdrawn from close community involvement (to avoid charges of corruption), and intent on providing a 'rapid response' in answer to emergency call-outs from the public.*p. 114*,
+	- **"This defines the ""Professional Model"" of the mid-century: a focus on technology, rapid response, and distance from the public. Marshall's testimony proves this model was either a failure or a false front, as police maintained political bias and brutality despite the supposed ""professionalization.**
+- The police have been on the frontline of this losing battle... where increased crime complaints, allegations of widespread corruption, and a series of urban riots and political demonstrations combined to reduce the legitimacy of the police...*,p. 114* 
+	- **This shows that even the pursuit of professionalism in the 1960s was an adaptive response to a crisis of legitimacy, indicating the ideal was already failing due to corruption (the same corruption Marshall witnessed in 1937, albeit focused on labor).**
+
+
+- The state's claims have become more modest and more hesitant... there was clear sense of the failure of criminal justice agencies, a new focus upon their limitations, and a much more restricted sense of the state's power to regulate conduct and prevent crime*p. 108* 
+	- **"This describes the predicament that caused the shift: The state publicly admitted its limits. To compensate for this weakness, politicians turned to highly visible, symbolic punitive acts (the ""acting out"" response) to prove they were still ""in control.**
+- It is here that we see most clearly the myth of the sovereign state and its resilience in the face of all contrary evidence. For political actors... the essential and abiding attractiveness of the 'sovereign' response to crime (and above all of retaliatory laws that create stronger penal sanctions or police powers) is that it can be represented as an immediate, authoritative intervention. *p. 134* 
+	- **"This is one of your most powerful quotes. It connects the political desire for visible sovereign power to the use of punitive force. The 1937 Massacre was a literal ""sovereign act"" of force against political opposition. Garland explains the political reason this kind of power is so attractive to the state.**
+- ...the politician and the administrator... the scope and conditions for action in each case are quite different, as are their guiding rationalities, values, and interests. As we will see, these positional differences have shaped the different ways in which the predicament of crime control has been handled, and produced serious tensions *p. 112* 
+	- **This justifies your focus on policing. The conflict between the pragmatic administrator (who seeks efficiency) and the politician (who seeks electoral advantage through populist punitiveness) is central to why police action often appears contradictory (professional standards vs. brutal execution).**
+
+
+
+- This political reaction has become more pronounced as the conditions of political speech have changed over time... government and opposition parties competed to establish their credentials as being tough on crime, concerned for public safety, and capable of restoring morality, order and discipline... *p. 131* 
+	- **"This describes the late 20th-century political culture that officially endorsed the punitive mindset. You can argue that Marshall's 1937 experience was an unauthorized punitive act by police against workers, but by the 1980s, the state was officially competing to be punitive against urban minorities—a shift in target, but not in underlying punitive intent.**
+- In penal policy as in welfare policy, the imperative was the re-imposition of control, usually by punitive means. In both cases the population singled out as being most in need of control was composed of the welfare poor, urban blacks, and marginalized working-class youth.*,p. 132* 
+	- **"This is the shift in the target of control. In 1937, the target was ""marginalized working-class"" labor organizers; by the 1980s, the target had expanded. The consistent theme is the use of punitive measures against marginalized groups perceived as a threat to social order."**
+
+
+
