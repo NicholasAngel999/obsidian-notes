@@ -200,4 +200,5 @@ They were bringing them into the wagon
 
 
 - As of 1933, the U.S. murder rate stood at 9.3 per 100,000 annually; in 1993 it was 9.5. But figures dropped sharply in between to 4.5 in the 1950s at the height of the urban industrial revolution. *191*
+- The legal definition of "homicide" has not much changed since the Middle Ages: nothing more complex than the (in varying degree) unjustified killing of one human being by another. But its practical definition has varied greatly over time. *194*
 - 
