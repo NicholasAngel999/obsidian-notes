@@ -144,3 +144,11 @@ Policing *potentially racism within policing or violence in protest*
 
 
 
+# Essay Plan 
+
+start with definitions 
+The Punitive Model (Garland, Marshall Testimony) views crime as a moral evil to be suppressed by force and exclusion, prioritizing political spectacle (populism) and the incapacitation of marginalized populations.
+
+The Counter-Argument (Public Health, Professional Ideal) views crime as a social pathology or public health epidemic to be reduced by rational intervention, prioritizing scientific diagnosis of root causes and long-term community rehabilitation.
+
+1. 
