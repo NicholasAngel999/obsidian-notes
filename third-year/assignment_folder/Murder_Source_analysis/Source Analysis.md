@@ -193,3 +193,11 @@ They were bringing them into the wagon
 	- **"Explicitly identifies the target. The fear of the ""undeserving poor"" and the ""underclass"" replaces the fear of the ""labor agitator"" from 1937, but the punitive institutional response remains focused on using the police to manage class and racial anxiety."**
 
 
+
+
+# Lane, Roger, ‘Murder in America: A Historian’s Perspective’, Crime & Justice (Chicago, Ill), 25 (1999), pp. 191–224, doi:10.1086/449289
+
+
+
+- As of 1933, the U.S. murder rate stood at 9.3 per 100,000 annually; in 1993 it was 9.5. But figures dropped sharply in between to 4.5 in the 1950s at the height of the urban industrial revolution. *191*
+- 
