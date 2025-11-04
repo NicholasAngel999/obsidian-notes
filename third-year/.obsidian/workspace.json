@@ -35,8 +35,7 @@
               "title": "Source Analysis 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,10 +195,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6518a7c9b5365cc2",
+  "active": "393e32c4c1f1f9b4",
   "lastOpenFiles": [
-    "assignment_folder/Murder_Source_analysis/Source Analysis.md",
     "assignment_folder/Murder_Source_analysis/Source Analysis 1.md",
+    "assignment_folder/Murder_Source_analysis/Source Analysis.md",
     "secret-intelligence/First World War continued.md",
     "secret-intelligence/WW1 prep reading.md",
     "Murdey-and-mayhem/gangsters.md",
