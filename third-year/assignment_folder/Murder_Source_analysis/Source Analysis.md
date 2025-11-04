@@ -201,4 +201,9 @@ They were bringing them into the wagon
 
 - As of 1933, the U.S. murder rate stood at 9.3 per 100,000 annually; in 1993 it was 9.5. But figures dropped sharply in between to 4.5 in the 1950s at the height of the urban industrial revolution. *191*
 - The legal definition of "homicide" has not much changed since the Middle Ages: nothing more complex than the (in varying degree) unjustified killing of one human being by another. But its practical definition has varied greatly over time. *194*
-- 
+- Shift in Fear (The New Crime Problem),*"""The kinds that really frighten us are stranger murders, those committed in the course of other crimes, such as robbery or rape, especially those that strike apparently at random... And it is precisely these kinds of murders that have risen...""*(p. 208)",
+	- **"Significance of Crime in N. America: Lane defines the crime problem that fueled the punitive model. The police's job shifted from dealing with ""slam dunk"" domestic cases to targeting the ""scary"" stranger crime. This justified aggressive, highly visible police tactics like stop-and-frisk, as the public demanded protection from the ""random"" violence Lane describes, fitting perfectly with Garland's ""Culture of Control"" driven by pervasive fear."**
+- Limited Police Success (The Clearance Rate),*"""A domestic murder or tavern brawl was and is a 'slam dunk' for an experienced detective, and as a result the rate of police 'clearance by arrest' for murder averaged nationally over 90 percent during the 1950s. But it dropped under 80 percent in the 1970s and has fallen well under 70 percent during the 1990s."" (p. 209)"*
+	- **"Significance to Policing: This provides quantitative proof of the failure of the Professional Ideal. The drop in the clearance rate from 90% in the 1950s to under 70% in the 1990s demonstrates that the police were losing the fight against the ""new"" scary categories of murder. This quantitative failure created the institutional crisis that Garland says politicians exploited to introduce the punitive model, arguing the police were ineffective and needed a radical ""get tough"" approach."**
+
+
