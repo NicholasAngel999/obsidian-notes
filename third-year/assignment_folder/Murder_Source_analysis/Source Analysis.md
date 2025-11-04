@@ -168,3 +168,28 @@ They were bringing them into the wagon
 
 
 
+
+- High rates of crime have become a normal social fact... an integral part of social organization. *p. 147* 
+	- **"Defines the Crime in 20th C N America context. You can argue that the brutal force Marshall experienced (1937) was an acute response, but by the late 20th century, the threat of crime itself became a chronic social fact that drove political support for the punitive model."**
+- The myth that the sovereign state is capable of delivering 'law and order' and controlling crime within its territorial boundaries... [was] eroded... *p. 147* 
+	- **"Directly relates to the theme of Policing and the failure of the professional model. When the state (including the police) couldn't deliver on its professional promise to control crime, it lost legitimacy. This forces it to revert to symbolic, punitive acts to reassert its sovereignty."**
+- The pursuit of freedom—moral freedom, market freedom, individual freedom—brings with it the risk of insecurity and the temptation to respond with repression. *p. 157* 
+	- **"Excellent theoretical link. The rise of neoliberal society (market freedom) caused social inequality and disorder, which then created new groups (the ""underclass"") as targets for punitive repression by the police."**
+
+
+
+- The third feature of this strategy is that it purports to give a privileged place to victims... The naming of criminal laws and penal measures for crime victims (Megan’s law, Jenna’s law...) *p. 143* 
+	- **"Shows the political mechanism for justifying punitive laws. You can contrast this late 20th-century political sanctification of the victim with the 1937 reality, where police actively injured and suppressed the victim (Lupe Marshall) to protect corporate power."**
+- The symbolic figure of the victim has taken on a life of its own... His or her suffering is represented in the immediate and personalized idiom of the mass media, and speaks directly to the fears and angers of the viewing public... *p. 144* 
+	- **"Essential for linking Crime in N. America to the media/public anxiety that supports punitive policing. The police's job shifts from impartial law enforcement to expressing public rage against the ""criminal other."**
+- The police are on now a 'war footing' with respect to crime, and exercise direct control over sentencing levels, the system is set up to produce an instant response. *(Quoting Chapter 5, but highly relevant here)",p. 133* 
+	- **(from Chapter 5),"This idea is reinforced by Chapter 6, which argues that the state's ""War on Crime"" rhetoric (p. 132) is directly tied to the political need to be seen acting tough. This is the punitive mode in action, prioritizing an ""instant response"" (arrests, stop-and-frisk) over professional, long-term community work."**
+
+
+
+- The open, porous, mobile society of strangers that is late modernity has given rise to crime control practices that seek to make society less open and less mobile: to fix identities, immobilize individuals, quarantine whole sections of the population, erect boundaries, close off access. *p. 165* 
+	- **"This is the ultimate goal of the punitive turn: social exclusion. You can argue that in 1937, the police sought to exclude workers from the mill and public space. By the late 20th century, this tactic was applied against the ""underclass"" using mass incarceration and aggressive street policing."**
+- The undeserving poor are feared and resented... The pursuit of freedom—moral freedom, market freedom, individual freedom—brings with it the risk of insecurity and the temptation to respond with repression *p. 157 
+	- **"Explicitly identifies the target. The fear of the ""undeserving poor"" and the ""underclass"" replaces the fear of the ""labor agitator"" from 1937, but the punitive institutional response remains focused on using the police to manage class and racial anxiety."**
+
+
