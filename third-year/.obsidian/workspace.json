@@ -35,8 +35,7 @@
               "title": "Source Analysis 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +195,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6518a7c9b5365cc2",
+  "active": "df80a49d0d35e468",
   "lastOpenFiles": [
-    "assignment_folder/Murder_Source_analysis/Source Analysis.md",
     "assignment_folder/Murder_Source_analysis/Source Analysis 1.md",
+    "assignment_folder/Murder_Source_analysis/Source Analysis.md",
     "seeing_ghosts/Mummies and curses.md",
     "secret-intelligence/First World War continued.md",
     "secret-intelligence/WW1 prep reading.md",

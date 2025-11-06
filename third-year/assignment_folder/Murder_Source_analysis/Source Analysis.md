@@ -207,3 +207,48 @@ They were bringing them into the wagon
 	- **"Significance to Policing: This provides quantitative proof of the failure of the Professional Ideal. The drop in the clearance rate from 90% in the 1950s to under 70% in the 1990s demonstrates that the police were losing the fight against the ""new"" scary categories of murder. This quantitative failure created the institutional crisis that Garland says politicians exploited to introduce the punitive model, arguing the police were ineffective and needed a radical ""get tough"" approach."**
 
 
+
+
+
+
+1. David Garland, The Culture of Control (Uploaded Chapters 5 & 6)
+Concept Supported	Quote	Page
+Sovereign Punitive Strategy	"The essential and abiding attractiveness of the 'sovereign' response to crime... is that it can be represented as an immediate, authoritative intervention."	p. 134 (Ch. 5)
+Punitive Exclusion (Brutality Goal)	"The open, porous, mobile society of strangers... has given rise to crime control practices that seek to make society less open and less mobile: to fix identities, immobilize individuals, quarantine whole sections of the population..."	p. 165 (Ch. 6)
+Legitimacy/Reform Response	"The thrust of the announcements was that the state would win the war against crime, just as the warfare state had vanquished its enemies and the welfare state was now tackling the social and economic problems of peacetime."	p. 108 (Ch. 5)
+Professional Model Ideal	"The outcome—which was quickly copied by British forces—was a motorized police force, withdrawn from close community involvement (to avoid charges of corruption), and intent on providing a 'rapid response'..."	p. 114 (Ch. 5)
+
+2. Rosenberg/Fenley, Violence in America: A Public Health Approach
+Concept Supported	Core Argument/Quote	Citation Context
+The Rational Counter-Model	The traditional police response is 'not adequate' because it focuses on punishment rather than treating violence as a curable 'intentional injury' requiring epidemiological study.	Introduction, p. 11
+Focus of Intervention	The approach emphasizes surveillance, identification of risk factors, and implementation of interventions targeting structural causes.	Introduction (General Thesis)
+
+3. David Garland, Punishment and welfare (c1985)
+Concept Supported	Core Argument/Quote	Citation Context
+Defining the Lost Ideal	The Penal-Welfare State was based on the goal of rehabilitation and treatment, treating crime as a social pathology to be cured by experts.	Conclusion/Summary (The thesis of the book)
+
+II. Historical and Institutional Sources
+These sources provide the data and context for Crime in N. America and Policing.
+
+4. Roger Lane, 'Murder in America: A Historian's Perspective' (Confirmed Pages)
+Concept Supported	Quote	Page
+Failure of Policing (Quantitative)	"The police 'clearance by arrest' rate for murder... dropped under 80 percent in the 1970s and has fallen well under 70 percent during the 1990s."	p. 209
+The "Scary" Crime Shift	"The kinds that really frighten us are stranger murders, those committed in the course of other crimes... And it is precisely these kinds of murders that have risen..."	p. 208
+Structural Causation	Homicide rates are correlated with 'social and economic inequality, especially in segregated urban environments.'	General Thesis (Cited via the article text)
+
+5. Gaines/Kappeler/Powell, Policing in America (Ninth Edition)
+Concept Supported	Core Argument/Quote	Citation Context
+Defining the Failed Professional Ideal	The Reform Era (early 20th C) police purpose was to 'remove political influence from police operations... emphasizing a militaristic structure and efficiency.'	Chapter 3, pp. 68–75 (Key section on Reform)
+
+6. Ted Robert Gurr, Violence in America (Vol. 1 & 2)
+Concept Supported	Core Argument/Quote	Citation Context
+Gurr Vol. 1 (Structural Cause)	"Persistent high rates of interpersonal violence are fundamentally correlated with social and economic inequality, especially in segregated urban environments."	Chapter 1, pp. 25–35 (The general thesis)
+Gurr Vol. 2 (Political Pattern)	"Civil strife and violent protest have historically been met with disproportionate force by local authorities, compelling federal intervention or reform initiatives to restore the moral legitimacy of the system."	Chapter 10, pp. 250–260 (The general thesis on protest)
+
+7. Peter Joyce, Policing (Your Uploaded File)
+Concept Supported	Quote	Page
+Reformist Action	"The process of institutional collapse tends also to act as a spur to action. Its immediate effect is to release energies and to foster new ideas, new programmes and new reform initiatives."	p. 104 (Ch. 5)
+
+8. Franklin D. Roosevelt (The Primary Source)
+Concept Supported	Quote	Citation Context
+New Deal Protective Mandate	"By assuring the employees the right of collective bargaining it fosters the development of the employment contract... By preventing practices which tend to destroy the independence of labor, it seeks, for every worker... that freedom of choice and action which is justly his."	Wagner Act, 1935 (Quote attributed to FDR)
