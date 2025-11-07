@@ -124,3 +124,7 @@ Tracking supply lines and munitions stockpiles.
 Locating the resting and reinforcement areas for German units.
 
 Risk: Agents in this role faced extreme danger, risking capture, interrogation, and execution by German forces, as highlighted by the high stakes of espionage operations in occupied Western Europe.
+
+
+
+[[telegrams_and_spies]]
