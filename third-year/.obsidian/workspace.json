@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assignment_folder/Murder_Source_analysis/Source Analysis 1.md",
+                "file": "secret-intelligence/6B FWW readings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Source Analysis 1"
+              "title": "6B FWW readings"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a68842be55fb6cd",
@@ -195,9 +195,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "df80a49d0d35e468",
+  "active": "6518a7c9b5365cc2",
   "lastOpenFiles": [
+    "Pasted image 20251107082536.png",
     "assignment_folder/Murder_Source_analysis/Source Analysis 1.md",
+    "secret-intelligence/6B FWW readings.md",
     "assignment_folder/Murder_Source_analysis/Source Analysis.md",
     "seeing_ghosts/Mummies and curses.md",
     "secret-intelligence/First World War continued.md",

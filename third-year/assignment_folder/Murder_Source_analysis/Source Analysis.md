@@ -252,3 +252,17 @@ Reformist Action	"The process of institutional collapse tends also to act as a s
 8. Franklin D. Roosevelt (The Primary Source)
 Concept Supported	Quote	Citation Context
 New Deal Protective Mandate	"By assuring the employees the right of collective bargaining it fosters the development of the employment contract... By preventing practices which tend to destroy the independence of labor, it seeks, for every worker... that freedom of choice and action which is justly his."	Wagner Act, 1935 (Quote attributed to FDR)
+
+
+
+Concept SupportedQuoteSource & PageThe Official Positive Image"Opinion polls and our own survey show that the vast majority of Americans rate the police favorably in general terms... These shows typically present the police in a sympathetic light, even when they act aggressively or improperly against citizens."police-misconduct.pdf, p. 39 and police-minority-relations-in-america.pdf, p. 1The Contradiction of Mission"It may be precisely this sense of mission, this sense of being a 'thin blue line' pitted against forces of anarchy and disorder, against an unruly and dangerous underclass, that can account for the most shocking abuses of police power."police-misconduct.pdf, p. 46Institutional Cover-Up"The officers implicated are rarely punished in civil cases... Taxpayers are penalized, not the deviant officers."reforming-the-police.pdf, p. 129II. Quotes on the Reality (The Brutal Lived Experience)These quotes prove that the violence Marshall witnessed is not an isolated incident but part of a continuous pattern against marginalized groups.Concept SupportedQuoteSource & PageThe Disparity is Real (Minority Experience)"Blacks are the most likely to believe that each type of misconduct occurs frequently in their city, whites are the least likely, and Hispanics fall between the two groups."police-misconduct.pdf, p. 50 (See Figure 2.1)Brutality as an Institutional Pattern"In high-crime neighborhoods, police may regard Hispanics and blacks as being 'out of place' and more 'suspicious'... Police appear to cast a wide net of suspicion in neighborhoods that they view as especially troublesome, resulting in more aggressive and indiscriminate treatment of residents."police-misconduct.pdf, p. 56 and p. 72The "Rotten Barrel" Thesis"Police chiefs typically take the rotten apple approach when confronted with allegations of misconduct, whereas African Americans and Hispanics are more likely to believe that the barrel is rotten."police-misconduct.pdf, p. 53
+
+
+
+
+# Miron, Jeffrey A, ‘Violence and the U.S. Prohibitions of Drugs and Alcohol’, American Law and Economics Review, 1.1/2 (1999), pp. 78–114, doi:10.1093/aler/1.1.78
+
+
+ The results show that expenditure for enforcement of alcohol and drug prohibition have been positively associated with the homicide rate in the U.S., consistent with the view that increased prohibition enforcement encourages the substitution of violent for nonviolent dispute-resolution mechanism *p.80*
+
+

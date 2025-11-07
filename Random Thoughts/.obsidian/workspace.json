@@ -13,7 +13,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Sentinel66_145619358.pdf"
+                "file": "Sentinel66_145619358.pdf",
+                "page": 1,
+                "left": -19,
+                "top": 784,
+                "zoom": 0.849264705882353
               },
               "icon": "lucide-file-text",
               "title": "Sentinel66_145619358"
@@ -76,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c7e48b47fa97ebd5",
@@ -164,7 +169,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f96eee0ca1936e67",
