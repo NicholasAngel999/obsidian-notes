@@ -18,3 +18,16 @@
 - 
 
 
+## Natale, Simone, ‘The Medium on the Stage: Trance and Performance in Nineteenth-Century Spiritualism’, Early Popular Visual Culture, 9.3 (2011), pp. 239–55.
+### Sides with the performative spectacle / entertainment 
+
+- The intermingling of religion and entertainment can thus be seen as one of the defining characteristics of the spiritualist experience - **pg. 2**
+- Séances were meant not only as moments of religious and scientific inquiry, but also as "a brilliant amusement where theatrical effects embellished an exciting shared experience." - **pg. 2**
+- "nineteenth-century mediums can be regarded as a class of professional performers who, through the phenomenon of trance, shaped a complex dramatic space where theatrical performance mingled with claims of passivity and authenticity." - **pg. 2**
+- Spiritualism "offered entertainment by encouraging believers and non-believers to test its truth." - **pg. 3**
+- The state of trance "strengthened spiritualism’s claims of authenticity by recalling the principles of automatism, creative absorption, and rêverie." - **pg. 4-5**
+- "The intermingling of performance and claims of authenticity, of spectacle and religious experience, is not a contradiction in spiritual séances: on the contrary, it represented the very core of the spiritualist experience." - **pg. 3**
+- By employing an "aesthetics of absorption," mediums made the sitters oblivious to their role as viewers and spectators. - **pg. 15**
+
+
+
