@@ -16,3 +16,5 @@
 - The illusion was not produced in real time through mirrors or hidden projections, the ghostly illusions were conjured with the photographic medium. The effect, however, was no less spectacular. - **pg. 161**
 - The appeal of such demonstrations was based on the delight of examining them for truth and humbug... - **pg. 79**
 - 
+
+
