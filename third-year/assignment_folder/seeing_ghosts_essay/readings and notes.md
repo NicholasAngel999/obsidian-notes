@@ -91,3 +91,29 @@
 
 
 
+## Strange, Julie-Marie, Death, Grief and Poverty in Britain, 1870-1914 , 1st ed. (Cambridge University Press, 2005)
+
+
+### chapter 4
+- "A cheap funeral with no flowers and a plain box for a coffin would have made it clear to the world that the corpse went unloved and unhonoured to the grave." *pg. 98*
+- "For the working classes, however, pursuit of such customs could lead to financial ruin." *pg. 98*
+- "The preoccupation with respectability and extravagance has encouraged a tendency for contemporary and historical commentaries on the funeral to focus exclusively on secular rituals of mourning as opposed to the burial service and the spiritual beliefs invested in the disposal of the dead." - *pg. 100*
+
+
+### chapter 5 
+- "The pauper funeral 'became the final stamp of failure'. In contrast, the private grave signified cultural membership..." - *pg. 131*
+- "Antipathy to the pauper grave... was rooted largely in the body-snatching scandals which culminated in the passage of the Anatomy Act 1832." - *pg. 131*
+- "The dishonour of pauper burial was inextricable from the anonymity of the grave, the inability to claim ownership of the dead and the denial of mourning rites." - *pg. 132*
+
+
+### chapter 7 
+- "It is impossible to disentangle financial anxiety from wider issues, such as sorrow for a lost relationship, crushed dreams, shattered homes and families, and broken routines and identities." - *pg.195*
+- "Grief was manifest in diverse ways... Grief could be articulated through a multitude of signs: through physical symptoms (such as weight loss or nightmares); acts of commemoration; attempts to contact the dead..." - *pg. 195*
+- "The desire to feel the presence of the dead required little proof of an afterlife when it allowed the bereaved to feel that death had not severed the relationship with the deceased, but, rather, repositioned it within a new context." - *pg. 221*
+
+
+### chapter 8
+- "Infant mortality... occurred with such frequency... that working-class parents were thought to have acquired a degree of immunity towards these deaths..." - *pg. 230*
+- "Parents may have referred to child death in languages of pragmatism and resignation. Such expressions were easily mistaken for flippancy or hard-heartedness." - *pg.260*
+
+
