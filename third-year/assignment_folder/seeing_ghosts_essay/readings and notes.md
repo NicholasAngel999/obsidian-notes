@@ -39,4 +39,6 @@
 - "These are not conditions conducive to sharp sight and logical judgement, but they make the work of the medium easy. In this abnormal state of the subjects the sensorial is almost at the mercy of the preperceptive element." - **pg. 140**
 - "The contrast between the credulity of these sitters and the readers of Triplett's writing... recalls the magician's complicity with its audience in performing an anti-spiritualist exposé." - **pg. 140**
 - "The exposure of spiritualist trickery shaped a discourse on perception and sensorial delusion that anticipated in many ways later debates on cinematic spectatorship." - **pg. 131**
-- 
+
+
+
