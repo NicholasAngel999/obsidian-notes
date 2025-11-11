@@ -42,3 +42,37 @@
 
 
 
+## Young, Simon, _The Nail in the Skull and Other Victorian Urban Legends_ , First edition. (University Press of Mississippi, 2022)
+
+### chapter 4 
+
+- "Being buried alive was, as Jan Bondeson (2001) has very capably shown, something of an obsession for Victorians." - *pg. 10*
+	- **Where to Use:** As contextual evidence immediately following your assertion that high mortality rates fueled grief.
+- "The victim... had torn his grave clothes and torn out one of his eyes and bitten off one of his fingers, while his face was literally in shreds." - *pg. 11*
+	- Where to Use: Use this graphic detail (or reference its existence) to underscore the severity of the psychological terror that Spiritualism was capitalizing on, proving the emotional stakes were incredibly high.
+
+
+### chapter 7 
+
+- "One of these lost-and-found stories repeated in a formulaic fashion was that of the chimney-sweeper's boy coming down his mother's chimney." - *pg. 19*
+	- Where to Use: After mentioning the Fox Sisters' early "rappings" and the theatrical nature of the domestic séance.
+
+
+### chapter 22
+
+- "A priest went with the Holy Sacrament to a young officer, saying that he had been asked to do so by an elderly lady who had called at his house. The officer said that it was nobody that had been sent by him... 'But that is the portrait of my mother, who has been dead for some time,' exclaimed the officer." - *pg.66*
+	- Where to Use: After discussing the crisis of faith (Darwinism) and the search for tangible proof.
+
+### chapter 66
+
+- "The authority [agreed] that the death should be completely hushed up, and that the daughter should be made to believe... that her unfortunate mother never reached the hotel." - *pg.179*
+	- Where to Use: As the lead evidence to link the Spiritualist exposure debate to the broader cultural fear of calculated, total delusion.
+- "One collector believed it to be true 'because it is very much easier to believe that it happened than to suppose that it was invented'." - *pg.179*
+	- Where to Use: As a powerful conclusion to your synthesis, demonstrating the complex emotional logic of Victorian credulity.
+
+
+
+## Walsh, Brendan C, ‘“He Could Raise and Lay Ghosts at His Will”: Victorian Folklorists and the Creation of Early Modern Clerical Ghost-Laying’, Folklore (London), 134.3 (2023), pp. 281–303.
+
+`Key Argument: The article states that the popular tradition of the "conjuring parson" (the ghost-laying clergyman) that Spiritualism's critics implicitly relied on was not a genuine early modern practice, but was invented or sensationalized by Victorian folklorists (like Hawker and Rees) themselves to boost the Anglican Church's authority in the face of Spiritualism.`
+
