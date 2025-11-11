@@ -31,3 +31,12 @@
 
 
 
+## Natale, Simone, ‘Spiritualism Exposed: Scepticism, Credulity and Spectatorship in End-of-the-Century America’, European Journal of American Culture, 29.2 (2010), pp. 131–44.
+
+- "...I will argue that in both contexts the 'spirit medium' came to be understood as a performer, and the sitters as spectators." - **pg. 131**
+- "The importance of maintaining a sceptical perspective was evoked again and again, by the opponents of the movement as well as by the spiritualists themselves." - **pg. 134**
+- "The prosperity of this kind of shows was not only due to the appeal of deceptive practices but also due to the fact that against their sceptical spectators, the paying public, they were positing a credulous 'other': the spiritualist believer." - **pg. 136**
+- "These are not conditions conducive to sharp sight and logical judgement, but they make the work of the medium easy. In this abnormal state of the subjects the sensorial is almost at the mercy of the preperceptive element." - **pg. 140**
+- "The contrast between the credulity of these sitters and the readers of Triplett's writing... recalls the magician's complicity with its audience in performing an anti-spiritualist exposé." - **pg. 140**
+- "The exposure of spiritualist trickery shaped a discourse on perception and sensorial delusion that anticipated in many ways later debates on cinematic spectatorship." - **pg. 131**
+- 
