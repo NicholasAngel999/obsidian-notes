@@ -1,4 +1,6 @@
 # “By looking at spiritualism in the Victorian age, one might find a signal moment in which belief mingled with the spectacular and entertainment became a central element of spiritual and religious experience.” (Natale, 2016). Evaluate this argument in relation to Modern Spiritualism in the UK.
+
+#### Overall argument is that we agree with Natale that spectacle drove growth however arguing deeper that psychological and religious function provided the necessary fuel
 ## Natale, Simone, Supernatural Entertainments : Victorian Spiritualism and the Rise of Modern Media Culture (Pennsylvania State University Press, 2016)  `The argument is leans more towards the entertainment of the supernatural and commercial`
 
 ### “By looking at spiritualism in the Victorian age, one might find a signal moment in which belief mingled with the spectacular and entertainment became a central element of spiritual and religious experience.” - **pg. 8**
