@@ -117,3 +117,30 @@
 - "Parents may have referred to child death in languages of pragmatism and resignation. Such expressions were easily mistaken for flippancy or hard-heartedness." - *pg.260*
 
 
+## Noakes, Richard, Physics and Psychics : The Occult and the Sciences in Modern Britain (Cambridge University Press, 2019)
+
+### chapter 1
+- "...recent developments in the physical sciences suggested the strong possibility that an obscure force, fluid or agency somehow connected with life could be related to the known physical forces." - *pg. 21*
+- "Spiritualists... believed that they exuded the scientific spirit of the age and were merely applying the empirical, inductive and rational methods of enquiry that had proved so successful in understanding the material cosmos..." - *pg. 47*
+- "The 'mania'... had serious religious, moral and philosophical implications... spiritualists had abjured scriptural warnings about exchanges with potentially deceptive spirits... and chosen vulgar mediums rather than respectable clergymen as their spiritual guides." *pg. 49-50*
+
+
+### chapter 2
+- "The principal objective of the new society [the SPR] was to make an 'organised and systematic attempt to investigate that large group of debatable phenomena designated by such terms as mesmeric, psychical and Spiritualistic'..." *pg. 79-80*
+- "Its vice-presidents and Council members included the Tory statesmen Arthur and Gerald Balfour... the naturalist Alfred Russel Wallace, and the physicists Lodge, Stewart, the Third Baron Rayleigh and J. J. Thomson." - *pg. 81*
+
+
+### chapter 4 
+- "In the first of his QJS papers, Crookes presented a virtual manifesto for the proper scientific study of spiritualism in which both attributes played a prominent role." - *pg. 187*
+- "The main purpose of Varley's electrical test was to establish the bodily relationship between Cook and 'Katie'... The test was effectively a remote sensing device that permitted investigators to gauge what Cook was doing without violating the crucial condition of not entering or illuminating the cabinet." - *pg. 206-207*
+- "By seeing 'Katie' only seconds after touching and seeing what he believed to be Cook, Crookes was even more confident in the medium's honesty." - *pg. 209*
+
+
+
+### Chapter 5
+- "A key rhetorical strategy that many physical-psychical scientists adopted was to challenge the sharp distinction between physical and human instruments made by many psychological critics." - *pg. 261*
+- "...he encouraged fellow psychical researchers to treat Palladino... not as a scientific person engaged in a demonstration, but as a delicate piece of apparatus wherewith they are making an investigation." - *pg. 263*
+- "Lodge's decision was helped by... anxieties... he was clearly trying to protect Crookes's reputation in an organisation that appeared to be more equivocal about his work." - *pg. 272*
+
+
+
