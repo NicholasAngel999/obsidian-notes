@@ -78,3 +78,16 @@
 
 `Key Argument: The article states that the popular tradition of the "conjuring parson" (the ghost-laying clergyman) that Spiritualism's critics implicitly relied on was not a genuine early modern practice, but was invented or sensationalized by Victorian folklorists (like Hawker and Rees) themselves to boost the Anglican Church's authority in the face of Spiritualism.`
 
+- "Clerical ghost-laying, however, is a spiritual tradition without a well-founded historical or theological precedent; predominantly derived from a small corpus of satirical and polemical depictions." - *pg. 281* 
+	- Where to Use: In Body 2, after stating that Spiritualism promised an empirical religion to fill the vacuum of faith.
+- "The elaborate ghost-laying ceremonies attributed to the early modern Protestant clergy are actually more aligned with the quasi-magical ceremonies performed by folk-healers and recusant Catholic priests." - *pg.282*
+	- Where to Use: Use this as internal evidence within Body 2 to show the clergy's historical discomfort with magical practices.
+
+
+- "Tales of early modern clergymen exorcising restless spirits actually originate from the pens of Victorian authors who developed the sensationalist folkloric exploits of conjuring parsons to fulfil their own literary or political agendas." - *pg. 282*
+	- Where to Use: As the central claim of your Synthesis (Body 3), immediately before discussing the role of the press or figures like the Society for Psychical Research (SPR).
+- "This work expresses a clear sense of continuity in this practice, with Rees remarking: 'Even in these days the clergy are not supposed to have lost this power over the spirit world...'" - *pg.284*
+	- Where to Use: Use this to show the intent of the Victorian folklorists was to manufacture a direct link between the modern phenomenon and a false historical tradition.
+
+
+
