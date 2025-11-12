@@ -144,3 +144,4 @@
 
 
 
+## Davies, Owen, The Haunted : A Social History of Ghosts (Palgrave Macmillan, 2009)
