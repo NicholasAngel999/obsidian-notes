@@ -145,3 +145,25 @@
 
 
 ## Davies, Owen, The Haunted : A Social History of Ghosts (Palgrave Macmillan, 2009)
+
+### Chapter: Experience
+- "Translucence and pale opacity were obvious determinants but by no means all ghosts exhibited these qualities. Some did not even appear in human form." - *pg. 13*
+- "It is an intriguing fact that from the medieval period to the present the ghosts of children have rarely been seen in England." - *pg. 14*
+- "The night was popularly thought to be the most conducive time for devils, fairies and evil spirits to emerge from the depths of hell or the bowels of the earth." - *pg. 16*
+- "The appeal of such demonstrations was based on the delight of examining them for truth and humbug..." - *pg. 79*
+
+
+### Chapter: Representation pp.169-178
+
+- "The manifestation and activities of ghosts were so integral to the oral and literary culture of the last 500 years that there was no need to research and revise how ghosts appeared and what they did." - *pg. 165*
+- "Most hoaxes were neither so elaborate nor conspiratorial, and merely consisted of individuals prowling around in a white sheet emitting groans." - *pg.168*
+
+
+### Chapter: Representation pp.201-207
+
+- "...new developments were needed to keep thrill-seeking audiences interested." - *pg. 196*
+- "He [Robertson] was, he stated, a physicist and an optician, not 'a magician, a necromancer, in an age in which all marvels have succumbed to human reason'." - *pg.197*
+- "It was Sir David Brewster who recognised in the early 1850s that this exposure problem could be used to deliberately create ghostly images." - *pg. 202*
+
+
+
