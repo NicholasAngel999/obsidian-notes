@@ -190,3 +190,211 @@
 - "...this newer scholarship portrays 19th-century seekers and investigators... as a generation struggling to make sense of a range of human phenomenon linked to the unseen, the metaphysical, and the supernatural." - *pg. 345*
 - "Sera-Shriar's focus on early anthropology's particular piece of this science-meets-the-supernatural puzzle addresses the qualifications necessary to be a credible witness to spirit phenomena." - *pg. 345*
 
+---
+
+
+---
+---
+---
+
+
+
+This document organizes all your research notes to align with your overall argument: "Agree with Natale that spectacle drove growth, but argue deeper that psychological and religious function provided the necessary fuel."
+
+AGREE (Evidence for Spectacle, Entertainment, and Commercialism)
+
+This section supports Body Paragraph 1 of your essay.
+
+Natale, Simone, Supernatural Entertainments (2016)
+
+Supernatural Entertainments argues that the rise of the spiritualist movement as a religious and cultural phenomenon was closely connected to the contemporary evolution of the media entertainment industry. - pg.1
+
+My claim is that in order to comprehend spiritualism’s prominence, it is essential to understand its inclusion in a growing market for leisure activities and spectacular attractions. - pg. 2
+
+Séances were held in theaters and public halls, establishing a theatrical situation in which the medium played the role of the performer, and the sitters the role of the spectators. - pg. 2
+
+Many spiritualist mediums were virtually indistinguishable from professional performers: they had managers and agents, advertised their performances in the press, and developed spirit phenomena characterized by a high degree of spectacularism and theatricality. - pg. 2
+
+...a degree of uncertainty about the authenticity of an attraction would contribute to the arousal of interest in the public and the popular press. - pg. 3
+
+The illusion was not produced in real time... the ghostly illusions were conjured with the photographic medium. The effect, however, was no less spectacular. - pg. 161
+
+Natale, Simone, ‘The Medium on the Stage’ (2011)
+
+This article aims to analyse spiritualist séances as a form of spectacular entertainment. - pg. 2
+
+Séances were meant not only as moments of religious and scientific inquiry, but also as "a brilliant amusement where theatrical effects embellished an exciting shared experience." - pg. 2
+
+"...nineteenth-century mediums can be regarded as a class of professional performers who... shaped a complex dramatic space..." - pg. 2
+
+Spiritualism "offered entertainment by encouraging believers and non-believers to test its truth." - pg. 3
+
+The engagement with showbusiness entrepreneur P.T. Barnum, which included a popular song... is testimony to the commercial approach... - pg. 24 (from notes, likely pg. 241 in original)
+
+This early association of spiritualism with showbusiness has endured. - pg. 241 (from notes)
+
+Natale, Simone, ‘Spiritualism Exposed’ (2010)
+
+"...I will argue that in both contexts the 'spirit medium' came to be understood as a performer, and the sitters as spectators." - pg. 131
+
+"The exposure of spiritualist trickery shaped a discourse on perception and sensorial delusion that anticipated in many ways later debates on cinematic spectatorship." - pg. 131
+
+Young, Simon, The Nail in the Skull (2022)
+
+[Chapter 7] "One of these lost-and-found stories repeated in a formulaic fashion was that of the chimney-sweeper's boy coming down his mother's chimney." - pg. 19
+
+[Chapter 7] The story depended on the fact that chimney sweepers had... a reputation for trafficking in stolen children. - pg. 19
+
+Davies, Owen, The Haunted (2009)
+
+[Experience] "The appeal of such demonstrations was based on the delight of examining them for truth and humbug..." - pg. 79
+
+[Representation] "The manifestation and activities of ghosts were so integral to the oral and literary culture... that there was no need to research and revise how ghosts appeared..." - pg. 165
+
+[Representation] "Ghost hoaxers... were performing for an audience. That was the whole point. So... it was necessary to perform according to the audiences' expectations..." - pg. 165
+
+[Representation] "Basic poltergeist phenomena such as knocking and rapping on walls were fairly easy to orchestrate... The confession of a twelve-year-old girl... revealed a simple technique... She tied a strand of her long hair round the article... and tugged on it..." - pg. 173
+
+[Representation] "...new developments were needed to keep thrill-seeking audiences interested." - pg. 196
+
+[Representation] "It was Sir David Brewster who recognised... that this exposure problem could be used to deliberately create ghostly images." - pg. 202
+
+[Representation] "...ghost photography has more innocent origins in the early history of photographic experimentation." - pg. 202
+
+Lamont, Peter, ‘Spiritualism and a Mid-Victorian Crisis of Evidence’ (2004)
+
+"Daniel Dunglas Home... conducted séances for the British aristocracy and Continental royalty, for writers, artists, politicians, and scientists..." - pg. 898
+
+DISAGREE / QUALIFY (Evidence for Belief, Grief, and the Crisis of Evidence)
+
+This section supports Body Paragraph 2 (The Substance) and Body Paragraph 3 (The Synthesis) of your essay.
+
+Natale, Simone, Supernatural Entertainments (2016)
+
+"...spiritualism was a very significant religious phenomenon... revolving around the belief that it was possible to exchange messages with the spirits of the dead." - pg. 2
+
+"One might object that, despite the frequency of public demonstrations... séances were most often conducted in private environments..." - pg. 2
+
+"...the development of trance phenomena... contributed to establishing a situation that, despite being essentially theatrical, supported the claim of truthfulness in the mediums' performance." - pg. 37
+
+"The appealing of public controversies helps explain the popular success of public lectures on technological and scientific subjects." - pg. 70
+
+"This attention to empirical evidence came together with the sense... that spiritualism was a 'scientific' religion and that spirit communication could be experimentally verified." - pg. 4
+
+"...a signal moment in which belief mingled with the spectacular..." - pg. 8
+
+Natale, Simone, ‘The Medium on the Stage’ (2011)
+
+"The intermingling of religion and entertainment can thus be seen as one of the defining characteristics of the spiritualist experience." - pg. 2
+
+"The state of trance 'strengthened spiritualism’s claims of authenticity by recalling the principles of automatism...'" - pg. 4-5
+
+"The intermingling of performance and claims of authenticity... represented the very core of the spiritualist experience." - pg. 3
+
+"By employing an 'aesthetics of absorption,' mediums made the sitters oblivious to their role as viewers and spectators." - pg. 15
+
+Natale, Simone, ‘Spiritualism Exposed’ (2010)
+
+"The importance of maintaining a sceptical perspective was evoked again and again, by the opponents... as well as by the spiritualists themselves." - pg. 134
+
+"...they were positing a credulous 'other': the spiritualist believer." - pg. 136
+
+"In this abnormal state... the sensorial is almost at the mercy of the preperceptive element." - pg. 140
+
+Young, Simon, The Nail in the Skull (2022)
+
+[Chapter 4] "Being buried alive was... something of an obsession for Victorians." - pg. 10
+
+[Chapter 4] "The victim... had torn his grave clothes and... bitten off one of his fingers..." - pg. 11
+
+[Chapter 22] "'But that is the portrait of my mother, who has been dead for some time,' exclaimed the officer." - pg. 66
+
+[Chapter 66] "...the daughter should be made to believe... that her unfortunate mother never reached the hotel." - pg. 179
+
+[Chapter 66] "One collector believed it to be true 'because it is very much easier to believe that it happened than to suppose that it was invented'." - pg. 179
+
+Walsh, Brendan C, ‘He Could Raise and Lay Ghosts...’ (2023)
+
+"Clerical ghost-laying, however, is a spiritual tradition without a well-founded historical or theological precedent..." - pg. 281
+
+"The elaborate ghost-laying ceremonies... are actually more aligned with... quasi-magical ceremonies performed by folk-healers..." - pg. 282
+
+"Tales of early modern clergymen... originate from the pens of Victorian authors who developed the sensationalist folkloric exploits... to fulfil their own literary or political agendas." - pg. 282
+
+"...'Even in these days the clergy are not supposed to have lost this power over the spirit world...'" - pg. 284
+
+Strange, Julie-Marie, Death, Grief and Poverty (2005)
+
+[Chapter 4] "...'a cheap funeral... would have made it clear... that the corpse went unloved and unhonoured to the grave'." - pg. 98
+
+[Chapter 4] "...pursuit of such customs could lead to financial ruin." - pg. 98
+
+[Chapter 4] "...focus exclusively on secular rituals... as opposed to... spiritual beliefs..." - pg. 100
+
+[Chapter 5] "The pauper funeral 'became the final stamp of failure'." - pg. 131
+
+[Chapter 5] "Antipathy to the pauper grave... was rooted largely in the body-snatching scandals..." - pg. 131
+
+[Chapter 5] "The dishonour of pauper burial was... the inability to claim ownership of the dead and the denial of mourning rites." - pg. 132
+
+[Chapter 7] "It is impossible to disentangle financial anxiety from wider issues, such as sorrow for a lost relationship, crushed dreams, shattered homes..." - pg. 195
+
+[Chapter 7] "Grief could be articulated through... attempts to contact the dead..." - pg. 195
+
+[Chapter 7] "...death had not severed the relationship... but, rather, repositioned it within a new context." - pg. 221
+
+[Chapter 8] "...working-class parents were thought to have acquired a degree of immunity towards these deaths..." - pg. 230
+
+[Chapter 8] "Such expressions were easily mistaken for flippancy or hard-heartedness." - pg. 260
+
+Noakes, Richard, Physics and Psychics (2019)
+
+[Chapter 1] "...an obscure force... connected with life could be related to the known physical forces." - pg. 21
+
+[Chapter 1] "Spiritualists... believed that they exuded the scientific spirit of the age... empirical, inductive and rational methods..." - pg. 47
+
+[Chapter 1] "...chosen vulgar mediums rather than respectable clergymen as their spiritual guides." - pg. 49-50
+
+[Chapter 2] "The principal objective of the new society [the SPR] was to make an 'organised and systematic attempt to investigate... debatable phenomena...'" - pg. 79-80
+
+[Chapter 2] "Its vice-presidents... included... the physicists Lodge, Stewart, the Third Baron Rayleigh and J. J. Thomson." - pg. 81
+
+[Chapter 4] "Crookes presented a virtual manifesto for the proper scientific study of spiritualism..." - pg. 187
+
+[Chapter 4] "The main purpose of Varley's electrical test was to establish the bodily relationship between Cook and 'Katie'... The test was effectively a remote sensing device..." - pg. 206-207
+
+[Chapter 4] "By seeing 'Katie' only seconds after touching... Cook, Crookes was even more confident in the medium's honesty." - pg. 209
+
+[Chapter 5] "...challenge the sharp distinction between physical and human instruments..." - pg. 261
+
+[Chapter 5] "...treat Palladino... not as a scientific person... but as a delicate piece of apparatus..." - pg. 263
+
+[Chapter 5] "...he was 'by sticking definitely to physics... [to] carry any weight'." - pg. 267
+
+Davies, Owen, The Haunted (2009)
+
+[Experience] "...ghosts of children have rarely been seen in England." - pg. 14
+
+[Experience] "...the vast majority paid nocturnal visits." - pg. 16
+
+[Experience] "...people really did die of fright... concluded that she had died of excessive fright or syncope." - pg. 43
+
+[Experience] "Noisy ghosts or poltergeists have always attracted the most intellectual attention." - pg. 80
+
+Lamont, Peter, ‘Spiritualism and a Mid-Victorian Crisis of Evidence’ (2004)
+
+"...phenomena of the séance room... the primary reason given by spiritualists for their beliefs." - pg. 897
+
+"...the most informed stage conjurors... simply did not know how Home produced his phenomena." - pg. 907
+
+"...less the result of a crisis of faith than the cause of a crisis of evidence, the implications of which were more obviously scientific than religious." - pg. 917
+
+"...'either the facts must be admitted... or the possibility of certifying facts by human testimony must be given up'." - pg. 919
+
+Schmit, David T, Review of Psychic Investigators (2023)
+
+"...today, there is recognition of their enduring cultural, religious, medical, scientific, and literary cache." - pg. 345
+
+"...a generation struggling to make sense of a range of human phenomenon linked to the unseen, the metaphysical, and the supernatural." - pg. 345
+
+"...addresses the qualifications necessary to be a credible witness to spirit phenomena." - pg. 345
