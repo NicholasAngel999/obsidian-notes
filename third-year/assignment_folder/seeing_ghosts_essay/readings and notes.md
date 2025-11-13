@@ -151,19 +151,42 @@
 - "It is an intriguing fact that from the medieval period to the present the ghosts of children have rarely been seen in England." - *pg. 14*
 - "The night was popularly thought to be the most conducive time for devils, fairies and evil spirits to emerge from the depths of hell or the bowels of the earth." - *pg. 16*
 - "The appeal of such demonstrations was based on the delight of examining them for truth and humbug..." - *pg. 79*
+- "The time of day rather than the time of year is a more significant issue in the study of hauntings. While ghosts have certainly been seen in daylight, over the last thousand years the vast majority paid nocturnal visits." - *pg. 16*
+- "For some, seeing a ghost was a matter of life and death... people really did die of fright... In January 1894 an inquest on the body of a 17-year-old servant named Elizabeth Bishop... concluded that she had died of excessive fright or syncope." - *pg. 43*
+- "Noisy ghosts or poltergeists have always attracted the most intellectual attention. ...poltergeist activity also drew those seeking answers to profound theological and philosophical questions." - *pg. 80*
+
 
 
 ### Chapter: Representation pp.169-178
 
 - "The manifestation and activities of ghosts were so integral to the oral and literary culture of the last 500 years that there was no need to research and revise how ghosts appeared and what they did." - *pg. 165*
 - "Most hoaxes were neither so elaborate nor conspiratorial, and merely consisted of individuals prowling around in a white sheet emitting groans." - *pg.168*
+- "Basic poltergeist phenomena such as knocking and rapping on walls were fairly easy to orchestrate... The confession of a twelve-year-old girl named Baker... revealed a simple technique... She tied a strand of her long hair round the article... and tugged on it..." - *pg.173*
+
 
 
 ### Chapter: Representation pp.201-207
 
 - "...new developments were needed to keep thrill-seeking audiences interested." - *pg. 196*
 - "He [Robertson] was, he stated, a physicist and an optician, not 'a magician, a necromancer, in an age in which all marvels have succumbed to human reason'." - *pg.197*
+- "Histories of spirit photography usually begin in the 1860s... An American jewellery engraver and amateur photographer named William Mumler is regularly credited as the first person to produce a photograph of a spirit..." - *pg. 201*
 - "It was Sir David Brewster who recognised in the early 1850s that this exposure problem could be used to deliberately create ghostly images." - *pg. 202*
+- "Yet despite the understandable preoccupation with spiritualism, ghost photography has more innocent origins in the early history of photographic experimentation." - *pg. 202*
 
 
+
+
+##  LAMONT, PETER, ‘SPIRITUALISM AND A MID-VICTORIAN CRISIS OF EVIDENCE’, The Historical Journal, 47.4 (2004), pp. 897–920
+- "Historians writing on Victorian spiritualism have said little about the reported phenomena of the séance room, despite such events having been the primary reason given by spiritualists for their beliefs." - *pg. 897*
+- "Daniel Dunglas Home, by far the most famous of Victorian mediums, conducted séances for the British aristocracy and Continental royalty, for writers, artists, politicians, and scientists..." - *pg. 898*
+- "All the evidence suggests that the most common attribution of Home's phenomena was to trickery and, in support of that argument, two groups of experts were appealed to—stage conjurors and scientists." - *pg. 900*
+- "That they did not, even when challenged to do so, strongly suggests that the most informed stage conjurors of the period simply did not know how Home produced his phenomena." - *pg. 907*
+- "The overwhelming rejection of supernatural agency... suggests that such reports were less the result of a crisis of faith than the cause of a crisis of evidence, the implications of which were more obviously scientific than religious." *pg. 917*
+- "In the opinion of Professor Challis, a Cambridge astronomer... 'either the facts must be admitted to be such as they were reported, or the possibility of certifying facts by human testimony must be given up'." - *pg. 919*
+
+
+## Schmit, David T, ‘Psychic Investigators: Anthropology, Modern Spiritualism, and Credible Witnessing in the Late Victorian Age’, Journal of the History of the Behavioral Sciences (Wiley, 2023), pp. 344–46
+- "Whereas before they were cast as marginal 'flights from reason' and thus to be devalued, today, there is recognition of their enduring cultural, religious, medical, scientific, and literary cache." - *pg. 345*
+- "...this newer scholarship portrays 19th-century seekers and investigators... as a generation struggling to make sense of a range of human phenomenon linked to the unseen, the metaphysical, and the supernatural." - *pg. 345*
+- "Sera-Shriar's focus on early anthropology's particular piece of this science-meets-the-supernatural puzzle addresses the qualifications necessary to be a credible witness to spirit phenomena." - *pg. 345*
 
