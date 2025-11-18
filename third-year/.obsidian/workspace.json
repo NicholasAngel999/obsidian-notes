@@ -11,12 +11,14 @@
             "id": "6518a7c9b5365cc2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251029131017.png"
+                "file": "Murdey-and-mayhem/Permissive_society.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251029131017"
+              "icon": "lucide-file",
+              "title": "Permissive_society"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a68842be55fb6cd",
@@ -178,10 +181,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6518a7c9b5365cc2",
+  "active": "df80a49d0d35e468",
   "lastOpenFiles": [
-    "Pasted image 20251029131142.png",
     "Pasted image 20251107082536.png",
+    "Murdey-and-mayhem/Permissive_society.md",
+    "Pasted image 20251029131142.png",
+    "Pasted image 20251029131017.png",
     "assignment_folder/seeing_ghosts_essay/seeing_ghosts_readings/The_Haunted_A_Social_History_of_Ghosts_----_(Pg_169--178).pdf",
     "assignment_folder/seeing_ghosts_essay/readings and notes.md",
     "assignment_folder/seeing_ghosts_essay/receipt_seeing_ghosts_essay_es1(1).docx.pdf",
@@ -198,11 +203,9 @@
     "Murdey-and-mayhem/gangsters.md",
     "assignment_folder/Murder_Source_analysis",
     "assignment_folder",
-    "Murdey-and-mayhem/Untitled.md",
     "seeing_ghosts/Changelings.md",
     "secret-intelligence/First World War lecture.md",
     "Murdey-and-mayhem/The Evolution of Terrorism.md",
-    "Pasted image 20251029131017.png",
     "Murdey-and-mayhem/rise_of_modern_killer.md",
     "Murdey-and-mayhem/case_study_session.md",
     "Murdey-and-mayhem/Week_2_First_Session.md",
