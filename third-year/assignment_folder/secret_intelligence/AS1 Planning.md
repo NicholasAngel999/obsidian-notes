@@ -37,3 +37,12 @@ to speak with them. The Lord Marshall having understood their message, acquainte
 Generall therewith, that so a course may be taken for their dispatch. Other wayes and means may be  
 used for discovering and preventing of spies, wherewith the ready invention of a quick-spirited  
 Commander will abundantly furnish him upon every occasion […]
+
+
+### Social class
+"Rogues, vagabonds, and idle persons must be chased out of the leaguer."
+
+"No stranger is to be lodged within the quarters of any officer or souldier without speciall license."
+
+Crusso is not only talking of soldiers but also idle persons. Suggests the military camp (leaguer) was a crowded place filled with civilians. By ordering them to be "chased out," Cruso links social status to loyalty. To be poor and unemployed ("vagabond") is to be a security threat.
+
