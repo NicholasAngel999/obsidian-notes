@@ -52,3 +52,6 @@ Crusso is not only talking of soldiers but also idle persons. Suggests the milit
 
 "For oftentimes at table and otherwise things happen to be spoken, which were more fit to have been kept secret."
 
+This shows the way even during war officers lived with relative luxury. Crusso identifies this domestic intimacy as a tactical weakness. the intentions of designes of generals are not stolen from locked safes, but overheard by servants pouring wine. 
+
+
