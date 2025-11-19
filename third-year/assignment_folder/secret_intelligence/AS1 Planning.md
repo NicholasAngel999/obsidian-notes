@@ -38,7 +38,7 @@ Generall therewith, that so a course may be taken for their dispatch. Other waye
 used for discovering and preventing of spies, wherewith the ready invention of a quick-spirited  
 Commander will abundantly furnish him upon every occasion […]
 
-
+---
 ### Social class
 "Rogues, vagabonds, and idle persons must be chased out of the leaguer."
 
@@ -53,5 +53,15 @@ Crusso is not only talking of soldiers but also idle persons. Suggests the milit
 "For oftentimes at table and otherwise things happen to be spoken, which were more fit to have been kept secret."
 
 This shows the way even during war officers lived with relative luxury. Crusso identifies this domestic intimacy as a tactical weakness. the intentions of designes of generals are not stolen from locked safes, but overheard by servants pouring wine. 
+
+
+
+### Weaponised kindness 
+"instead of punishing him, to tell him that (out of a good inclination to him) instead of severe punishment, you desire to do him good..."
+
+"...by such baits may become double spies."
+
+The use of the word "baits" is crucial. It implies that kindness is a trap. Crusso views loyalty as a transaction - if you offer a spy safety you can purchase his allegiance. this is sophisticated psychological approach to turning agents. 
+
 
 
