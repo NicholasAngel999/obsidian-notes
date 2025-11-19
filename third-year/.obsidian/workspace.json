@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Murdey-and-mayhem/Permissive_society.md",
+                "file": "assignment_folder/secret_intelligence/AS1 Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Permissive_society"
+              "title": "AS1 Planning"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a68842be55fb6cd",
@@ -181,10 +180,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "df80a49d0d35e468",
+  "active": "6518a7c9b5365cc2",
   "lastOpenFiles": [
-    "Pasted image 20251107082536.png",
+    "assignment_folder/secret_intelligence/AS1 briefing 2023.pdf",
+    "assignment_folder/secret_intelligence/AS1 Planning.md",
     "Murdey-and-mayhem/Permissive_society.md",
+    "Pasted image 20251107082536.png",
     "Pasted image 20251029131142.png",
     "Pasted image 20251029131017.png",
     "assignment_folder/seeing_ghosts_essay/seeing_ghosts_readings/The_Haunted_A_Social_History_of_Ghosts_----_(Pg_169--178).pdf",
