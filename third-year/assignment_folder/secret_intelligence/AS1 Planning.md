@@ -68,3 +68,22 @@ The use of the word "baits" is crucial. It implies that kindness is a trap. Crus
 "These (to get credit with the enemy) must sometimes give him true information of what passeth on the other side..."
 
 "...but of such things, and at such times, as they do no hurt."
+
+This defines the delicate balance of the "double spy." Total secrecy is impossible. To "get credit" (build trust), one must sacrifice some information. This shows that information was viewed as a currency to be traded
+
+
+
+### Internal Paranoia and deception 
+"And if you suspect any of your own souldiers, it is best to dissemble it, and to make much of them, the better to discover them."
+
+The word "dissemble" (to conceal one's true motives) is key. A commander cannot be honest. He must "make much of" (be friendly to) the very men he suspects. This paints a picture of a military environment rife with paranoia, where a smile is used to mask suspicion until the traitor can be "discovered."
+
+
+
+
+### Bureaucracy and the Police state 
+"...no drumme nor trumpet of the enemies is to be admitted... but first to be delayed by the Sentinells... untill notice be given to the Lord Marshall..."
+
+"To this purpose a sudden command useth to be published, for every man to repair to his tent or cabin, whereby the Provost takes such as are remaining in the streets..."
+
+This demonstrates the professionalization of the army. There is a strict chain of command (Sentinel -> Lord Marshall -> Lord General). Furthermore, the use of "sudden command" (a surprise curfew) to catch people "remaining in the streets" shows that the army functioned like a police state, using the "Provost" to enforce internal control.
