@@ -46,3 +46,9 @@ Commander will abundantly furnish him upon every occasion […]
 
 Crusso is not only talking of soldiers but also idle persons. Suggests the military camp (leaguer) was a crowded place filled with civilians. By ordering them to be "chased out," Cruso links social status to loyalty. To be poor and unemployed ("vagabond") is to be a security threat.
 
+
+### Vulnerability of domestic sphere 
+"spies must be had, as are entertained into domesticall service of the chief officers of the enemy, the better to know their intentions and designes."
+
+"For oftentimes at table and otherwise things happen to be spoken, which were more fit to have been kept secret."
+
