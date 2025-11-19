@@ -64,4 +64,7 @@ This shows the way even during war officers lived with relative luxury. Crusso i
 The use of the word "baits" is crucial. It implies that kindness is a trap. Crusso views loyalty as a transaction - if you offer a spy safety you can purchase his allegiance. this is sophisticated psychological approach to turning agents. 
 
 
+### Economy of truth 
+"These (to get credit with the enemy) must sometimes give him true information of what passeth on the other side..."
 
+"...but of such things, and at such times, as they do no hurt."
