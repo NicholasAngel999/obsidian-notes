@@ -137,3 +137,21 @@ This demonstrates the professionalization of the army. There is a strict chain o
 - Relations between England and Spain were like a cold war: "...the nature of war, consisteth not in actual fighting; but in the known disposition thereto, during all the time there is no assurance to the contrary." **(p. 248)**
 - "Elizabeth’s government... knew that there was no other plausible candidate [for the throne]... But Mary had always been more than a successor waiting in the wings... she was her cousin’s obvious rival heir." (p. 245)
 
+#### Centralised system - Golden age of spying was highly centralised and professional unlike the ad-hoc methods Crusso describes
+- Success required the ability "patiently to assess the information that came from all these sources: diplomats, merchants, intelligencers, military experts and the agents and double agents." **(p. 253)**
+- Walsingham’s intelligencers "dabbled a little in forgery... the word entrapment was used by their enemies to describe the way Mary had been caught." (p. 243)
+- Thomas Phelippes used "double agents to extract information... [and] to deceive and disinform the enemy." **(p. 252)**
+
+##### This describes a high-level, bureaucratic machine run by experts (Walsingham, Phelippes) in London. Cruso’s manual is for soldiers in a muddy field who have to do it themselves.
+
+
+#### The collapse of the system - crucial for conclusion - Crusso had to write his text in the first place because Elizabethan system fell apart 
+- "Sir Francis Walsingham died in 1590, and along with him went his system of espionage, which was much too expensive to maintain in times of crippling government expenditure on war." **(p. 257)**
+- Thomas Phelippes was left without a master... For the first time ever in his life Phelippes faced professional failure." (p. 257)
+
+
+#### The limits of intelligence - even with the best spies you can still lose battles 
+- "Intelligence perhaps shifted the balance of probability one way or another, but it could not in the end win a battle at sea or on land. It certainly could not pay the bills or alter the weather." **(p. 254)**
+
+***Analysis: This aligns with Donagan’s point about "confusion." Both historians agree that while you can gather all the information you want, the chaos of war (weather, money, luck) often matters more.***
+
