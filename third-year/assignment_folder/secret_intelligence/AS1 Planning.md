@@ -189,3 +189,5 @@ This demonstrates the professionalization of the army. There is a strict chain o
 ***You can conclude by saying that Cruso’s 1644 manual attempts to fill this "missing dimension" by writing down the rules of a secret world that was usually kept hidden.***
 
 
+## Davies, Huw J, ‘Diplomats as Spymasters: A Case Study of the Peninsular War, 1809-1813’, _The Journal of Military History_, 76.1 (2012), pp. 37–68
+
