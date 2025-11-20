@@ -11,14 +11,16 @@
             "id": "6518a7c9b5365cc2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "assignment_folder/secret_intelligence/AS1 Planning.md",
-                "mode": "source",
-                "source": false
+                "file": "assignment_folder/secret_intelligence/readings saved/An Axe and an Armada.pdf",
+                "page": 1,
+                "left": -26,
+                "top": 220,
+                "zoom": 0.5687919463087249
               },
-              "icon": "lucide-file",
-              "title": "AS1 Planning"
+              "icon": "lucide-file-text",
+              "title": "An Axe and an Armada"
             }
           }
         ]
@@ -78,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a68842be55fb6cd",
@@ -183,9 +184,10 @@
   },
   "active": "6518a7c9b5365cc2",
   "lastOpenFiles": [
-    "assignment_folder/secret_intelligence/readings saved/Barbara Donagan Knowledge and Confusion.pdf",
     "assignment_folder/secret_intelligence/planned reading list.md",
+    "assignment_folder/secret_intelligence/readings saved/An Axe and an Armada.pdf",
     "assignment_folder/secret_intelligence/AS1 Planning.md",
+    "assignment_folder/secret_intelligence/readings saved/Barbara Donagan Knowledge and Confusion.pdf",
     "assignment_folder/secret_intelligence/AS1 briefing 2023.pdf",
     "assignment_folder/secret_intelligence/readings saved",
     "Murdey-and-mayhem/Permissive_society.md",
@@ -207,7 +209,6 @@
     "secret-intelligence/WW1 prep reading.md",
     "Murdey-and-mayhem/gangsters.md",
     "assignment_folder/Murder_Source_analysis",
-    "assignment_folder",
     "seeing_ghosts/Changelings.md",
     "secret-intelligence/First World War lecture.md",
     "Murdey-and-mayhem/The Evolution of Terrorism.md",
