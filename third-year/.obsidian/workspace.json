@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +181,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6518a7c9b5365cc2",
+  "active": "df80a49d0d35e468",
   "lastOpenFiles": [
     "assignment_folder/secret_intelligence/planned reading list.md",
     "assignment_folder/secret_intelligence/readings saved/The Study of Intelligence in Theory and Practice.pdf",

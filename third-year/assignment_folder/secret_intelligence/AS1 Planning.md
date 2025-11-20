@@ -161,3 +161,31 @@ This demonstrates the professionalization of the army. There is a strict chain o
 
 ### The core argument - Intelligence is "under-theorized" most international relations scholars ignore it but it is essential to understanding how states survive. They identify 3 ways scholars study intelligence - digging through archives, creating models to explain failure and surprise and studying how intelligence is used domestically to control populations (Gestapo or KGB great examples) - Crusso manual fits firmly into the "state control" approach. Cruso isnt just looking for foreign enemies he is policing vagabonds and strangers within his own camp
 
+#### State control - Argue that Cruso manual proves that early intelligence was just as much about policing the poor (vagabonds) as fighting the enemy
+- "A third approach focuses instead on the political function of intelligence as a means of state control... [focusing on] the activities of security services... and their impact on political culture." (p. 143-144)
+- "Many internal security agencies... possess powers of arrest and thus function as tools of state power." **(p. 154)**
+
+***Use this to analyze Cruso’s section on the Provost and vagabonds. Cruso is using intelligence as a "tool of state power" to cleanse the camp of social undesirables.***
+
+
+#### Morality of spying - Cruso suggests using "baits" and lies to trick spies. Scott and Jackson provide the ethical theory to back this up
+- "'No ethics in the world can get round the fact that the achievement of 'good' ends is in many cases tied to the necessity of employing morally suspect or at least morally dangerous means.'" **(p. 156)**
+- "To what ends should the 'morally suspect' means of intelligence be put? For whose 'good ends' should these means be employed?" (p. 156)
+
+***Cruso advocates "morally suspect means" (lying, bribery, double-crossing) to achieve the "good end" of winning the war. You can argue that Cruso recognizes the dirty nature of the trade 350 years before modern theorists did.***
+
+
+#### Defining Intelligence - Introduce what Cruso is doing
+- Sherman Kent defines intelligence as three distinct things: "knowledge, the type of organisation that produces that knowledge and the activities pursued by that organisation." (p. 141)
+- They quote Clausewitz to explain the difficulty of war: "Much of the knowledge or 'information' obtained in war is 'false' and 'by far the greatest part is of a doubtful character'." **(p. 146)**
+
+***This connects perfectly to Cruso’s fear of "confusion." Cruso is trying to build an "organisation" (the Provost/Scouts) to filter out the "false" information Clausewitz warns about.***
+
+
+#### Missing Dimension - Explain why texts like Cruso are rare and often overlooked 
+- Intelligence has been described as "the missing dimension of international affairs." **(p. 140)**
+- "Intelligence is the 'least understood and most "undertheorized" area of international relations'." (p. 141)
+
+***You can conclude by saying that Cruso’s 1644 manual attempts to fill this "missing dimension" by writing down the rules of a secret world that was usually kept hidden.***
+
+
