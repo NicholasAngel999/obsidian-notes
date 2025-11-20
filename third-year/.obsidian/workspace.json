@@ -11,16 +11,14 @@
             "id": "6518a7c9b5365cc2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "assignment_folder/secret_intelligence/readings saved/An Axe and an Armada.pdf",
-                "page": 1,
-                "left": -26,
-                "top": 220,
-                "zoom": 0.5687919463087249
+                "file": "assignment_folder/secret_intelligence/AS1 Planning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "An Axe and an Armada"
+              "icon": "lucide-file",
+              "title": "AS1 Planning"
             }
           }
         ]
