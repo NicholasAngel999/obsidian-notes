@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a68842be55fb6cd",
@@ -182,9 +183,9 @@
   },
   "active": "6518a7c9b5365cc2",
   "lastOpenFiles": [
-    "assignment_folder/secret_intelligence/planned reading list.md",
     "assignment_folder/secret_intelligence/readings saved/An Axe and an Armada.pdf",
     "assignment_folder/secret_intelligence/AS1 Planning.md",
+    "assignment_folder/secret_intelligence/planned reading list.md",
     "assignment_folder/secret_intelligence/readings saved/Barbara Donagan Knowledge and Confusion.pdf",
     "assignment_folder/secret_intelligence/AS1 briefing 2023.pdf",
     "assignment_folder/secret_intelligence/readings saved",

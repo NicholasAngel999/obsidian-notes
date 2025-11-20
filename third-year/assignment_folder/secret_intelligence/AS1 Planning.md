@@ -122,3 +122,18 @@ This demonstrates the professionalization of the army. There is a strict chain o
 
 
 
+## ‘Chapter 16: An Axe and an Armada’, in _The Watchers : A Secret History of the Reign of Elizabeth I_ , by Stephen Alford (Penguin Books, 2013), pp. 243–57
+### Alford is the opposite of Crusso, he argues a "golden age" of Elizabethan espionage where intelligence met high stakes game played by kings popes and master spies to save the state from foreign from invasion
+
+- The Goal of Intelligence: In this era, spying wasn't about camp hygiene or vagabonds (like in Cruso); it was about State Security. It was about uncovering "The Enterprise of England"—the grand Catholic plan to invade and overthrow Elizabeth I.
+
+- The Methods: Intelligence was centralized under "Great Men" like Sir Francis Walsingham. They used sophisticated methods: breaking codes, using double agents to infiltrate embassies, and managing international merchant networks.
+
+- The Vulnerability: The system was fragile. Because it relied on specific geniuses like Walsingham, when he died in 1590, "his system of espionage" died with him. This contrasts with Cruso, who is trying to write a manual to make intelligence a standard military procedure that anyone can follow.
+
+
+#### Intelligence as high politics vs camp security - Crusso worries about "rogues and vagabonds" in a field where Alford shows that Elizabethan intelligence was about global geopolitics 
+
+- Relations between England and Spain were like a cold war: "...the nature of war, consisteth not in actual fighting; but in the known disposition thereto, during all the time there is no assurance to the contrary." **(p. 248)**
+- "Elizabeth’s government... knew that there was no other plausible candidate [for the throne]... But Mary had always been more than a successor waiting in the wings... she was her cousin’s obvious rival heir." (p. 245)
+
