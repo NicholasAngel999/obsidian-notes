@@ -88,3 +88,37 @@ The word "dissemble" (to conceal one's true motives) is key. A commander cannot 
 
 This demonstrates the professionalization of the army. There is a strict chain of command (Sentinel -> Lord Marshall -> Lord General). Furthermore, the use of "sudden command" (a surprise curfew) to catch people "remaining in the streets" shows that the army functioned like a police state, using the "Provost" to enforce internal control.
 
+
+
+
+## ‘Knowledge and Confusion’, in War in England, 1642-1649 , by Barbara. Donagan (Oxford University Press, 2008), pp. 94–123
+### Argues that the civil war was defined by intimacy and confusion because the enemy looked just like us military intelligence was not a professional science but a messy paranoid struggle to distinguish friend from foe in a world where soldiers and civilians were mixed together
+#### Context paragraph - explain why Crusso was so paranoid, the enemy looked like his own men so strict rules necessary. 
+
+- "The process revealed again the distinctive intimacy of this war in which language formed no barrier... and clothing [was] a shaky guide to affiliation." (p. 94)
+- "Clothing was equally uncertain... rainbow coalitions did not necessarily help to distinguish enemies from friends when regiments on both sides wore green or blue or red." (p. 116)
+- "Anecdotes suggest that the absence of visual distinction between enemies was commonplace... 'a party of the enemy's horse went amongst us as some of our own'." (p. 117)
+
+
+#### Social class and Vagabonds - class analysis paragraph - Crusso wants to chase out "rogues and vagabonds" Donagan confirms that these poor mobile people were often the spies 
+
+- "Transients 'of meanest rank, and quallity' were best fitted to act as these mobile messengers and observers: 'Peasants, Pedlers, Sellers of Strong-waters, or Tobacco, and the like'." (p. 102)
+- "Civil society, with its poor transients, messengers, and travelling civilians coexisted alongside armies." (p. 94)
+- "Civilians were unpredictable commodities, and armies had greater control over men who were formally enrolled and therefore subject to the rigours of military law." (p. 100)
+
+
+
+#### Domestic servants and Women - Infiltrating households - Crusso suggests using "domesticall service" donagan explains why this worked 
+
+- The civil war's women spies seem largely to have fallen into this humble category... [their] movements were so routine that they became invisible unless special vigilance called them to attention." (pp. 102, 105)
+- "Many, it seems, were women, who often passed with some degree of freedom even through siege lines." (p. 105)
+
+
+#### Paranoia and internal Suspicion - Crusso advises officers to suspect their own men, shows paranoia was widespread
+
+- "Suspicions nurtured by the identity problems of civil war meant that soldiers and civilians were constantly alert for betrayal... while employers were quick to suspect their own agents of duplicity." (p. 104)
+- "When siege lines were porous, when soldiers lived and fought among civilians... the mark of Cain was invisible and the kind of quarantine of information... was impossible." (pp. 103-104)
+
+
+
+
