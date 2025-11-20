@@ -87,3 +87,4 @@ The word "dissemble" (to conceal one's true motives) is key. A commander cannot 
 "To this purpose a sudden command useth to be published, for every man to repair to his tent or cabin, whereby the Provost takes such as are remaining in the streets..."
 
 This demonstrates the professionalization of the army. There is a strict chain of command (Sentinel -> Lord Marshall -> Lord General). Furthermore, the use of "sudden command" (a surprise curfew) to catch people "remaining in the streets" shows that the army functioned like a police state, using the "Provost" to enforce internal control.
+
