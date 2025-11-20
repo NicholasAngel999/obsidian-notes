@@ -155,3 +155,7 @@ This demonstrates the professionalization of the army. There is a strict chain o
 
 ***Analysis: This aligns with Donagan’s point about "confusion." Both historians agree that while you can gather all the information you want, the chaos of war (weather, money, luck) often matters more.***
 
+
+
+## Scott, Len, and Peter Jackson, ‘The Study of Intelligence in Theory and Practice’, _Intelligence and National Security_, 19.2 (2004), pp. 139–69
+
