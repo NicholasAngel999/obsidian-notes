@@ -159,3 +159,5 @@ This demonstrates the professionalization of the army. There is a strict chain o
 
 ## Scott, Len, and Peter Jackson, ‘The Study of Intelligence in Theory and Practice’, _Intelligence and National Security_, 19.2 (2004), pp. 139–69
 
+### The core argument - Intelligence is "under-theorized" most international relations scholars ignore it but it is essential to understanding how states survive. They identify 3 ways scholars study intelligence - digging through archives, creating models to explain failure and surprise and studying how intelligence is used domestically to control populations (Gestapo or KGB great examples) - Crusso manual fits firmly into the "state control" approach. Cruso isnt just looking for foreign enemies he is policing vagabonds and strangers within his own camp
+
