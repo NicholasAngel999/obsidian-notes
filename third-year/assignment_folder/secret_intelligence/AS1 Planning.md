@@ -288,3 +288,30 @@ This demonstrates the professionalization of the army. There is a strict chain o
 
 
 ### Chapter 11
+#### This chapter is the "Gold Dust" for your **"Social Class & Vagabonds"** paragraph. It proves that the Civil War was not just a military conflict, but a massive crime wave of theft and plunder. This explains exactly why Cruso was so paranoid about security.
+#### Carlton argues that for most soldiers, the war was less about fighting for a cause and more about stealing property to survive (or for profit).
+#### Armies operated like gangs. They demanded "free quarter" (food/lodging) and "taxes" from civilians. If civilians refused, they were beaten, robbed, or killed.
+#### The chapter details how normal laws collapsed. Soldiers claimed "there was no other law now" but the gun.
+#### This chaotic reality is exactly what Cruso was trying to fight. When he orders "rogues and vagabonds" to be chased out, he is trying to stop his own camp from turning into a den of thieves that would alienate the local population.
+
+
+##### Soldiers as thieves - WHY CRUSO FEARED HIS OWN MEN
+- "'The common sort of our countrymen that go to war, [go] of purpose more to spoil than to serve'". **(p. 339)**
+- Soldiers "broke into the homes of loyal subjects on the spurious grounds that they were 'papists' houses'". **(p. 343)**
+- "Soldiers could turn upon their masters... [they] roughed up his servants, drank up his beer, smashed up the crockery, took all his money". **(p. 359)**
+
+
+##### The vagabonds and camp followers - USE TO BACK UP CRUSO ROGUES AND VAGABONDS RULE
+- "Most counties press the Scum of all their Inhabitants... men taken out of prison, Tinkers, Peddlers and Vagrants". **(p. 99 - from Chapter 4, but relevant here too)**.
+- Looting was so bad that "Lord General Essex swore to hang anyone found guilty". **(p. 341)**
+
+
+##### The Protection Racket - INTELLIGENCE WAS ABOUT CONTROLLING THE INTERACTION BETWEEN THE ARMY AND CIVILIANS 
+- "At the local level fighting between garrisons all too frequently became little more than a gangland contest to control protection rackets" . **(p. 368)**
+- Civilians paid soldiers "not to purloin when they spent the night in the parish church". **(p. 358)**
+
+
+##### Winning hearts and minds _ CRUSO UNDERSTOOD THE STRATEGIC VALUE OF DISCIPLINE_
+- Parliamentary commanders realized that by controlling plunder, "'we then gained their hearts'". **(p. 366)**
+- "Such magnanimity brought an immediate military dividend. Civilians supported the invaders with food, lodging and, most precious of all, intelligence". **(p. 366)**
+- 
