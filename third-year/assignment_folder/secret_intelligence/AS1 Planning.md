@@ -258,3 +258,5 @@ This demonstrates the professionalization of the army. There is a strict chain o
 ## Carlton, Charles, _Going to the Wars : The Experience of the British Civil Wars, 1638-1651_, 1st ed. (Routledge, 1992)
 
 ### Chapter 4 
+#### The core argument of this chapter is that the English Civil War armies were initially amateur mobs of civilians who had to be rapidly transformed into professional soldiers. Manuals like Cruso’s were the primary tool for this transformation, attempting to impose order, discipline, and "battle-proofing" on a chaotic situation.
+
