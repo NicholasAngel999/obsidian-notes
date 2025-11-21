@@ -256,3 +256,5 @@ This demonstrates the professionalization of the army. There is a strict chain o
 
 
 ## Carlton, Charles, _Going to the Wars : The Experience of the British Civil Wars, 1638-1651_, 1st ed. (Routledge, 1992)
+
+### Chapter 4 
