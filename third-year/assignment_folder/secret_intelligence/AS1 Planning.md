@@ -189,5 +189,69 @@ This demonstrates the professionalization of the army. There is a strict chain o
 ***You can conclude by saying that Cruso’s 1644 manual attempts to fill this "missing dimension" by writing down the rules of a secret world that was usually kept hidden.***
 
 
-## Davies, Huw J, ‘Diplomats as Spymasters: A Case Study of the Peninsular War, 1809-1813’, _The Journal of Military History_, 76.1 (2012), pp. 37–68
+## Joby, Christopher Richard, _John Cruso of Norwich and Anglo-Dutch Literary Identity in the Seventeenth Century_ (D.S. Brewer, 2022)
+
+
+### Chapter 6 
+
+#### Before cruso there were almost no english books on cavalry only one of 94 military books published before the civil war devoted solely to cavalry 
+#### cruso wasnt a veteran of foreign wars he was a captain of Norwich militia. He wrote the book to position himself as a _miles doctus_—a "learned soldier" who combined military skill with academic knowledge
+#### The book relies heavily on the "military revolution" of the Eighty Years' War. Cruso explicitly states he is bringing the "practise of the Low-Countrey Warres" to England because the Netherlands was the "Academie of warre"
+#### Although published in 1632, the book became the standard manual for the Civil War. The author notes that Parliamentary horse regiments likely followed Cruso’s instructions at the Battle of Edgehill (1642)
+
+*Use these in your **Context Paragraph**. Argue that Cruso was trying to professionalize the English army by importing "modern" Dutch methods before the Civil War started.*
+
+##### Military revolution and Dutch influence 
+- Cruso’s subtitle claims the book is "rectified and supplied according to the present practise of the Low-Countrey Warres." (p. 145)
+-  "The Low-countreys are (without all controversie) worthily stiled the Academie of warre, where the art militarie (if any where) truly flourisheth." (p. 145)
+- Cruso was responsible for "introducing Dutch methods of drilling mounted troops at musters into England." (p. 146)
+
+
+##### Structure of Intelligence
+- "Part II, 'Of marching', advises officers how to keep their troops safe on the march... [giving] advice on guides, gaining intelligence, the use of scouts." (p. 155)
+- "Part III... analyzes how the camp is to be secured... and how spies can gain information about the enemy." (p. 155)
+
+
+##### The Audience - CLASS AND EDUCATION
+- The book was intended for "the well-educated mounted officer... and so there were limited opportunities for potential officers to follow this advice" during peace time. (p. 155)
+- Cruso’s intended readership was "not... the ordinary soldier, but rather the well-educated mounted officer." (p. 161)
+
+
+##### Use in the Civil War
+-  "Cruso’s instructions were 'largely followed' by the parliamentary horse regiments" at the Battle of Edgehill in 1642. (p. 163)
+- "Oliver Cromwell... had not seen battlefield action until Spring 1643, and so... he and his fellow cavalry officers may well have needed to consult Cruso’s book." (p. 163)
+
+
+
+### Chapter 9 - Argues that whilst the first English civil war was raging Cruso was not fighting on the front lines but was active as a military author and educator
+
+#### Continues as captain of the "stranger militia" in Norwich ( a unit of Dutch/Walloon immigrants) but likely did not see active service. he focused on publishing manuals to help professionalise the amateur armies fighting in England 
+#### Cruso walked a fine line. He dedicated books to both **Royalists** (like William Denny) and **Parliamentarians** (like Philip Skippon and Edmund Harvey). The author suggests he "put friendship above partisanship" or perhaps kept his options open to protect his immigrant community.
+#### Chapter provides concrete proof that Militarie Instructions was used in the field. A pocket-sized handwritten transcript of the book exists, likely carried by a Royalist officer showing its practical use
+
+
+##### 1664 edition - Explain why different to the 1632 original
+- Cruso added an appendix to the 1644 edition because England had "now fallen into times of Action" (p. 256).
+- He included a detailed list of soldiers' pay, ranging from "£10 a day for the 'Lord Generall' to as little as 8d. for a rank-and-file soldier" (p. 256).
+- Cruso updated tactics, noting a shift from "horses wheeling away to charging through enemy ranks," showing he kept abreast of the latest battlefield developments (p. 257).
+
+
+##### Practical use in the War
+- A "handwritten transcript of Cruso’s book is preserved... in a miniature-size leather pocketbook, which probably belonged to a high-ranking Royalist officer" (p. 258).
+- This proves that officers "deemed it sufficiently useful to transcribe it to take it onto the practice grounds or even on campaign" (p. 259).
+- A copy in the British Library bears the bookplate of the Fairfax family (Parliamentarian commanders), suggesting men on both sides used it (p. 259).
+
+
+##### Political Neutrality - Nuance context section - he wasnt a political radical he was a professional 
+- "Cruso was willing to cross political boundaries, making public displays of his friendship with Royalists and Parliamentarians alike" (p. 261).
+- The 1644 edition includes a poem by Colonel Edmund Harvey, a Parliamentarian who would later sit as a commissioner for the trial of King Charles I (p. 257).
+- Yet, he also dedicated works to Royalists like William Denny. This suggests he may have done this "to keep his options open and avoid ending up on the wrong side" (p. 261).
+
+
+##### Mars Scholar - Intelligence was becoming a learned profession 
+- Edmund Harvey's poem praises Cruso: "Great Mars his scholar, is his fame: / Whose valour, honour, industrie, / Hath taught the use of Cavallry" (p. 258).
+- Cruso presents himself as a _miles doctus_ (learned soldier), bridging the gap between "Mars (war) and the Muses (arts)" (p. 253).
+
+
+
 

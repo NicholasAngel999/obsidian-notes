@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "seeing_ghosts/reading_GWENS_AFTER_NHS_INTERVIEW.md",
+                "file": "assignment_folder/secret_intelligence/AS1 Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reading_GWENS_AFTER_NHS_INTERVIEW"
+              "title": "AS1 Planning"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a68842be55fb6cd",
@@ -183,8 +184,11 @@
   },
   "active": "6518a7c9b5365cc2",
   "lastOpenFiles": [
-    "assignment_folder/secret_intelligence/AS1 Planning.md",
     "seeing_ghosts/reading_GWENS_AFTER_NHS_INTERVIEW.md",
+    "assignment_folder/secret_intelligence/AS1 Planning.md",
+    "assignment_folder/secret_intelligence/readings saved/1632_crusos_annus_mirabilis.pdf",
+    "assignment_folder/secret_intelligence/1632_crusos_annus_mirabilis.pdf.crdownload",
+    "assignment_folder/secret_intelligence/readings saved/cruso_and_the_english_civil_wars.pdf",
     "assignment_folder/secret_intelligence/readings saved/Diplomats and Spymaster: A Case Study of the Peninsular War.pdf",
     "assignment_folder/secret_intelligence/251107 HIS3027 AS1 assessment brief (university-mandated).pdf",
     "assignment_folder/secret_intelligence/AS1 briefing 2023.pdf",
@@ -197,10 +201,7 @@
     "Pasted image 20251107082536.png",
     "Pasted image 20251029131142.png",
     "Pasted image 20251029131017.png",
-    "assignment_folder/seeing_ghosts_essay/seeing_ghosts_readings/The_Haunted_A_Social_History_of_Ghosts_----_(Pg_169--178).pdf",
     "assignment_folder/seeing_ghosts_essay/readings and notes.md",
-    "assignment_folder/seeing_ghosts_essay/receipt_seeing_ghosts_essay_es1(1).docx.pdf",
-    "assignment_folder/receipt_seeing_ghosts_essay_es1(1).docx.pdf",
     "secret-intelligence/6B FWW readings.md",
     "secret-intelligence/telegrams_and_spies.md",
     "assignment_folder/Murder_Source_analysis/Source Analysis 1.md",
