@@ -259,4 +259,32 @@ This demonstrates the professionalization of the army. There is a strict chain o
 
 ### Chapter 4 
 #### The core argument of this chapter is that the English Civil War armies were initially amateur mobs of civilians who had to be rapidly transformed into professional soldiers. Manuals like Cruso’s were the primary tool for this transformation, attempting to impose order, discipline, and "battle-proofing" on a chaotic situation.
+#### Military manuals (like Cruso’s) were used to turn these civilians into soldiers. They taught the "naming of parts" (technical skills) but also aimed to instil discipline and courage.
+#### While manuals tried to teach complex drills, the reality of battle often forced soldiers to "cut corners." However, the manuals were psychologically vital because "knowledge begets confidence."
+#### Cruso is explicitly named as a key figure. His book was the "most important textbook" for cavalry because the gentry needed to learn how to be officers quickly.
 
+
+##### Use to prove cruso wasnt just obscure theory it was standard of the text of war
+- "The former’s [Cruso’s] _Militarie instructions for the cavallrie_ (first printed in Cambridge in 1632, and reissued in 1644) was the most important textbook on handling what turned out to be the civil wars' decisive arm". (103)
+- "When it seemed likely that they would have to learn how to become officers responsible for leading men in a civil war, many gentlemen purchased training manuals". (102)
+- "John Cruso, the author of the best-selling cavalry manual, also translated and published _The Complete Captain_... in the hope that knowing how to fight the Gallic wars might somehow help his readers win the civil ones". (103)
+
+
+##### Scum of society - SOCIAL CLASS
+- "Most counties press the Scum of all their Inhabitants... men taken out of prison, Tinkers, Peddlers and Vagrants that have no dwelling and such as whom no account can be given". **(p. 99)**
+- - Norfolk's High Constable advised constables to "take idle servingmen, and such other able bodied persons who live dissolutely or idly". **(p. 99)**
+
+
+##### Training as Battle-Proofing - explain psychological utility of Crusos strict rules
+- "Writers of civil war training manuals agreed on one thing—that the primary purpose of training was not just to teach men military skills, but to steel them for the ordeal of war... its function was... 'battle-proofing'" . **(p. 115)**
+- "By practice is gained knowledge, knowledge begets confidence and courage". **(p. 115)**
+
+
+
+##### Difficulty of the Manuals - Too academic fro the field
+- "Most manuals made military manoeuvres so complicated... that they could only be accomplished in the heat of battle by veterans with at least seven years of service". **(p. 104)**
+- Regular soldiers "found it hard to address their social superiors" and would "cram" their prefaces with "classical illusions". **(p. 103)**
+
+
+
+### Chapter 11
