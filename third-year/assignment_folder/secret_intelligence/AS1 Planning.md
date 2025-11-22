@@ -314,4 +314,6 @@ This demonstrates the professionalization of the army. There is a strict chain o
 ##### Winning hearts and minds _ CRUSO UNDERSTOOD THE STRATEGIC VALUE OF DISCIPLINE_
 - Parliamentary commanders realized that by controlling plunder, "'we then gained their hearts'". **(p. 366)**
 - "Such magnanimity brought an immediate military dividend. Civilians supported the invaders with food, lodging and, most precious of all, intelligence". **(p. 366)**
-- 
+
+
+
