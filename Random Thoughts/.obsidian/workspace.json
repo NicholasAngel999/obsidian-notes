@@ -11,16 +11,14 @@
             "id": "f96eee0ca1936e67",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Sentinel66_145619358.pdf",
-                "page": 1,
-                "left": -19,
-                "top": 784,
-                "zoom": 0.849264705882353
+                "file": "Chrimas Shopping 2025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Sentinel66_145619358"
+              "icon": "lucide-file",
+              "title": "Chrimas Shopping 2025"
             }
           }
         ]
@@ -178,6 +176,8 @@
   },
   "active": "f96eee0ca1936e67",
   "lastOpenFiles": [
+    "Sentinel66_145619358.pdf",
+    "Chrimas Shopping 2025.md",
     "Magic The Gathering Deck Ideas/Soundwave Sonic Spy.md",
     "Magic The Gathering Deck Ideas/Phylath.md",
     "images/Pasted image 20250211131937.png",
