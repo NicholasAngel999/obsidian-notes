@@ -317,4 +317,36 @@ This demonstrates the professionalization of the army. There is a strict chain o
 
 
 
-q
+
+
+## Parker, Geoffrey, ‘The “Military Revolution,” 1560-1660--a Myth?’, _The Journal of Modern History_, 48.2 (1976), pp. 196–214
+#### Parker agrees that a "Military Revolution" occurred, but he argues it happened earlier and was driven by different factors than Roberts thought.
+#### It wasn't just genius generals (like Gustavus Adolphus or Maurice of Nassau) who changed war. It was **technology**—specifically the "Trace Italienne" (star-shaped fortresses) and the rise of gunpowder.
+#### To win sieges against these new forts, armies had to become massive. To manage massive armies, you needed **strict discipline, standardized drill, and professional bureaucracy**.
+#### Crusos manual is a direct product of this revolution, he is trying to bring the Dutch method of strict drill and discipline to England because the old methods didnt work. 
+
+##### The Dutch Connection
+- "There is no doubt, however, that Maurice of Nassau and his cousin William-Louis made some important tactical innovations in the army of the Dutch Republic." **(p. 198)**
+- "The Dutch... made a distinctive contribution of their own... Maurice of Nassau and his cousin were convinced of the need for standardization and uniformity in their forces." **(p. 202)**"
+- "The Dutch may not have invented the 'revolution' in tactics, but they certainly invented the best way of coping with some of its effects." **(p. 203)**
+
+
+##### The rise of Manuals and Drill
+- "The evolution from monolithic, massed pike formations to articulated combinations of pike and shot... placed an increasing burden on the junior officers and underofficers." **(p. 202)**
+- Officers "became the crucial links between the army commanders and the small tactical units; they had to control, discipline, and drill their men. It was to answer their needs that de Gheyn and the rest produced their drill books." **(p. 202)**
+
+
+##### The Growth of Armies (Vagabonds as a problem)
+- "Between 1530 and 1710 there was a ten-fold increase both in the total numbers of armed forces paid by the major European states and in the total numbers involved in the major European battles." **(p. 206)**
+- "No government could dream of bringing larger concentrations of troops into action, for the simple reason that none possessed the organization necessary to mobilize, pay, and supply such a force." **(p. 208)**
+
+
+##### Standardisation
+- The new system required "troops who were highly trained and disciplined, men who would act as cogs in a machine; and the cogs had to learn how to march in step and how to perform their movements in perfect unison." **(p. 196)**
+
+
+
+
+
+
+
