@@ -126,3 +126,133 @@ In the late 20th century, witchcraft and possession regained their ability to ho
 
 # Owen Davies The Haunted 
 
+### Imitating the Dead: Fraudulent Manifestations
+
+The success of ghost hoaxes relied on the **familiarity** of spectral manifestations in the prevailing oral and literary culture, which allowed perpetrators to conform to audience expectations.
+
+#### 1. Reformation Propaganda and Clerical Deception
+
+Anti-Catholic propaganda frequently accused Catholic clergy of mimicking spirits for personal gain and recreation.
+
+- **Accusations:** Protestant writers like **John Bale** and **Samuel Harsnett** denounced Catholic priests for using "tricks and necromancy" to simulate supernatural phenomena, such as making vaults sound or houses clatter with chains.
+    
+- **Alleged Methods:** These included placing accomplices in **vaults** beneath tombs to speak as the dead , or using a "gastly ghost, walking in a sheet" to secure conversion. One instance described a priest placing **candles on crabs** to simulate purgatorial souls hovering over graves.
+    
+- **Conclusion:** Accusations of Catholic deception **far outweighed** concrete evidence of such practices.
+    
+
+#### 2. Visual Simulation: The White Sheet
+
+The simplest and most common method to simulate a ghost was to wear a **white sheet**.
+
+- **Early Accounts:** Reginald Scot noted that "one knave in a white sheet hath cozened and abused many thousands". **Erasmus** described a detailed hoax involving a sheet and a **live coal in a shell** to convince a priest that a ghost was burning.
+    
+- **Urban Pranks:** These hoaxes were common in public spaces like streets and churchyards. Perpetrators were caught near **Westminster Abbey** and **St Paul's churchyard**, often using white fabric and chalk to enhance the effect.
+    
+- **Consequences:** Hoaxers frequently faced legal penalties or physical retribution, with one perpetrator being **beaten so severely** by a posse he required hospital treatment.
+    
+
+#### 3. Auditory and Poltergeist Hoaxes
+
+In confined or domestic settings, mimicking **auditory phenomena** was often the preferred method, as it did not require a visual apparition.
+
+- **Vocal Simulation:** Techniques included placing a long **hollow reed or cane** through a wall to speak into, mimicking a dead person's voice, sometimes for fraudulent purposes such as acquiring an inheritance.
+    
+- **Poltergeist Activity:** Simple subterfuges included a boy violently **jumping on a central beam** to shake a house , or a girl tying a **strand of her hair** to objects to simulate invisible movement.
+    
+- **Stone-Throwing** was a "satisfying and relatively easy" manifestation to emulate, often leading to rumors of haunting.
+    
+
+#### 4. The Role of Servants and Gender
+
+A distinction existed between the gender of hoaxers and the type of haunting simulated.
+
+- **Gender Distribution:** **Sheet-wearing** was typically a **male** activity in public spaces. **Poltergeist activity** was largely perpetrated by **young females**, particularly **servants** who were constrained to the domestic environment.
+    
+- **Motivation:** Servant girls used hoaxes to transform the supernatural into **domestic power**. Motives included mischief and attention-seeking, with one girl confessing she caused disturbances because she was **frightened of being left alone** and wanted the attention to keep the family at home. This use of the supernatural to manipulate household dynamics aligns with patterns observed in adolescent possession cases.
+    
+
+#### 5. Criminal and Financial Exploitation
+
+Ghost simulation was frequently employed for criminal or financial gain.
+
+- **Theft and Extortion:** Thieves used the sheet disguise to frighten households and steal goods. Other criminals, such as Arthur Chambers, hid in a coffin and emerged as a ghost to facilitate a robbery. Extortioners used "delusory shewes and apparitions" to coerce victims into giving up their inheritance.
+    
+- **Diversion:** Smugglers and poachers employed ghost illusions, such as **blue lights** or a man with a **speaking trumpet**, to frighten people off the streets and clear areas for their illicit activities.
+    
+- **Housing Market:** Hoaxes were instigated to "sink the Rents of a House" or to prevent new tenants from being enticed.
+    
+
+---
+
+### Projecting Ghosts: Technology and Illusion
+
+The history of ghost projection details the shift from simple costume hoaxes to sophisticated optical illusions and media production.
+
+#### 1. Early Optical Illusions
+
+The quest to create a visible yet intangible ghost led to early scientific exploitation of optics.
+
+- **Mirrors:** As early as the 1530s, **mirrors** or "looking-glasses" were known to produce images in the air, often mistaken for spirits.
+    
+- **Camera Obscura:** This device used a convex lens and a darkened box to project inverted images. By the late 16th century, **Giambattista della Porta** was using it with mirrors to project correctly oriented scenes involving live actors, blurring the line between reality and delusion.
+    
+- **Magic Lantern:** Developed in the mid-17th century, this device provided its own light source to project images painted on **glass slides** onto a white surface.
+    
+    - It was primarily associated with the portrayal of **death and demons**. **Kircher** and **Huygens** (the likely inventor) were key figures in its development and dissemination.
+        
+
+#### 2. Phantasmagoria and Spectral Projection
+
+The **Phantasmagoria** represented a significant advance, transforming the nature of projected ghosts.
+
+- **Innovation:** It utilized **back projection** onto a translucent screen, which created the illusion of the ghost having an independent existence. Moving the lantern forward and backward created the startling effect of ghosts **lunging towards the audience** and receding.
+    
+- **Pioneers:** **Paul Philidor** and **Étienne-Gaspard Robertson** (inventor of the 'Fantascope') developed and popularized the show, often advertising it as an instrument of "enlightenment" to destroy superstitious belief in spirits.
+    
+- **Theatrical Integration:** The illusion was sometimes married with **ventriloquism** to provide synchronised speech, making the phantom appear to talk.
+    
+
+#### 3. Pepper's Ghost
+
+This illusion combined the fluidity of real movement (from the camera obscura concept) with the translucent appearance (from the magic lantern).
+
+- **Mechanism:** Invented by **Henry Dircks** and popularized by **Professor John Henry Pepper**. It used a large, angled **sheet of glass** on stage to reflect an illuminated actor (or ghost actor) from a hidden pit onto the performance area, creating a **three-dimensional, translucent specter** that could interact with live actors.
+    
+- **Impact:** Pepper's Ghost was a theatrical sensation and was used by travelling **"Ghost showmen"** at fairs for several decades.
+    
+
+#### 4. Ghosts in Early Cinema and Photography
+
+The development of photography and motion pictures introduced new methods for spectral representation.
+
+- **Spirit Photography:** Began in the 1860s, driven by the desire for **physical proof of the spirit world**. Early ghost photographs were often the result of long exposure times, where a moving person appeared as a translucent figure. Fraudulent photographers were later exposed for using cutouts, dolls, and multiple exposures.
+    
+- **Early Motion Pictures:** Pioneers like **George Méliès** (France) and **George Albert Smith** (UK) were often former magicians or lanternists, and they applied techniques like **double-exposure** and **stop motion** to create cinematic ghosts.
+    
+- **Comic Genre:** Silent slapstick comedies, particularly from Hollywood studios like Hal Roach, used ghosts for farcical effect. The classic gag was the comedian mistaking someone covered in a **white substance** (like mortar or whitewash) or a white sheet for a ghost. This genre ultimately helped **rob the white sheet of its power to scare**.
+    
+
+---
+
+### Fictional Portrayals in Drama and Literature
+
+Fictional representations reinforced stereotypical ghostly traits and influenced how the public understood and staged hoaxes.
+
+- **Elizabethan and Stuart Stage:** Ghosts were primarily **vengeful, bloody spirits** influenced by classical Roman tragedy (Seneca).
+    
+    - The ghosts often served as **dramatic interventionists**, shrieking "Revenge!".
+        
+    - **Theatrical Portrayal:** Ghosts typically entered from the "infernal region" via **trapdoors** below the stage , and were often dressed in **pilches** (furry leather garments) or white sheets.
+        
+- **Restoration to Enlightenment (18th C):** Intellectual trends favored revealing stage ghosts as **frauds or mental fantasies**.
+    
+    - Satirical farces, such as those by John Gay, ridiculed the earnest portrayal of ghosts, arguing a play "without a Ghost is like, is like, - igad it is like nothing".
+        
+    - Critics valued the psychological portrayal of fear, as epitomized by actor **David Garrick's** famous "start" upon seeing Hamlet's ghost.
+        
+- **The Gothic Impulse (Late 18th C):** The Gothic novel, set in medieval, Catholic, and continental environments, used ghosts as **fictional realities** to frighten and shock.
+    
+    - The theatrical adaptation of **Matthew Lewis's** _The Castle Spectre_ (1797) was a massive popular success due to its use of dramatic lighting and scenery to create a ghost spectacle.
+        
+- **Modernization:** By the mid-19th century, the ghost in **The Corsican Brothers** became the new melodramatic standard, using the innovative **Corsican trap** for a gliding, modern materialization. This shift emphasized stage spectacle and visual realism over traditional, formulaic representations.
