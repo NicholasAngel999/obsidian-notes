@@ -18,6 +18,10 @@ Yet in the five years after the first DRC report, that forecast had been heavily
 
 The dread of war was still present in 1939, and war was still being painted in those apocalyptic hues that were a feature of interwar literature - **225**
 
+The near and medium-term military balance was presumed to be perilous, a perception that was instrumental in convincing the cabinet to avoid the dangers of any attempt at deterrence,
+above all during the Munich crisis.25 An Anglo-German confrontation was thereby postponed, yet the German armed forces of September 1938, in terms of war readiness and overall mobilised strength, were a much inferior foe compared to the military machine that performed so impressively in the campaigns of 1940. - **231**
+
+The British effort in intelligence during the 19305 revealed a tendency to place greater faith in quantitative measures of power than in qualitative distinctions. For much of the decade German power was seen as an arithmetical sum of the number of divisions, the number of aircraft, and the number of warships she possessed, as well as the quantities coming off the production lines **238**
 
 
 
