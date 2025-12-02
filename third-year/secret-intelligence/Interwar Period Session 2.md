@@ -16,6 +16,8 @@ The outbreak of war in September 1939, following the German attack on Poland, of
 
 Yet in the five years after the first DRC report, that forecast had been heavily overshadowed by the subsequent evolution of an intelligence picture of Nazi Germany - **225**
 
+The dread of war was still present in 1939, and war was still being painted in those apocalyptic hues that were a feature of interwar literature - **225**
+
 
 
 
