@@ -23,6 +23,8 @@ above all during the Munich crisis.25 An Anglo-German confrontation was thereby 
 
 The British effort in intelligence during the 19305 revealed a tendency to place greater faith in quantitative measures of power than in qualitative distinctions. For much of the decade German power was seen as an arithmetical sum of the number of divisions, the number of aircraft, and the number of warships she possessed, as well as the quantities coming off the production lines **238**
 
+The most coherent expression of the British intelligence image of Nazi Germany in the phase of secrecy came with the long-overdue production of the JPC's draft strategic appreciation in October 1935. - **229**
+
 
 
 
