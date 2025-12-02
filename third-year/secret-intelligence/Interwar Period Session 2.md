@@ -12,6 +12,10 @@ Enigma machines
 
 ### How did British Perception of the threat from Germany evolve between 1933-1939?
 
+The outbreak of war in September 1939, following the German attack on Poland, offered grim proof of the validity of the original forecast set down by the DRC in 1934 - **225**
+
+Yet in the five years after the first DRC report, that forecast had been heavily overshadowed by the subsequent evolution of an intelligence picture of Nazi Germany - **225**
+
 
 
 
