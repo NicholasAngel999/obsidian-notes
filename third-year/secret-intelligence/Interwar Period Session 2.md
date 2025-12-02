@@ -27,6 +27,8 @@ The most coherent expression of the British intelligence image of Nazi Germany i
 
 Although the figures given out by Hitler were higher than those upon which British Intelligence had been working, no immediate shake-up in the image of German power occurred. **229**
 
+The label honeymoon is appropriate in two senses. For one thing, as the German rearmament effort emerged from secrecy, much effort was spent on the British side in the pursuit of arms limitation agreements with the Germans as a substitute for the failure of the Geneva conference.18 With the exception of the Anglo-German Naval Agreement, regarded as a model by few outside the circle of the Admiralty, these pursuits were sterile. Yet hopes persisted. Honeymoon serves also as a description of the brief relationship that grew up between the British armed forces and their German opposite numbers. No longer cloaked in secrecy, further German rearmament was ostensibly a matter of public record. **229**
+
 
 
 
