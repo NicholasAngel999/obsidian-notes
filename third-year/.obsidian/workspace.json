@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +182,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "df80a49d0d35e468",
+  "active": "6518a7c9b5365cc2",
   "lastOpenFiles": [
     "seeing_ghosts/Class Prep.md",
     "secret-intelligence/Interwar Period Session 2.md",
