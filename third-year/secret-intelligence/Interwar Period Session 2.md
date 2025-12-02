@@ -25,6 +25,8 @@ The British effort in intelligence during the 19305 revealed a tendency to place
 
 The most coherent expression of the British intelligence image of Nazi Germany in the phase of secrecy came with the long-overdue production of the JPC's draft strategic appreciation in October 1935. - **229**
 
+Although the figures given out by Hitler were higher than those upon which British Intelligence had been working, no immediate shake-up in the image of German power occurred. **229**
+
 
 
 
