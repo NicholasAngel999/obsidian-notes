@@ -15,9 +15,9 @@
               "state": {
                 "file": "Sentinel66_145619358.pdf",
                 "page": 1,
-                "left": -10,
+                "left": -8,
                 "top": 796,
-                "zoom": 1.5
+                "zoom": 1.8676470588235294
               },
               "icon": "lucide-file-text",
               "title": "Sentinel66_145619358"
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c7e48b47fa97ebd5",
@@ -185,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60f67675c137c9af",
+  "active": "a6de958a0c46e41f",
   "lastOpenFiles": [
     "Chrimas Shopping 2025.md",
     "Sentinel66_145619358.pdf",
