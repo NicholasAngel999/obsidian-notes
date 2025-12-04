@@ -53,3 +53,46 @@ essentially the British started off with an optimistic view from 1933-1936 based
 ### Between 1933 and 1941 how did the British intelligence respond to the emerging threat from Japan? 
 
 
+- "The resurgence in 1933 of the Japanese threat to British interests in Asia could not have come at a worse time, for it coincided with the emergence of a revisionist and rapidly rearming Germany in Europe." - **105**
+
+- "This period, therefore, saw a major reform and expansion of Britain's intelligence-gathering operations as the priority shifted from acquiring information on the Comintern to measuring Japan's potential for war." - **105**
+
+- "The response of the services to the growing perception of a Japanese threat was twofold: first, they sought to improve and reform their own intelligence-gathering networks in the region, and second, they belatedly recognized the need to move towards a pooling of resources and information." - **106**
+
+- "The structure of intelligence-gathering thus underwent major reform." - **106**
+
+- "The Air Ministry this meant bringing a decade's prevarication to an end and finally appointing air attachés to both Peking and Tokyo." - **106**
+
+- "Despite this unpromising environment, it was essential that the services improve their intelligence-gathering on Japan." - **106**
+
+- "Unfortunately, the SIS proved unable to provide much useful information as its organization in Japan was still woefully inadequate." - **107**
+
+- "Economy has to be considered, but so have the following most important points: (a) The situation in the Far East has changed completely and has left our intelligence arrangements high and dry. (b) Unless we have a good deal of Japanese wireless our intelligence will be quite inadequate, and we may find ourselves critically at fault." - **109**
+
+- "The result of the watch was that by the beginning of 1934 the GCCS had broken the consular code and there was some progress with the IJA material." - **110**
+
+- "Thus in April 1935 the Far Eastern Combined Bureau (FECB) at Hong Kong opened under the command of Captain John Waller, with Paymaster Commander Harry Shaw as the head of the 'Y' section." - **112**
+
+- "In order to collate the vast amount of information that would flow from the PNIO to the C-in-C China at a time of imminent or actual hostilities, Tait recommended that a permanent Chief of Intelligence Staff (COIS) with the rank of Captain should be appointed to the China Station where he would head an onshore naval intelligence centre." - **111**
+
+- "Tait's visit to East Asia led not only to the formation of the FECB, but also to reform of the SIS presence in the region." - **115**
+
+- "The increasing sophistication of the intelligence structure and the expansion of the SIGINT capability meant that more information than ever before was generated about Japan's intentions and its actions in China." - **115**
+
+- "The problem, however, was that, although these reforms improved British intelligence in the region as a whole, they largely failed to dent the wall of secrecy surrounding Japanese rearmament." - **115**
+
+- "Thus, static ethnocentric values were being challenged, but, unfortunately, this does not seem to have affected assessments of Japan where racial views continued to hamper Britain's understanding of the Japanese military reforms and contributed in an important way to the sense of complacency that permeated Whitehall." - **120**
+
+
+
+The British intelligence response to the emerging Japanese threat between 1933 and 1937 was characterized by **major institutional reform and expansion** , shifting priority from the Comintern to measuring Japan's war potential and leading to the formation of the **Far Eastern Combined Bureau (FECB)** to pool resources and improve signal intelligence (SIGINT). However, these efforts to improve collection, including breaking Japanese codes , were severely hampered by increased Japanese secrecy, a lack of language officers, and the persistence of complacent racial views that undermined accurate military assessments.
+
+
+
+- British already worried about Germany so having to worry about Japan was a strategic nightmare
+- They realized their old lookout spots (intelligence operations) weren't good enough, so they quickly tried to make them bigger and better, changing their focus from looking for small enemies to measuring how strong Japan was
+- Created new central lookout base called *Far Eastern Combined Bureau (FECB)*
+- Japan was very secretive so hard to see inside the Japanese structure to see what they were doing 
+	- Also some British leaders wrongly thought Japan was slow and clumsy because they believed their own country was much better
+- Britain spent a lot of time and resources to see what Japan was planning but Japan made it tough to figure out if they were actually ready for a big fight
+
