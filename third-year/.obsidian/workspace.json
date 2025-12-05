@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secret-intelligence/Interwar Period Session 2.md",
+                "file": "seeing_ghosts/Ghosts shinanigans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interwar Period Session 2"
-            }
-          },
-          {
-            "id": "9aeeebf1a80790a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secret-intelligence/Germany and Japan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Germany and Japan"
+              "title": "Ghosts shinanigans"
             }
           }
         ]
@@ -92,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a68842be55fb6cd",
@@ -197,8 +182,9 @@
   },
   "active": "6518a7c9b5365cc2",
   "lastOpenFiles": [
-    "secret-intelligence/Germany and Japan.md",
     "secret-intelligence/Interwar Period Session 2.md",
+    "seeing_ghosts/Ghosts shinanigans.md",
+    "secret-intelligence/Germany and Japan.md",
     "seeing_ghosts/Class Prep.md",
     "assignment_folder/seeing_ghosts_essay/readings and notes.md",
     "assignment_folder/secret_intelligence/AS1 Planning.md",
@@ -235,7 +221,6 @@
     "Murdey-and-mayhem/rise_of_modern_killer.md",
     "Murdey-and-mayhem/case_study_session.md",
     "Murdey-and-mayhem/Week_2_First_Session.md",
-    "Murdey-and-mayhem/the_moors_murders.md",
-    "Murdey-and-mayhem/Introduction.md"
+    "Murdey-and-mayhem/the_moors_murders.md"
   ]
 }
