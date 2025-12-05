@@ -152,3 +152,11 @@ Chapter III outlines several reasons why experiences might be rejected or explai
 
 
 
+
+witch craze translated from German meaning witch hysteria 
+
+
+alienists - first mental health professionals
+
+
+
