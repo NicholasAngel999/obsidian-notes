@@ -35,8 +35,7 @@
               "title": "Germany and Japan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a68842be55fb6cd",
@@ -195,7 +195,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9aeeebf1a80790a8",
+  "active": "6518a7c9b5365cc2",
   "lastOpenFiles": [
     "secret-intelligence/Germany and Japan.md",
     "secret-intelligence/Interwar Period Session 2.md",
