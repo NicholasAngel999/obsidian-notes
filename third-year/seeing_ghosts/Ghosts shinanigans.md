@@ -160,3 +160,9 @@ alienists - first mental health professionals
 
 
 
+not the same as multiple personality but dissociation becomes an idea 
+- some people seem to have it deliberately to do modern spiritualism 
+- some is not controlled its brought on them
+- can this be made to happen to others, are they this powerful
+
+
