@@ -166,3 +166,35 @@ not the same as multiple personality but dissociation becomes an idea
 - can this be made to happen to others, are they this powerful
 
 
+
+The basic idea of the long document you uploaded is that some grown-ups were trying to figure out if people ever see or hear things that aren't really there, especially when they are wide awake.
+
+Imagine you see your mom walking into the kitchen, but then you realize she's actually still in the living room. That surprising sight is what they were studying!
+
+Here’s what they did and what they learned:
+
+### 🕵️ What They Did
+
+1. **They Asked a Simple Question:** They asked **17,000** grown-ups a simple "yes" or "no" question: "Have you ever seen, heard, or felt something that wasn't actually there?".
+    
+2. **They Kept Track:** If someone said **"yes,"** they wrote down all the details: what they saw, where they were, and when it happened.
+    
+3. **They Looked for Clues:** They were especially interested in things that were seen or heard right when something big happened to the person they saw—like if they saw a friend right when that friend was passing away. They called these surprising matches **"coincidences"**.
+    
+
+---
+
+### 👂 What They Found Out
+
+- **It Happens More Than You Think:** About **1 out of every 10 people** they asked said "yes" to seeing or hearing something that wasn't there.
+    
+- **Seeing is Most Common:** Most of the time, people **saw things** (1,422 cases). Hearing things (553 cases) or feeling a touch (157 cases) was less common.
+    
+- **The Sight Was Normal:** When people saw something, it usually looked like an ordinary person or object, not a scary monster.
+    
+- **The Coincidences Were Too Weird:** The most important thing they discovered was that those surprising "coincidences" happened **much too often** to be just luck. It was like flipping a coin and having it land on heads 440 times in a row!.
+    
+
+The main big idea is that when a surprising match happens between what one person sees and what is happening to a friend far away, it suggests there might be a **secret way** their minds are talking to each other, even without using their eyes or ears.
+
+
