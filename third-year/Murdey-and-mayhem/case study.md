@@ -89,3 +89,68 @@ Here is a structured plan for your case study, integrating the key facts and arg
 This structure allows you to use the specific tragedy of Timothy Evans's execution to support the broader argument that capital punishment must be abolished because the state cannot risk an irreversible error in a fallible justice system.
 
 Would you like me to find any more specific information on the **Cameron Todd Willingham (US)** case, or do you have enough for the **Timothy Evans (UK)** case study?
+
+
+
+
+## 🎤 Debate Outline: The Case of Timothy Evans
+
+### 1. Opening Statement: The Irreversible Error (Approx. 1 minute)
+
+|Point|Key Argument & Integration|Citation Focus|
+|---|---|---|
+|**Hook**|Begin by stating the core thesis: The death penalty is unacceptable because the justice system is fallible, and execution is **irreversible**.|(None)|
+|**Case Intro**|Introduce the case: **Timothy Evans**, hanged in 1950, for a murder he did not commit.||
+|**Conclusion**|His case proves that the system cannot be trusted with finality. **"Where there is doubt, there must be no death."**|(None)|
+### 2. First Speaking Point: The Fatal Flaw in the Evidence
+
+- **Core Claim:** Evans's conviction rested on flawed testimony and police reliance on a killer.
+    
+- **Supporting Points:**
+    
+    - **The Star Witness was the Killer:** The prosecution relied on the testimony of Evans’s downstairs neighbour, **John Christie**, who was described by the judge as a "perfectly innocent man".
+        
+    - **The True Identity:** Christie was, in reality, a serial killer who murdered at least eight people, including Evans's wife and daughter.
+        
+    - **Vulnerability:** The conviction relied heavily on Evans's conflicting and retracted confession, which may have been obtained under duress due to his low IQ and suggestibility.
+        
+
+---
+
+### 3. Second Speaking Point: The Irreversible Consequence
+
+- **Core Claim:** Evans's death was a **judicial murder** that could never be undone.
+    
+- **Supporting Points:**
+    
+    - **The Execution:** Timothy Evans was hanged on March 9, 1950.
+        
+    - **The Discovery:** Three years later, in 1953, the truth was confirmed when police found the remains of several women hidden in the walls of Christie's flat, and Christie confessed to killing Evans's wife.
+        
+    - **The Futile Pardon:** Evans was only granted a **posthumous Royal Pardon in 1966**. The subsequent High Court judgment in 2004, 54 years too late, confirmed his innocence. The apology is meaningless to the executed.
+        
+
+---
+
+### 4. Third Speaking Point: The Political Tipping Point
+
+- **Core Claim:** The Evans case destroyed political faith in the death penalty, making abolition inevitable.
+    
+- **Supporting Points:**
+    
+    - **Public Pressure:** The discovery of this wrongful execution, combined with other controversial cases, generated a massive "wave of uneasiness through the British public" about capital punishment.
+        
+    - **The Unworkable Compromise:** The government tried to contain the controversy by passing the **Homicide Act of 1957**, which only partially restricted the death penalty.
+        
+    - **The Flaw Acknowledged:** This compromise failed because it demonstrated the **system's inability** to rationally define a "capital murder." In 1964, the Home Secretary was forced to admit the Act was **"unworkable in its present form"** and that the next Home Secretary "will have to end the death penalty".
+        
+    - **Abolition:** The outrage and legislative failure paved the way for the **Murder (Abolition of Death Penalty) Act 1965**.
+        
+
+---
+
+### 5. Conclusion (Rebuttal and Summary)
+
+- **Summary:** Reiterate that the tragic case of Timothy Evans is the _locus classicus_ of judicial error. It demonstrates that as long as the police, witnesses, and courts are fallible, the finality of the death penalty means the state will commit murder in the name of justice.
+    
+- **Closing Line:** "The life taken by a criminal is a tragedy. The life taken by a state in error, as in the case of Timothy Evans, is an **unpardonable injustice**."
