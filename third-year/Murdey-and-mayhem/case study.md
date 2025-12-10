@@ -168,4 +168,6 @@ Would you like me to find any more specific information on the **Cameron Todd Wi
 - Executed on march 9th by hanging 
 - During the trial Evans accused his downstairs neighbour John Christie who was the chief prosecution witness in the case
 - 3 years after the case it turned out Christie was a serial killer who had murdered several other women in the same building including his own wife Ethel
-- 
+- trial lasted 3 days 
+- a lot of key evidence was omitted or never shown
+- The jury took just 40 mins to come to a decision 
