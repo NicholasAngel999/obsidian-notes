@@ -154,3 +154,18 @@ Would you like me to find any more specific information on the **Cameron Todd Wi
 - **Summary:** Reiterate that the tragic case of Timothy Evans is the _locus classicus_ of judicial error. It demonstrates that as long as the police, witnesses, and courts are fallible, the finality of the death penalty means the state will commit murder in the name of justice.
     
 - **Closing Line:** "The life taken by a criminal is a tragedy. The life taken by a state in error, as in the case of Timothy Evans, is an **unpardonable injustice**."
+
+
+
+
+
+# Timothy Evans
+
+- Welsh lorry driver
+- 20th November 1924 
+- dies 9th March 1950
+- wrongfully convicted of murdering his wife Beryl and Daughter Geraldine at their residence in Notting Hill
+- Executed on march 9th by hanging 
+- During the trial Evans accused his downstairs neighbour John Christie who was the chief prosecution witness in the case
+- 3 years after the case it turned out Christie was a serial killer who had murdered several other women in the same building including his own wife Ethel
+- 
