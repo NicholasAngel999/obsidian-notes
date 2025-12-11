@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a68842be55fb6cd",
@@ -181,8 +180,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "df80a49d0d35e468",
+  "active": "6518a7c9b5365cc2",
   "lastOpenFiles": [
+    "Murdey-and-mayhem/Case Study.md",
+    "Murdey-and-mayhem/case study.md",
     "assignment_folder/seeing_ghosts_essay/readings and notes.md",
     "assignment_folder/seeing_ghosts_essay/receipt_seeing_ghosts_essay_es1(1).docx.pdf",
     "assignment_folder/Murder_Source_analysis/receipt_Source_Analysis.docx.pdf",
@@ -193,13 +194,11 @@
     "assignment_folder/secret_intelligence/planned reading list.md",
     "assignment_folder/secret_intelligence/AS1 briefing 2023.pdf",
     "assignment_folder/secret_intelligence/receipt_The_Professionalisation_of_Paranoia_2_B_Submitted.docx.pdf",
-    "Murdey-and-mayhem/case study.md",
     "seeing_ghosts/Ghosts shinanigans.md",
     "secret-intelligence/Interwar Period Session 2.md",
     "secret-intelligence/Germany and Japan.md",
     "seeing_ghosts/Class Prep.md",
     "secret-intelligence/Zinoviet Letter.md",
-    "Murdey-and-mayhem/Case Study.md",
     "assignment_folder/secret_intelligence/The_Professionalisation_of_Paranoia.docx",
     "assignment_folder/secret_intelligence/The_Professionalisation_of_Paranoia changed by onlyoffice.docx",
     "assignment_folder/The_Professionalisation_of_Paranoia.docx",
