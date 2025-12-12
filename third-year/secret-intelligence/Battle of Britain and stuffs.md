@@ -85,7 +85,7 @@ Intelligence & National Security,
 
 How did British intelligence affect the Battle of Britain?
 
-- ‘One may draw theconclusion that the decisive factor in this war is not so much the weight of thematerial used, as a High Command who knows how to use it best’
+- ‘One may draw the conclusion that the decisive factor in this war is not so much the weight of the material used, as a High Command who knows how to use it best’
     
 - The Battle of Britain was something of a peculiarity in that combat occurred exclusively in the air and was fought by two tiny airborne military elites, albeit with extensive ground support apparatus. It was a struggle of attrition: if either side suffered unsustainable losses in pilots or planes it would be forced to suspend operations. If this fate were to befall  the RAF then Britain would be invaded, but if the Luftwaffe were rendered incapable of sustaining offensive operations, then the German invasion would be suspended.
     
