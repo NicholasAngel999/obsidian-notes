@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a68842be55fb6cd",
@@ -180,7 +181,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6518a7c9b5365cc2",
+  "active": "df80a49d0d35e468",
   "lastOpenFiles": [
     "Murdey-and-mayhem/case study.md",
     "secret-intelligence/Battle of Britain and stuffs.md",
