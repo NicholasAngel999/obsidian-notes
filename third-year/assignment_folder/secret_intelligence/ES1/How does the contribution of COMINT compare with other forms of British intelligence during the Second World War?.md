@@ -7,7 +7,7 @@
 ## Hinsley, F.H, ‘Intelligence on German Appreciations & Preparations from February 1944 to D-Day’, in _British Intelligence in the Second World War : Its Influence on Strategy and Operations. Vol.3, Part 2_ , by F. H. Hinsley (HMSO, 1988), pp. 41–101
 
 - "In addition to giving the Allies some assurance that, should any occur, untoward changes in German expectations and preparations would not go undetected, these Sigint developments enabled them to undertake a deception programme which had reasonable prospects of prolonging the enemy's uncertainty..." (p. 44-45).
-- "That the Allies could rely on intelligence at least to this extent was due to the fact that PR, agents and reports from the Resistance... were being supplemented more and more by Sigint." (p. 44).
+- "That the Allies could rely on intelligence at least to this extent was due to the fact that PR, agents and reports from the Resistance—the non-Sigint sources whose contribution to knowledge of Germany's defences and order of battle continued to increase—were being supplemented more and more by Sigint." (**Page 44**)
 	- show that COMINT acted as a **force multiplier**. It didn't replace **PR** (IMINT) or **Resistance** (HUMINT); it "supplemented" them, creating a more accurate order-of-battle than any single source could achieve alone.
 
 - "Such a programme [deception] would have been impracticable if Sigint had not provided detailed information about Germany's measures and frequent confirmation that her own intelligence was in a poor state..." (p. 45)
@@ -51,3 +51,10 @@
 
 
 ## Reynolds, David, ‘The Ultra Secret and Churchill’s War Memoirs’, _Intelligence and National Security_, 20.2 (2005), pp. 209–24
+
+
+- "Ultra stayed secret; indeed, as Sir Alexander Cadogan of the Foreign Office observed to Professor David Dilks, intelligence remained 'the missing dimension' of most diplomatic and military histories." (p. 209)
+- "As a meeting of senior civil servants privately acknowledged in 1969, the omission of intelligence made all the existing official war histories 'misleading', but it was essential bulwark for the Ultra secret. Historian Richard Aldrich has called this 'the last deception operation of the Second World War'." (p. 212)
+- "From Churchill's telegram to Eden on 30 March Pownall removed the reference numbers of the intercepts; a commendation of 'searching and vigilant British intelligence' became a tribute to 'our agents on the spot'. This became a familiar ploy: disguising sigint as humint." (p. 217-218)
+- "But the reader is given the impression that the information came from 'active and daring' agents in Athens where 'German staffs preserved less than their usual secrecy'." (p. 219)
+- "Second, and more interesting, was the fear that if the Germans and Japanese became aware of the part played by special intelligence, they might claim they had not been fairly defeated an echo of the 'stab in the back' myth about 1918, which Hitler had exploited so successfully." (p. 212)
