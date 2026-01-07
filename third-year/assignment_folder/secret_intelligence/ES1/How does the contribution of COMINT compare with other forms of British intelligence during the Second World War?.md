@@ -4,7 +4,7 @@
 
 
 
-# Hinsley, F.H, ‘Intelligence on German Appreciations & Preparations from February 1944 to D-Day’, in _British Intelligence in the Second World War : Its Influence on Strategy and Operations. Vol.3, Part 2_ , by F. H. Hinsley (HMSO, 1988), pp. 41–101
+## Hinsley, F.H, ‘Intelligence on German Appreciations & Preparations from February 1944 to D-Day’, in _British Intelligence in the Second World War : Its Influence on Strategy and Operations. Vol.3, Part 2_ , by F. H. Hinsley (HMSO, 1988), pp. 41–101
 
 - "In addition to giving the Allies some assurance that, should any occur, untoward changes in German expectations and preparations would not go undetected, these Sigint developments enabled them to undertake a deception programme which had reasonable prospects of prolonging the enemy's uncertainty..." (p. 44-45).
 - "That the Allies could rely on intelligence at least to this extent was due to the fact that PR, agents and reports from the Resistance... were being supplemented more and more by Sigint." (p. 44).
@@ -22,7 +22,7 @@
 
 
 
-# Howard, Michael, ‘The United Kingdom, September 1939-August 1942’, in _British Intelligence in the Second World War: Vol.5: Strategic Deception (History of the Second World War)_ (London: H.M.S.O., 1990), pp. 3–30
+## Howard, Michael, ‘The United Kingdom, September 1939-August 1942’, in _British Intelligence in the Second World War: Vol.5: Strategic Deception (History of the Second World War)_ (London: H.M.S.O., 1990), pp. 3–30
 
 - "Situations are bound to arise in which, although it is not possible to prevent the enemy from acquiring some information, it is possible to ensure that the intelligence he does so acquire is misleading or false." (p. 3)
 - "Intelligence and counter-intelligence operations always tend, like any other, to develop a momentum of their own. A major task both of intelligence and of security authorities is to hamper the intelligence-gathering of unfriendly powers." (p. 3)
@@ -35,3 +35,19 @@
 
 
 
+
+## Ferris, John, ‘Intelligence’, in _The Cambridge History of the Second World War. Volume I, Fighting the War_ , ed. by John Robert Ferris and Evan Mawdsley (Cambridge University Press, 2015), pp. 637–63 
+
+- "Intelligence is the collection, collation and analysis of evidence to enable an effective and efficient use of scarce resources. Intelligence is not a form of power, but rather a means to guide its use." (p. 637)
+- "The best intelligence is useless without efficient links between the organs which collect, evaluate and act upon it. Flaws are possible anywhere along the chain. When one link breaks, so will the whole." (p. 638)
+- "In intelligence, the Western Allies multiplied each other's strengths. German and other Axis agencies divided them. They competed not only against the enemy, but against each other." (p. 646)
+- "German intelligence failed precisely when Nazi strategy most needed it to succeed. Given the material odds, however, Germany might have lost even had it possessed an ULTRA, and the Allies had not." (p. 649)
+- "From the fount of signals intelligence flows the richest streams of data, but usually these yield first-rate material on second-rate issues, while those on the greatest of matters are hard to tap." (p. 638)
+- "The Germans failed to attack high-grade American or British cryptographic machines because the task was hard, resources scarce, and only massive and centralized cryptanalysis could break them. This, the divided German system could not provide. One German cryptanalyst called a unified system 'a monster organization'. Britons named it Bletchley Park." (p. 647)
+- "The Allies never read every important enemy message, or most of them. ULTRA was not the best source on everything; nor were technical achievements in cryptanalysis and battlefield success linked in a simple way." (p. 649)
+
+
+
+
+
+## Reynolds, David, ‘The Ultra Secret and Churchill’s War Memoirs’, _Intelligence and National Security_, 20.2 (2005), pp. 209–24
