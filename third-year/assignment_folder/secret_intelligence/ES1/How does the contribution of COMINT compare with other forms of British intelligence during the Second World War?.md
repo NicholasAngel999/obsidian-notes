@@ -84,4 +84,9 @@
 
 
 
-## ‘Introduction [of] The Battle of the Atlantic and Signals Intelligence : U-Boat Situations and Trends 1941-1945 (Publications of the Navy Records Society Vol.139)’, in _The Battle of the Atlantic and Signals Intelligence : U-Boat Situations and Trends 1941-1945 (Publications of the Navy Records Society Vol.139)_, by David Syrett (Aldershot : Ashgate, 1998), pp. x–xxxiv
+#### ‘Introduction [of] The Battle of the Atlantic and Signals Intelligence : U-Boat Situations and Trends 1941-1945 (Publications of the Navy Records Society Vol.139)’, in _The Battle of the Atlantic and Signals Intelligence : U-Boat Situations and Trends 1941-1945 (Publications of the Navy Records Society Vol.139)_, by David Syrett (Aldershot : Ashgate, 1998), pp. x–xxxiv
+
+
+
+
+
