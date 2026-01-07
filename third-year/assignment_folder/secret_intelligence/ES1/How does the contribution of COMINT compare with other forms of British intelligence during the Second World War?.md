@@ -63,6 +63,20 @@
 
 ## ‘Chapter 7: Signals Intelligence and the Battle of the Atlantic’, in _Decoding History : The Battle of the Atlantic and Ultra_ , by W. J. R. Gardner (Macmillan, 1999), pp. 120–45 & notes : 237-241
 
+-  "But perhaps the most important thing to remember is that Ultra by whatever name it was known was only a part of Comint, in itself a subset of Sigint and even that was a component of the whole range of intelligence available to the Allies." (**Page 121**)
+- "In discussing Ultra and the part that it played in the Battle of the Atlantic, it is important to understand not only what it was and how it was obtained but also to realise how it fitted into a number of contexts... Unless these are absorbed to some extent, then the tendency to mythologise Ultra becomes nearly irresistible..." (**Page 120**)
+- "The foremost among these [other techniques] is almost certainly direction-finding of transmissions from ships and submarines at sea." (**Page 126**)
+- "It is difficult to say exactly how good HF DF was as a locating device, as it could vary very considerably with circumstances. A broad American study taking in two years' worth of data concluded that average accuracy was in excess of 100 miles..." (**Page 128**)
+- "Direction-finding was thus extremely valuable inasmuch as at its best it provided reasonable positional information and some trend of the movement of a submarine or a group of U-boats." (**Page 128**)
+- "In the first few months of the war, the considerable geographical limitations of the British system - with its stations confined to the British Isles was largely offset by the fact that many German operations were in any case restricted to the North Sea." (**Page 126**)
+- "It should never be forgotten that the mere act of intercepting an enemy signal provides information in itself, however rudimentary." (**Page 125**)
+- "In broad terms it [Traffic Analysis] is the study of an enemy's communications as a system and the conclusions which may be drawn from such an investigation." (**Page 130**)
+- "In practical terms, however, it contributed greatly to assessments of U-boat numbers at sea, submarine casualties and realising that the enemy was experiencing problems of ambiguous orders or reports." (**Page 131**)
+- "However, it would not be going too far to say that TA and Ultra enjoyed a symbiotic relationship." (**Page 131**)
+- "However, for the group operations - the Rudeltaktik - which predominated in several periods... plentiful radio communication was not just desirable but essential to the conduct of operations." (**Page 124**)
+- "This [centralized command] was to be one of the submarine force's most vulnerable points." (**Page 125**)
+- "The Enigma machine was widely employed by the Germans, not just for submarines, not just by the Navy and it was widely used in the communications systems of organisations beyond the armed forces... Thus the SS, the Abwehr, the police [used it]." (**Page 134**)
+
 
 
 
