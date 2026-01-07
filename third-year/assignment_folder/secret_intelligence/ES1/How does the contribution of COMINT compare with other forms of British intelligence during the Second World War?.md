@@ -61,3 +61,13 @@
 
 
 
+## ‘Chapter 7: Signals Intelligence and the Battle of the Atlantic’, in _Decoding History : The Battle of the Atlantic and Ultra_ , by W. J. R. Gardner (Macmillan, 1999), pp. 120–45 & notes : 237-241
+
+
+
+
+
+
+
+
+## ‘Introduction [of] The Battle of the Atlantic and Signals Intelligence : U-Boat Situations and Trends 1941-1945 (Publications of the Navy Records Society Vol.139)’, in _The Battle of the Atlantic and Signals Intelligence : U-Boat Situations and Trends 1941-1945 (Publications of the Navy Records Society Vol.139)_, by David Syrett (Aldershot : Ashgate, 1998), pp. x–xxxiv
