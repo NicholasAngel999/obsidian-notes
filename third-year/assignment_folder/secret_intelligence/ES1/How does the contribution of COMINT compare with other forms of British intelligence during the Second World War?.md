@@ -85,6 +85,7 @@
 - "The extension of the convoy system more generally than the belated inclusion of the 13-15-knot ships, too, worked against the Germans. Now, independent shipping became even rarer than it had been before..." **(p. 174)**
 
 
+### Chapter 9 Case Study II: Mid-1942 to Mid-1943
 
 
 
