@@ -60,8 +60,8 @@
 - "Second, and more interesting, was the fear that if the Germans and Japanese became aware of the part played by special intelligence, they might claim they had not been fairly defeated an echo of the 'stab in the back' myth about 1918, which Hitler had exploited so successfully." (p. 212)
 
 
-
-## ‘Chapter 7: Signals Intelligence and the Battle of the Atlantic’, in _Decoding History : The Battle of the Atlantic and Ultra_ , by W. J. R. Gardner (Macmillan, 1999), pp. 120–45 & notes : 237-241
+## Gardner, W. J. R, _Decoding History : The Battle of the Atlantic and Ultra_ (Macmillan, 1999)
+### ‘Chapter 7: Signals Intelligence and the Battle of the Atlantic’, in _Decoding History : The Battle of the Atlantic and Ultra_ , by W. J. R. Gardner (Macmillan, 1999), pp. 120–45 & notes : 237-241
 
 -  "But perhaps the most important thing to remember is that Ultra by whatever name it was known was only a part of Comint, in itself a subset of Sigint and even that was a component of the whole range of intelligence available to the Allies." (**Page 121**)
 - "In discussing Ultra and the part that it played in the Battle of the Atlantic, it is important to understand not only what it was and how it was obtained but also to realise how it fitted into a number of contexts... Unless these are absorbed to some extent, then the tendency to mythologise Ultra becomes nearly irresistible..." (**Page 120**)
@@ -77,21 +77,10 @@
 - "This [centralized command] was to be one of the submarine force's most vulnerable points." (**Page 125**)
 - "The Enigma machine was widely employed by the Germans, not just for submarines, not just by the Navy and it was widely used in the communications systems of organisations beyond the armed forces... Thus the SS, the Abwehr, the police [used it]." (**Page 134**)
 
+### Chapter 9 case Study II: Mid-1942 to Mid-1943
 
 
 
-
-
-
-
-#### ‘Introduction [of] The Battle of the Atlantic and Signals Intelligence : U-Boat Situations and Trends 1941-1945 (Publications of the Navy Records Society Vol.139)’, in _The Battle of the Atlantic and Signals Intelligence : U-Boat Situations and Trends 1941-1945 (Publications of the Navy Records Society Vol.139)_, by David Syrett (Aldershot : Ashgate, 1998), pp. x–xxxiv
-
-
-
-
-9
-4.5
--10.3
 
 
 ## ‘Chapter 2: Before the Landings’, in _Ultra in the West : The Normandy Campaign 1944-1945_ , by Ralph Francis. Bennett (Faber, 2009), pp. 40–67 and notes 267-270
