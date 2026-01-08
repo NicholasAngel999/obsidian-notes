@@ -113,3 +113,4 @@
 
 
 
+## Mount, Graeme S, ‘Delusions of Intelligence: Enigma, Ultra, and the End of Secure Ciphers , by R.A. Ratcliff’, _Canadian Journal of History_, 41.3 (2006), pp. 579–80, doi:10.3138/cjh.41.3.579
