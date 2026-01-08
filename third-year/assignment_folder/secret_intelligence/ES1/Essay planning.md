@@ -9,3 +9,8 @@ Intelligence system and Organisations - ~350 words
 	Fusion - ability to link collection evaluation and action
 	 Move to industrialized enterprise 
 
+
+Strategic Deception and HUMINT ~350 words
+	Relationship between intelligence types 
+
+
