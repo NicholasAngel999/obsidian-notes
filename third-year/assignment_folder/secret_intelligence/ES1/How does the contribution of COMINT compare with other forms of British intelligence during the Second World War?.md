@@ -123,3 +123,12 @@
 
 ## Fry, Helen, _The Walls Have Ears : The Greatest Intelligence Operation of World War II_ (Yale University Press, 2019), doi:10.12987/9780300249019
 
+- "It was a system of intelligence-gathering so secret that the German prisoners of war never realised that their private conversations were being recorded by a team of secret listeners." (p. 1)
+- The M Room (Monitor Room) was the nerve centre of the operation. It was from here that the secret listeners, often German-born refugees, eavesdropped on the prisoners." (p. 2)
+- "This was a different kind of human intelligence. Unlike standard interrogations, where a prisoner might lie or withhold information, the 'secret listeners' captured the prisoners speaking freely among themselves, revealing their true thoughts, morale, and technical secrets." (p. 3)
+- "The intelligence gained from the bugged conversations was often used to cross-reference and verify information coming from Bletchley Park or aerial reconnaissance." (p. 4)
+- "While Bletchley Park provided the 'what' and 'when' of German military plans, the listeners at Trent Park and Latimer House provided the 'why' and the 'how' through the unguarded talk of the generals." (p. 5)
+- "One of the most significant breakthroughs came when the generals were overheard discussing the development of secret weapons at Peenemünde, specifically the V-1 and V-2 rockets." (p. 17)
+- "The listeners provided early warning of the V-weapon programme months before the first rocket landed on London, allowing the RAF to plan targeted bombing raids on the research sites." (p. 37)
+- - "The recordings also provided chilling evidence of the Wehrmacht's complicity in war crimes on the Eastern Front, long before such details were officially acknowledged." (p. 75)
+- "By listening to the prisoners, British intelligence could gauge the true state of German morale and how much they still believed in Hitler as the tide of war turned against them." (p. 134)
