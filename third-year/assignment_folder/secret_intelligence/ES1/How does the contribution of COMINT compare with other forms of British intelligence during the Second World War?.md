@@ -77,7 +77,13 @@
 - "This [centralized command] was to be one of the submarine force's most vulnerable points." (**Page 125**)
 - "The Enigma machine was widely employed by the Germans, not just for submarines, not just by the Navy and it was widely used in the communications systems of organisations beyond the armed forces... Thus the SS, the Abwehr, the police [used it]." (**Page 134**)
 
-### Chapter 9 case Study II: Mid-1942 to Mid-1943
+### Chapter 8 case Study I: 1941 Million Ton Myth
+
+- "The simple statement that the Germans did not win the Battle of the Atlantic in 1941 covers a number of complex systems at various levels of strategic politics, warfare and military economics. Nor did everything of significance occur at sea..." **(p. 168)**
+- "It has been calculated that some 1.5 million tons of shipping was saved... But does it stand up to close examination?... But it is extremely dubious to attribute German failure to connect with convoys in the latter part of 1941 entirely to Ultra." **(p. 172-174)**
+- "It cannot be suggested that the effect of fast intelligence was even neutral, let alone negative, but the far less seductive accretion of old operations created the knowledge of the U-boat framework... It was this combination of ancient and modern and the structures to use them that made Ultra such a powerful weapon." **(p. 171)**
+- "The extension of the convoy system more generally than the belated inclusion of the 13-15-knot ships, too, worked against the Germans. Now, independent shipping became even rarer than it had been before..." **(p. 174)**
+
 
 
 
