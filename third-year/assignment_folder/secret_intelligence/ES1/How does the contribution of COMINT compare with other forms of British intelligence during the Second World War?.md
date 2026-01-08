@@ -103,3 +103,9 @@
 
 
 ## Mount, Graeme S, ‘Delusions of Intelligence: Enigma, Ultra, and the End of Secure Ciphers , by R.A. Ratcliff’, _Canadian Journal of History_, 41.3 (2006), pp. 579–80, doi:10.3138/cjh.41.3.579
+
+- "Until 1974 (!!!), complacent Germans believed that Enigma was so complex that its messages were secure, and they took remarkably few precautions... Such carelessness was understandable. Even the earliest version of the Enigma machine... allowed more than 'fifteen million... possible substitutions'..." **(p. 579)**
+- "British intelligence had several advantages over German intelligence. First, Hitler pursued a policy of divide-and-rule, encouraging inter-service rivalry which led to duplication of effort... By contrast, British civilians and military worked closely and enthusiastically in a single coordinated effort." **(p. 579-580)**
+- "However, without an understanding of Ultra, one cannot understand the military campaign against the Axis belligerents." **(p. 579)**
+
+
