@@ -94,3 +94,9 @@
 -10.3
 
 
+## ‘Chapter 2: Before the Landings’, in _Ultra in the West : The Normandy Campaign 1944-1945_ , by Ralph Francis. Bennett (Faber, 2009), pp. 40–67 and notes 267-270
+
+
+
+## Frank, Charles, ‘Most Secret War: British Scientific Intelligence 1939–1945’, _Physics Bulletin_, 29.8 (1978), pp. 369–70, doi:10.1088/0031-9112/29/8/033
+
