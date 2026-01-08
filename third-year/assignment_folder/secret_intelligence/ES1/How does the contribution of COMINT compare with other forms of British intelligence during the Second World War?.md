@@ -96,8 +96,19 @@
 
 ## ‘Chapter 2: Before the Landings’, in _Ultra in the West : The Normandy Campaign 1944-1945_ , by Ralph Francis. Bennett (Faber, 2009), pp. 40–67 and notes 267-270
 
+- "Thus 352 Division, a field division of good quality which moved into the Côtentin in March and right up to Omaha beach a few days before the landings, received only a single mention in Ultra before the fighting began... The reason why Ultra could not be relied on to know anything about troops with satisfactory land communications has already been sufficiently explained..." - (p.55)
+- "It could do neither of these things, so long as the enemy relied – as he could until the middle of June – on telephones and teleprinters in preference to the slower business of encoding and decoding wireless messages." (p.48)
+- "Ultra gave regular information about the German assessment of Allied dispositions all through the vital months, and this was presumably of considerable value both to the deception planners (as confirmation that their deceit was a success)..." (p.52)
+
+
 
 ## Smith, Chris, ‘Bletchley Park and Big Science: Industrialising the Secret War, 1939–1945’, _Journal of Intelligence History_, 20.2 (2021), 163–82[](https://www.google.com/search?q=https://doi.org/10.1080/16161262.2020.1835698)
+
+- "...by 1944 Bletchley Park had developed from its pre-war common room culture structure, into 'an industrialized enterprise: finely arranged division of labor, very high staff numbers, an emphasis on through-put, and innovative mechanization at bottlenecks.'" (p.110)
+- "Thus, Big Science was characterised by five major components, known as the five 'M's: Money, and lots of it; Manpower, in huge numbers; Machines, of vast scale; a Military or national security purpose; and tight Media control and management." (p.112)
+- "Senior agency managers concluded that machine work, particularly the operation of communications equipment, was so uninteresting that it was 'necessary to intervene and institute factory methods.'" (p.119)
+
+
 
 
 
