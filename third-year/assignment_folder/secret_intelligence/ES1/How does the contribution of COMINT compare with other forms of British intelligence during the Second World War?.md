@@ -97,6 +97,8 @@
 ## ‘Chapter 2: Before the Landings’, in _Ultra in the West : The Normandy Campaign 1944-1945_ , by Ralph Francis. Bennett (Faber, 2009), pp. 40–67 and notes 267-270
 
 
+## Smith, Chris, ‘Bletchley Park and Big Science: Industrialising the Secret War, 1939–1945’, _Journal of Intelligence History_, 20.2 (2021), 163–82[](https://www.google.com/search?q=https://doi.org/10.1080/16161262.2020.1835698)
 
-## Frank, Charles, ‘Most Secret War: British Scientific Intelligence 1939–1945’, _Physics Bulletin_, 29.8 (1978), pp. 369–70, doi:10.1088/0031-9112/29/8/033
+
+
 
