@@ -4,13 +4,15 @@ Intro - 200-250 words
 	 introduce key argument of a force multiplier 
 	 Mention Missing Dimension and Ultra in 1974 forced total re-evaluation of war
 
-Intelligence system and Organisations - ~350 words
+Intelligence system and Organisations - ~500 words
 	British organisation of of intelligence (compare germany?)
 	Fusion - ability to link collection evaluation and action
 	 Move to industrialized enterprise 
 
 
-Strategic Deception and HUMINT ~350 words
-	Relationship between intelligence types 
+Synergy Deception and HUMINT ~500 words
 
 
+Naval Success and tactical failure ~ 500 words
+
+Conclusion ~ 250 words
