@@ -87,7 +87,10 @@
 
 ### Chapter 9 Case Study II: Mid-1942 to Mid-1943
 
-
+- "The period that preceded this one saw U-boats running riot off the east coast of Canada and the United States... This combination of lack of escorts and dispersion of merchant vessels assured a plethora of targets... It thus led to the revival of their phrase _glückliche Zeit_ [Happy Time] to describe this period." **(p. 179)**
+- "But as they [convoys] spread in the western hemisphere, they were often anticipated at worst and reacted to at best by Dönitz moving his submarines further south and west. Thus the field of submarine operations moved slowly from the US east coast into the Gulf of Mexico and then the Caribbean." **(p. 179)**
+- The phase of the Battle of the Atlantic that started in July 1942 was one of the hardest for both sides in the conflict. It is characterised by large concentrations of submarines, mid-Atlantic battles against convoys and increasing intensity of conflict." **(p. 178)**
+- "July, too, was the last month for a year in which the sinking figures in the Atlantic were to be dominated by independents, not convoys." **(p. 179)**
 
 
 ## ‘Chapter 2: Before the Landings’, in _Ultra in the West : The Normandy Campaign 1944-1945_ , by Ralph Francis. Bennett (Faber, 2009), pp. 40–67 and notes 267-270
