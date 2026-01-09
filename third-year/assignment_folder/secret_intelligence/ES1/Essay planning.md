@@ -105,3 +105,8 @@ Conclusion ~ 250 words
 - "Ultra stayed secret; indeed, as Sir Alexander Cadogan of the Foreign Office observed to Professor David Dilks, intelligence remained 'the missing dimension' of most diplomatic and military histories." (p. 209, Reynolds, ‘The Ultra Secret’)
     
 - "As a meeting of senior civil servants privately acknowledged in 1969, the omission of intelligence made all the existing official war histories 'misleading', but it was essential bulwark for the Ultra secret. Historian Richard Aldrich has called this 'the last deception operation of the Second World War'." (p. 212, Reynolds, ‘The Ultra Secret’)
+
+
+
+
+"Communications Intelligence (COMINT) functioned as the 'senior partner' within this guidance system. The industrialization of Bletchley Park—what Ferris terms a **'monster organization'** (p. 647)—transformed COMINT into a powerful **force multiplier** when fused with disciplines such as HUMINT and IMINT. By augmenting the reach and reliability of other intelligence forms, COMINT allowed for a more efficient application of limited military resources, even as its contribution remained subject to critical tactical and technical limitations."
