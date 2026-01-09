@@ -193,4 +193,3 @@ The Counter-Intelligence: By 1942, Sigint allowed MI5 to assert "with a high deg
 > "The Allied strategy of deception was not merely a gamble on German gullibility, but a calculated scientific process; Hinsley argues such programs **'would have been impracticable'** without the 'Senior Partner' of Sigint providing **'frequent confirmation'** that the German intelligence services were in a **'poor state'**. By using COMINT to monitor the enemy’s internal assessments, the Allies could verify that their false narratives were being accepted as fact, allowing them to adjust their ruses in real-time to ensure the German High Command remained diverted and uncertain."
 
 
-F. H. Hinsley, ‘Intelligence on German Appreciations & Preparations from February 1944 to D-Day’, in British Intelligence in the Second World War: Its Influence on Strategy and Operations, vol. 3, part 2, ed. by F. H. Hinsley (London: HMSO, 1988), p. 45.
