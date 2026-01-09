@@ -107,5 +107,3 @@ Conclusion ~ 250 words
 - "As a meeting of senior civil servants privately acknowledged in 1969, the omission of intelligence made all the existing official war histories 'misleading', but it was essential bulwark for the Ultra secret. Historian Richard Aldrich has called this 'the last deception operation of the Second World War'." (p. 212, Reynolds, ‘The Ultra Secret’)
 
 
-
-To evaluate this contribution, this analysis will first examine the structural superiority of the British "all-source" system over the fractured German intelligence model. It will then explore the symbiotic synergy between COMINT and other forms, such as the bugging of German generals and strategic deception. Finally, it will weigh the decisive successes in the naval war against the technical limitations and tactical "blind spots" that COMINT faced in land campaigns. While revolutionary, COMINT's success was always a balancing act against real-world tactical and technical hurdles.
