@@ -156,6 +156,3 @@ Conclude the section by showing how this structural gap led to a fatal lack of s
 
 ---
 
-### **How to weave this into a paragraph:**
-
-Begin by arguing that the British success was rooted in **fusion** and **organization**. Use the Ferris quotes to show that intelligence is a "chain" that requires "efficient links." Then, introduce the Smith quotes to prove that Bletchley Park was the physical manifestation of this chain—a literal "factory" for secrets. Finally, use the Mount/Ratcliff quotes to argue that the Germans lost because they lacked this unified structure, which allowed them to become "complacent" about their own security.
