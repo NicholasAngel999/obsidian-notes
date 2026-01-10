@@ -328,3 +328,4 @@ The Counter-Intelligence: By 1942, Sigint allowed MI5 to assert "with a high deg
 
 
 
+ The synergy between these two sources was best illustrated by the discovery of the V-weapon program. While Sigint could trace supply lines, it was the overheard conversations of generals discussing secret weaponry at Peenemünde that provided the **'most significant breakthrough,'** allowing the Allies to identify the threat of V-1 and V-2 rockets **'months before'** they were operational (p. 17, Fry). Thus, COMINT did not render HUMINT obsolete; rather, it acted as a force multiplier that allowed traditional espionage to be targeted with lethal precision."
