@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assignment_folder/secret_intelligence/ES1/Essay planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Essay planning"
             }
           },
           {
@@ -127,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assignment_folder/secret_intelligence/ES1/Essay planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Essay planning"
             }
           },
           {
@@ -155,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "assignment_folder/secret_intelligence/ES1/Essay planning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Essay planning"
             }
           },
           {
@@ -195,7 +198,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6518a7c9b5365cc2",
+  "active": "df80a49d0d35e468",
   "lastOpenFiles": [
     "assignment_folder/secret_intelligence/ES1/How does the contribution of COMINT compare with other forms of British intelligence during the Second World War?.md",
     "assignment_folder/secret_intelligence/ES1/Essay planning.md",

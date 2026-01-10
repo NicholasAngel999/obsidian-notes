@@ -322,3 +322,9 @@ The Counter-Intelligence: By 1942, Sigint allowed MI5 to assert "with a high deg
     - **Key Point:** Technical limitations (landlines) meant COMINT often failed in tactical land battles.
         
     - **Evidence:** Bennett (p. 48, 55) on "telephones" and the "352 Division."
+
+
+
+
+
+
