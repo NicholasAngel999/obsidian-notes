@@ -156,3 +156,11 @@ Mount, Graeme S., ‘Delusions of Intelligence: Enigma, Ultra, and the End of Se
 Reynolds, David, ‘The Ultra Secret and Churchill’s War Memoirs’, _Intelligence and National Security_, 20.2 (2005), 209–24
 
 Smith, Chris, ‘Bletchley Park and Big Science: Industrialising the Secret War, 1939–1945’, _Journal of Intelligence History_, 20.2 (2021), 163–82
+
+
+
+
+
+In the final analysis, the contribution of COMINT to the British war effort was defined not merely by cryptographic brilliance, but by the industrial system that harnessed it. Unlike the fractured German apparatus, which succumbed to rivalry and complacency , the British transformed Bletchley Park into a **“monster organisation”** capable of turning intelligence into a unified force multiplier. By acting as the **“senior partner”** within this system, COMINT functioned distinctly from other disciplines; it was the validator that confirmed deceptive strategies, the director that guided the qualitative insights of HUMINT, and the strategic cue that tasked IMINT to locate targets.
+
+Yet, as the tactical failures in Normandy demonstrate, this power was never absolute. Intelligence remained the **“missing dimension”**—a guide for power rather than power itself. When the enemy was communicative, as in the Atlantic, the British were omniscient; when the enemy was silent, relying on landlines, the Allies fought with the same uncertainty as any previous army in history. Ultimately, the contribution of COMINT must be viewed as conditional: it was not a magic bullet that won the war alone, but the essential guidance system that allowed the Allies to apply their industrial might with lethal, scientifically calculated precision.
