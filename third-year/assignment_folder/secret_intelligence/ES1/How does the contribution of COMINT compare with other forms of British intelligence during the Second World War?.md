@@ -132,3 +132,27 @@
 - "The listeners provided early warning of the V-weapon programme months before the first rocket landed on London, allowing the RAF to plan targeted bombing raids on the research sites." (p. 37)
 - - "The recordings also provided chilling evidence of the Wehrmacht's complicity in war crimes on the Eastern Front, long before such details were officially acknowledged." (p. 75)
 - "By listening to the prisoners, British intelligence could gauge the true state of German morale and how much they still believed in Hitler as the tide of war turned against them." (p. 134)
+
+
+
+---
+
+### **Bibliography**
+
+Bennett, Ralph, ‘Before the Landings’, in _Ultra in the West: The Normandy Campaign 1944–1945_ (London: Faber, 2009), pp. 40–67
+
+Ferris, John, ‘Intelligence’, in _The Cambridge History of the Second World War. Volume I: Fighting the War_, ed. by John Ferris and Evan Mawdsley (Cambridge: Cambridge University Press, 2015), pp. 637–63
+
+Fry, Helen, _The Walls Have Ears: The Greatest Intelligence Operation of World War II_ (New Haven: Yale University Press, 2019)
+
+Gardner, W. J. R., _Decoding History: The Battle of the Atlantic and Ultra_ (Basingstoke: Macmillan, 1999)
+
+Hinsley, F. H., ‘Intelligence on German Appreciations & Preparations from February 1944 to D-Day’, in _British Intelligence in the Second World War: Its Influence on Strategy and Operations_, Vol. 3, Part 2 (London: HMSO, 1988), pp. 41–101
+
+Howard, Michael, ‘The United Kingdom, September 1939–August 1942’, in _British Intelligence in the Second World War: Vol. 5: Strategic Deception_ (London: HMSO, 1990), pp. 3–30
+
+Mount, Graeme S., ‘Delusions of Intelligence: Enigma, Ultra, and the End of Secure Ciphers, by R.A. Ratcliff’, _Canadian Journal of History_, 41.3 (2006), 579–80
+
+Reynolds, David, ‘The Ultra Secret and Churchill’s War Memoirs’, _Intelligence and National Security_, 20.2 (2005), 209–24
+
+Smith, Chris, ‘Bletchley Park and Big Science: Industrialising the Secret War, 1939–1945’, _Journal of Intelligence History_, 20.2 (2021), 163–82
