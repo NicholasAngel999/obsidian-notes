@@ -42,7 +42,7 @@ Conclusion ~ 250 words
     
 - "British intelligence had several advantages over German intelligence. First, Hitler pursued a policy of divide-and-rule, encouraging inter-service rivalry which led to duplication of effort... By contrast, British civilians and military worked closely and enthusiastically in a single coordinated effort." (p. 579-580, Mount, ‘Delusions of Intelligence’)
     
-- "Until 1974 (!!!), complacent Germans believed that Enigma was so complex that its messages were secure, and they took remarkably few precautions... Such carelessness was understandable. Even the earliest version of the Enigma machine... allowed more than 'fifteen million ... possible substitutions'..." (p. 579, Mount, ‘Delusions of Intelligence’)
+- "Until 1974 , complacent Germans believed that Enigma was so complex that its messages were secure, and they took remarkably few precautions... Such carelessness was understandable. Even the earliest version of the Enigma machine... allowed more than 'fifteen million ... possible substitutions'..." (p. 579, Mount, ‘Delusions of Intelligence’)
     
 
 ---
