@@ -14,3 +14,4 @@
 - Invented a male figure to gain some form of authority 
 
 
+"It is, indeed, as if the [medium] were able to project a portion of her body... or else as if she had the power of creating a temporary prolongation of her body." **Page:** 316
