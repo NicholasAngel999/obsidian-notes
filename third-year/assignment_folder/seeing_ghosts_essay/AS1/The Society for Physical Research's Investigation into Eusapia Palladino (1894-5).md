@@ -101,3 +101,11 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 
 
 ### Davies, Owen, _The Haunted: A Social History of Ghosts_ (London: Palgrave Macmillan, 2009)
+
+- "The 'plebeian ghost'... humbly contents itself with the Body of a white Horse... On other Occasions it wears the Carcass of a great black Dog, that glares full in your Face." *Page 36*
+- "The 'ghost of dignity'... represented 'in every respect' the same person as he or she was in life, and inhabited their own house... The 'plebeian ghost', on the other hand, rarely appeared in its 'bodily likeness'." *Page 36*
+- "The rustle of silk was a more frequently reported auditory sign of a ghostly presence, usually defining both the gender and social status of the ghost. Silk was not a fabric worn by the poor." *Page 28*
+- "Ghosts... were mere delusions brought on by dreams, opium, drink, disordered spleens and weak minds." *Page 121*
+- "The excessive timidity that possesses many people's mind... [means] they take every Shadow, which the Moon makes by her Shine on distant Objects, for a Ghost." *Page 134*
+- "In January 1894 an inquest on the body of a 17-year-old servant named Elizabeth Bishop... concluded that she had died of excessive fright or syncope... shortly after she fell into a terrible fit and died." *Page 43*
+- 
