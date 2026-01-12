@@ -91,7 +91,10 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 
 
 
-### Oppenheim, Janet, _The Other World: Spiritualism and Psychical Research in England, 1850-1914_ (Cambridge: Cambridge University Press, 1985)
+### Turner, James, ‘The Other World: Spiritualism and Psychical Research in England, 1850-1914 by Janet Oppenheim [Book Review]’, _Comparative Studies in Society and History_, 28 (1986), 403
+
+- "The third and longest section, almost half of the text, discusses spiritualism as an effort to find scientific legitimacy for religious beliefs."
+- "Chapters here cover mental sciences, evolution, and physics, detailing along the way the ambiguous relations between spiritualists and psychical researchers."
 
 
 
