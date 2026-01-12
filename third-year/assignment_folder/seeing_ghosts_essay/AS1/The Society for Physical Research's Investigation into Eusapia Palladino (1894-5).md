@@ -72,6 +72,9 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 - Physicist trying to be a biologist
 
 
+---
+---
+---
 
 ### Noakes, Richard, _Physics and Psychics: The Occult and the Sciences in Modern Britain_ (Cambridge: Cambridge University Press, 2019)
 
