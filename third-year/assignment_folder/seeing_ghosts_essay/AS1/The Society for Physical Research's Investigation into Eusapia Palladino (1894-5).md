@@ -103,4 +103,7 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 - "Ghosts... were mere delusions brought on by dreams, opium, drink, disordered spleens and weak minds." *Page 121*
 - "The excessive timidity that possesses many people's mind... [means] they take every Shadow, which the Moon makes by her Shine on distant Objects, for a Ghost." *Page 134*
 - "In January 1894 an inquest on the body of a 17-year-old servant named Elizabeth Bishop... concluded that she had died of excessive fright or syncope... shortly after she fell into a terrible fit and died." *Page 43*
-- 
+
+
+
+
