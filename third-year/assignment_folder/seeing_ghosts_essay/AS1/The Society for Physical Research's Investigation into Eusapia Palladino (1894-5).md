@@ -57,18 +57,18 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 
 
 ### Prejudice 
-"She is a person of small education, to all appearance quite illiterate, and when in the trance state her behaviour is often that of a somewhat vulgar and tricky child... She was generally good-humoured... but she is liable to be plain-spoken and barely polite." **Page:** 306
+"She is a person of small education, to all appearance quite illiterate, and when in the trance state her behaviour is often that of a somewhat vulgar and tricky child... She was generally good-humoured... but she is liable to be plain-spoken and barely polite." *306*
 - Scientists that investigated didnt trust her moral character 
 
-"Her feet were on a cushion... and were also tied with a silk ribbon to the legs of the chair... Her hands were held by the sitter on either side, who also had a foot on one or both of her feet." **Page:** 308
+"Her feet were on a cushion... and were also tied with a silk ribbon to the legs of the chair... Her hands were held by the sitter on either side, who also had a foot on one or both of her feet." *308*
 - tying her up and holding her down seems like male domination not a scientific method 
 
 
-"The intelligence controlling her... calls himself 'John King'... and speaks of the medium as 'my daughter'... and is quite distinct from her ordinary self." **Page:** 309 
+"The intelligence controlling her... calls himself 'John King'... and speaks of the medium as 'my daughter'... and is quite distinct from her ordinary self." *309*
 - Invented a male figure to gain some form of authority 
 
 
-"It is, indeed, as if the [medium] were able to project a portion of her body... or else as if she had the power of creating a temporary prolongation of her body." **Page:** 316
+"It is, indeed, as if the [medium] were able to project a portion of her body... or else as if she had the power of creating a temporary prolongation of her body." *316*
 - Physicist trying to be a biologist
 
 
@@ -76,23 +76,18 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 ---
 ### Noakes, Richard, _Physics and Psychics: The Occult and the Sciences in Modern Britain_ (Cambridge: Cambridge University Press, 2019)
 
-- "The laboratory was the space of the male expert, the place where instruments and the senses could be isolated from external interference... The domestic séance was the antithesis of this."
-	- 125
+- "The laboratory was the space of the male expert, the place where instruments and the senses could be isolated from external interference... The domestic séance was the antithesis of this." *125*
 
-- "The problem for psychical researchers was how to secure the phenomena... under conditions that satisfied the rigorous standards of the physical sciences."
-	- 126
+- "The problem for psychical researchers was how to secure the phenomena... under conditions that satisfied the rigorous standards of the physical sciences." *126*
 
-- "Lodge was especially impressed by Palladino’s ability to wind up, play and swing a musical box suspended from the ceiling beyond her reach, and by what appeared to be a temporary vital 'prolongation' from her body (a manifestation of what Richet christened 'ectoplasm')."
-	- 228
+- "Lodge was especially impressed by Palladino’s ability to wind up, play and swing a musical box suspended from the ceiling beyond her reach, and by what appeared to be a temporary vital 'prolongation' from her body (a manifestation of what Richet christened 'ectoplasm')." *228*
 
 
 ### Natale, Simone, ‘The Medium on the Stage: Trance and Performance in Nineteenth-Century Spiritualism’, _Early Popular Visual Culture_, 9 (2011), 239–55
 
-- "I propose to regard the medium as a performer and the séance as a performance... The trance state, in this perspective, functioned as a frame that marked the performance, distinguishing it from everyday life."
-	- 241
+- "I propose to regard the medium as a performer and the séance as a performance... The trance state, in this perspective, functioned as a frame that marked the performance, distinguishing it from everyday life." *241*
 
-- "The trance state allowed the medium to perform actions and simulated phenomena that would have been considered improper in her normal waking state."
-	- 247
+- "The trance state allowed the medium to perform actions and simulated phenomena that would have been considered improper in her normal waking state." *247*
 
 
 
