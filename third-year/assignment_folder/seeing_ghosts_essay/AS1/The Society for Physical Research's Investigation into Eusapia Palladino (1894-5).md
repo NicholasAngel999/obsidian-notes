@@ -73,3 +73,17 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 
 
 
+### Noakes, Richard, _Physics and Psychics: The Occult and the Sciences in Modern Britain_ (Cambridge: Cambridge University Press, 2019)
+
+
+
+
+### Natale, Simone, ‘The Medium on the Stage: Trance and Performance in Nineteenth-Century Spiritualism’, _Early Popular Visual Culture_, 9 (2011), 239–55
+
+
+
+### Oppenheim, Janet, _The Other World: Spiritualism and Psychical Research in England, 1850-1914_ (Cambridge: Cambridge University Press, 1985)
+
+
+
+### Davies, Owen, _The Haunted: A Social History of Ghosts_ (London: Palgrave Macmillan, 2009)
