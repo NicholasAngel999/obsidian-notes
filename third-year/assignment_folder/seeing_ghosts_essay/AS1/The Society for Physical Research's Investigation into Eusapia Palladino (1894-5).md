@@ -74,8 +74,6 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 
 ---
 ---
----
-
 ### Noakes, Richard, _Physics and Psychics: The Occult and the Sciences in Modern Britain_ (Cambridge: Cambridge University Press, 2019)
 
 - "The laboratory was the space of the male expert, the place where instruments and the senses could be isolated from external interference... The domestic séance was the antithesis of this."
