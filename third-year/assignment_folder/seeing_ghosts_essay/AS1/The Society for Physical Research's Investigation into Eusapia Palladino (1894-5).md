@@ -10,3 +10,7 @@
 - tying her up and holding her down seems like male domination not a scientific method 
 
 
+"The intelligence controlling her... calls himself 'John King'... and speaks of the medium as 'my daughter'... and is quite distinct from her ordinary self." **Page:** 309 
+- Invented a male figure to gain some form of authority 
+
+
