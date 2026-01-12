@@ -75,8 +75,13 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 
 ### Noakes, Richard, _Physics and Psychics: The Occult and the Sciences in Modern Britain_ (Cambridge: Cambridge University Press, 2019)
 
+- "The laboratory was the space of the male expert, the place where instruments and the senses could be isolated from external interference... The domestic séance was the antithesis of this."
+	- 125
 
+- "The problem for psychical researchers was how to secure the phenomena... under conditions that satisfied the rigorous standards of the physical sciences."
+	- 126
 
+- "Lodge... suggested that the 'spirit' hand... was a 'temporary prolongation' of the medium's organism... formed from the same substance as the ether."
 
 ### Natale, Simone, ‘The Medium on the Stage: Trance and Performance in Nineteenth-Century Spiritualism’, _Early Popular Visual Culture_, 9 (2011), 239–55
 

@@ -11,14 +11,16 @@
             "id": "6e9a8d49a1fe12c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "assignment_folder/seeing_ghosts_essay/AS1/The Society for Physical Research's Investigation into Eusapia Palladino (1894-5).md",
-                "mode": "source",
-                "source": false
+                "file": "assignment_folder/seeing_ghosts_essay/AS1/Readings/psychical_investigation_as_experimental_physics.pdf",
+                "page": 1,
+                "left": -19,
+                "top": 646,
+                "zoom": 0.786787539513445
               },
-              "icon": "lucide-file",
-              "title": "The Society for Physical Research's Investigation into Eusapia Palladino (1894-5)"
+              "icon": "lucide-file-text",
+              "title": "psychical_investigation_as_experimental_physics"
             }
           }
         ]
@@ -78,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a68842be55fb6cd",
@@ -184,22 +185,21 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6e9a8d49a1fe12c2",
+  "active": "83e6535bbf22e0aa",
   "lastOpenFiles": [
+    "assignment_folder/seeing_ghosts_essay/AS1/The Society for Physical Research's Investigation into Eusapia Palladino (1894-5).md",
+    "assignment_folder/seeing_ghosts_essay/ES1/seeing_ghosts_readings/new_imponderables_new_sciences.pdf",
+    "assignment_folder/seeing_ghosts_essay/ES1/seeing_ghosts_readings/survey_of_physicalpsychical_scientists.pdf",
+    "assignment_folder/seeing_ghosts_essay/ES1/seeing_ghosts_readings/psychical_investigation_as_experimental_physics.pdf",
+    "assignment_folder/seeing_ghosts_essay/ES1/seeing_ghosts_readings/only_a_pauper_whom_nobody_owns_reassessing_the_pauper_burial.pdf",
+    "assignment_folder/seeing_ghosts_essay/AS1/Readings/modernising_physics_and_psychics.pdf",
     "assignment_folder/seeing_ghosts_essay/AS1/Readings/The medium on the stage Trance and performance in nineteenth-century spiritualism.pdf",
     "assignment_folder/seeing_ghosts_essay/AS1/The medium on the stage Trance and performance in nineteenth-century spiritualism.pdf",
     "assignment_folder/seeing_ghosts_essay/The medium on the stage Trance and performance in nineteenth-century spiritualism.pdf",
     "assignment_folder/The medium on the stage Trance and performance in nineteenth-century spiritualism.pdf",
-    "assignment_folder/seeing_ghosts_essay/AS1/Readings/modernising_physics_and_psychics.pdf",
     "assignment_folder/seeing_ghosts_essay/AS1/Readings/psychical_investigation_as_experimental_physics.pdf",
     "assignment_folder/secret_intelligence/ES1/Essay planning.md",
-    "assignment_folder/seeing_ghosts_essay/AS1/The Society for Physical Research's Investigation into Eusapia Palladino (1894-5).md",
-    "assignment_folder/seeing_ghosts_essay/AS1/Readings/journalofsociety06sociuoft.pdf",
-    "assignment_folder/seeing_ghosts_essay/AS1/Readings",
     "assignment_folder/secret_intelligence/ES1/How does the contribution of COMINT compare with other forms of British intelligence during the Second World War?.md",
-    "assignment_folder/seeing_ghosts_essay/AS1",
-    "assignment_folder/secret_intelligence/ES1/Saved_Readings/The_Walls_Have_Ears_The_Greatest_Intelligence_Oper....pdf",
-    "assignment_folder/secret_intelligence/ES1/Saved_Readings/W.Gardner_1999_9Case-StudyIIMid-1942_DecodingHistory.pdf",
     "assignment_folder/secret_intelligence/AS1/planned reading list.md",
     "secret-intelligence/Battle of Britain and stuffs.md",
     "assignment_folder/Murder_Source_analysis/ES1 Essay.md",
