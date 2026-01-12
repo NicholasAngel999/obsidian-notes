@@ -81,9 +81,17 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 - "The problem for psychical researchers was how to secure the phenomena... under conditions that satisfied the rigorous standards of the physical sciences."
 	- 126
 
-- "Lodge... suggested that the 'spirit' hand... was a 'temporary prolongation' of the medium's organism... formed from the same substance as the ether."
+- "Lodge was especially impressed by Palladino’s ability to wind up, play and swing a musical box suspended from the ceiling beyond her reach, and by what appeared to be a temporary vital 'prolongation' from her body (a manifestation of what Richet christened 'ectoplasm')."
+	- 228
+
 
 ### Natale, Simone, ‘The Medium on the Stage: Trance and Performance in Nineteenth-Century Spiritualism’, _Early Popular Visual Culture_, 9 (2011), 239–55
+
+- "I propose to regard the medium as a performer and the séance as a performance... The trance state, in this perspective, functioned as a frame that marked the performance, distinguishing it from everyday life."
+	- 241
+
+- "The trance state allowed the medium to perform actions and simulated phenomena that would have been considered improper in her normal waking state."
+	- 247
 
 
 
