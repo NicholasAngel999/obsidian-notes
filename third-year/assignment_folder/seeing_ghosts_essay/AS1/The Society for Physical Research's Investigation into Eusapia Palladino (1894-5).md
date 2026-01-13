@@ -109,4 +109,24 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 
 
 
+### Galvan, J. N. (2010) _The sympathetic medium : feminine channeling, the occult, and communication technologies, 1859-1919_. 1st ed. Ithaca: Cornell University Press.
 
+- "This attitude may indeed help to explain why the telegraph often became spiritualized (and spirits became telegraphic) within the intertwining discourses of occultism and technological speculation." _23_
+- "The medium was a passive instrument, well attuned to the subtle cues, sometimes described as vibrations, by which the spirits expressed themselves." _30_
+- "In the absence of wires, women's impressionable nerves supplied the apparatus essential to here-to-hereafter communications." _30_
+
+
+
+### De Ceglia, Francesco Paolo, and Lorenzo Leporiere, ‘Becoming Eusapia: The Rise of the “Diva of Scientists”’, _Science in Context_, 33 (2020), 441–71
+
+- "When Eusapia Palladino arrived in the United States in late 1909, she was already a diva." _441_
+- "Hence, even in the United States, Eusapia Palladino had to undergo the certification process that in Europe had made her the 'diva of scientists'." _442_
+- "Nevertheless, it was not Del Gaiso who made Palladino into a diva, but another man named Ercole Chiaia.... Chiaia, like a true 'patron,' declared himself ready to make available the goods and connections necessary for Palladino to become the diva des savants." _442_
+
+
+
+### Tromp, Marlene, _Altered States: Sex, Nation, Drugs, and Self-Transformation in Victorian Spiritualism_ (Albany: State University of New York Press, 2006)
+
+- "Spiritualism was sexy.... The darkened parlor of the séance invited and embodied the disruption of the ordinary." _21_
+- "In this world, the linked hands of the sitters violated customary barriers of age and gender, and the intimate spaces underneath the tipping tables set the stage for more than just spiritual stimulation. Faces and knees were caressed while the lights were out, gentlewomen submitted to be kissed by strangers, and the most private recesses of the past and present were exposed to the public eye." _21_
+- "They flirtatiously engaged with the sitters, tendering kisses or the chance to squeeze their limbs or feel their hips as proof of their materiality." _22_
