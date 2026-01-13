@@ -158,8 +158,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,20 +184,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6e9a8d49a1fe12c2",
+  "active": "df80a49d0d35e468",
   "lastOpenFiles": [
+    "assignment_folder/seeing_ghosts_essay/AS1/Readings/other_dimensions_other_worlds.pdf",
+    "assignment_folder/seeing_ghosts_essay/AS1/Readings/other_dimensions_other_worlds.pdf.opdownload",
+    "assignment_folder/seeing_ghosts_essay/AS1/Readings/Spiritualism_and_a_mid-Victori.pdf",
+    "assignment_folder/seeing_ghosts_essay/AS1/Readings/Spiritualism_and_a_mid-Victori.pdf.opdownload",
+    "assignment_folder/seeing_ghosts_essay/AS1/Readings/Investigating_the_Supernatural_From_Spiritism_and_..._----_(Chapter_Three_Pathologies_of_the_Supernatural).pdf",
+    "assignment_folder/seeing_ghosts_essay/AS1/Readings/Investigating_the_Supernatural_From_Spiritism_and_..._----_(Chapter_Three_Pathologies_of_the_Supernatural).pdf.opdownload",
     "assignment_folder/seeing_ghosts_essay/AS1/Readings/Altered_States_Sex_Nation_Drugs_and_Self-Transform..._----_(1._Spirited_Sexuality_Sex_Marriage_and_Victorian_Spiritualism).pdf",
     "assignment_folder/seeing_ghosts_essay/AS1/Readings/Altered_States_Sex_Nation_Drugs_and_Self-Transform..._----_(1._Spirited_Sexuality_Sex_Marriage_and_Victorian_Spiritualism).pdf.opdownload",
     "assignment_folder/seeing_ghosts_essay/AS1/Readings/Becoming_Eusapia_The_rise_of_.pdf",
     "assignment_folder/seeing_ghosts_essay/AS1/Readings/The_Sympathetic_Medium_Feminine_Channeling_the_Occ..._----_(Sympathy_and_the_Spiriting_of_Information_In_the_Cage).pdf",
     "assignment_folder/seeing_ghosts_essay/AS1/Readings/The_Other_World_Spiritualism_and_Psychic.pdf",
-    "assignment_folder/seeing_ghosts_essay/AS1/Readings/The_Haunted_A_Social_History_of_Ghosts_----_(Pg_19--80).pdf",
-    "assignment_folder/seeing_ghosts_essay/AS1/Readings/The_Haunted_A_Social_History_of_Ghosts_----_(Explanation).pdf",
-    "assignment_folder/seeing_ghosts_essay/AS1/Readings/psychical_investigation_as_experimental_physics.pdf",
     "assignment_folder/seeing_ghosts_essay/AS1/The Society for Physical Research's Investigation into Eusapia Palladino (1894-5).md",
-    "assignment_folder/seeing_ghosts_essay/ES1/seeing_ghosts_readings/new_imponderables_new_sciences.pdf",
-    "assignment_folder/seeing_ghosts_essay/ES1/seeing_ghosts_readings/survey_of_physicalpsychical_scientists.pdf",
-    "assignment_folder/seeing_ghosts_essay/ES1/seeing_ghosts_readings/psychical_investigation_as_experimental_physics.pdf",
     "assignment_folder/secret_intelligence/ES1/Essay planning.md",
     "assignment_folder/secret_intelligence/ES1/How does the contribution of COMINT compare with other forms of British intelligence during the Second World War?.md",
     "assignment_folder/secret_intelligence/AS1/planned reading list.md",

@@ -130,3 +130,18 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 - "Spiritualism was sexy.... The darkened parlor of the séance invited and embodied the disruption of the ordinary." _21_
 - "In this world, the linked hands of the sitters violated customary barriers of age and gender, and the intimate spaces underneath the tipping tables set the stage for more than just spiritual stimulation. Faces and knees were caressed while the lights were out, gentlewomen submitted to be kissed by strangers, and the most private recesses of the past and present were exposed to the public eye." _21_
 - "They flirtatiously engaged with the sitters, tendering kisses or the chance to squeeze their limbs or feel their hips as proof of their materiality." _22_
+
+
+
+### Lachapelle, Sofie, _Investigating the Supernatural: From Spiritism and Occultism to Psychical Research and Metapsychics in France, 1853-1931_ (Baltimore: Johns Hopkins University Press, 2011).
+
+
+
+
+
+### Lamont, Peter, ‘Spiritualism and a Mid-Victorian Crisis of Evidence’, _The Historical Journal_, 47 (2004), 897–920
+
+
+
+
+### Smajić, Srdjan, _Ghost-Seers, Detectives, and Spiritualists: Theories of Vision in Victorian Literature and Science_ (Cambridge: Cambridge University Press, 2010).
