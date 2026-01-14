@@ -56,20 +56,14 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 # Lodge, Oliver J., ‘Experience of Unusual Physical Phenomena Occurring in the Presence of an Entranced Person (Eusapia Paladino)’, _Journal of the Society for Psychical Research_, 6 (1894), 306–60
 
 
-### Prejudice 
-"She is a person of small education, to all appearance quite illiterate, and when in the trance state her behaviour is often that of a somewhat vulgar and tricky child... She was generally good-humoured... but she is liable to be plain-spoken and barely polite." *306*
-- Scientists that investigated didnt trust her moral character 
+"...I visited his island... in order to witness the physical phenomena asserted to occur in the presence of an **uneducated Neapolitan woman**, Eusapia Paladino..." _306_
 
-"Her feet were on a cushion... and were also tied with a silk ribbon to the legs of the chair... Her hands were held by the sitter on either side, who also had a foot on one or both of her feet." *308*
-- tying her up and holding her down seems like male domination not a scientific method 
+"I have no doubt that she does this out of good nature and a wish to please ; **she is not a person of high education**, and apparently she does not clearly discriminate between what is really of interest and what is not." _322_
 
+"...Eusapia herself in her ordinary state is not averse to exhibiting things which she seems to consider just as good as those which are accomplished while she is unconscious... **Such performances are doubtless extremely unwise on her part, but it would be unduly severe to call them fraudulent**... she succeeds only in giving a very poor imitation of some of them, such as could hardly deceive anyone." _322-333_
 
-"The intelligence controlling her... calls himself 'John King'... and speaks of the medium as 'my daughter'... and is quite distinct from her ordinary self." *309*
-- Invented a male figure to gain some form of authority 
+"It must be understood that **in her ordinary state Eusapia understands the phenomena as little as anybody**, and has less actual experience of them than other people have." _324_
 
-
-"It is, indeed, as if the [medium] were able to project a portion of her body... or else as if she had the power of creating a temporary prolongation of her body." *316*
-- Physicist trying to be a biologist
 
 
 ---
