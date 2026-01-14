@@ -162,4 +162,13 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 
 
 
-# Introduction _Q_
+# Introduction _Quotes_
+
+"The overwhelming rejection of supernatural agency... suggests that such reported phenomena were less the result of a crisis of faith than the cause of a crisis of evidence." _Peter Lamont Spiritualism_
+
+"'If we are to be scientific we must not only extend the boundaries of the known, but we must also be willing to admit the existence of the unknown.'" _Srdjan Smajic_
+
+"The psychical researcher, like the detective, is an expert reader of signs... tasked with distinguishing between genuine phenomena and fraudulent imitations."_Srdjan Smajic_
+
+"Any person... who might surmise that we were just deceived by the manual dexterity of a trickster... would be quite wrong." _Oliver Lodge_
+
