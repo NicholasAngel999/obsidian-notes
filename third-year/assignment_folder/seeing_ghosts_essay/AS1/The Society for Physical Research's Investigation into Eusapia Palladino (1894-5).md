@@ -159,3 +159,7 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 - "Hence the only escape which the physicist has... is to deny a causal nexus between physical and mental phenomena, and to deny that distinctly opens the way to supposing that there is something else than physical phenomena." _180_
 
 
+
+
+
+# 
