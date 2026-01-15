@@ -213,9 +213,6 @@ Lodge treats the medium as a suspect to be decoded.
 
 **Secondary source quotes**
 
-- **Srdjan Smajić:**
-    
-    > The psychical researcher is “like the detective.”
     
 - **Davies:**
     

@@ -144,15 +144,6 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 
 
 
-### Smajić, Srdjan, _Ghost-Seers, Detectives, and Spiritualists: Theories of Vision in Victorian Literature and Science_ (Cambridge: Cambridge University Press, 2010).
-
-***"The psychical researcher, like the detective, is an expert reader of signs... tasked with distinguishing between genuine phenomena and fraudulent imitations."*** not sure if this is true 160
-
-
-- "For if the events described... are not miracles, then they must be the result of a force or forces unknown to science... 'If we are to be scientific we must not only extend the boundaries of the known, but we must also be willing to admit the existence of the unknown.'" _179_
-- "Hence the only escape which the physicist has... is to deny a causal nexus between physical and mental phenomena, and to deny that distinctly opens the way to supposing that there is something else than physical phenomena." _180_
-
-
 
 
 
