@@ -228,3 +228,87 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
     - **Srdjan Smajić:** The scientist as "detective"—reading signs to catch a criminal/fraud.
         
     - **Richard Noakes:** The clash between the "male laboratory" (order) and the "female séance" (chaos).
+
+
+
+
+
+### **SECTION 1: Class and Performance**
+
+**The Argument:** Lodge dismisses Eusapia as an "ignorant peasant" to maintain his own authority, but she uses this "vulgar" persona to perform and lower his guard.
+
+**Primary Source Evidence (Lodge & Crookes):**
+
+- **Lodge (On her status):** He introduces her immediately as an **"uneducated Neapolitan woman"**.
+    
+- **Lodge (On her intellect):** He claims she is **"not a person of high education"** and lacks the ability to **"discriminate between what is really of interest and what is not"**.
+    
+- **Lodge (On her manners):** He describes her behavior as **"plain-spoken and barely polite"**.
+    
+- **Crookes (Supporting Context):** Crookes argues that while spiritualists talk of poetry, the scientist demands data: **"The spiritualist tells of flowers with the fresh dew on them... The scientific investigator naturally asks that an additional weight... be deposited on one pan of his balance"**.
+    
+
+**Secondary Source Evidence (Historians):**
+
+- **Owen Davies:** Argues that working-class spirits were seen as the **"plebeian ghost"**—noisy and vulgar compared to polite society.
+    
+- **Simone Natale:** Argues that the séance was a **"theatrical performance"** where the trance was just a frame for the act.
+    
+- **De Ceglia & Leporiere:** Argue she became a **"diva of scientists"** by constructing her own myth.
+    
+
+---
+
+### **SECTION 2: Gender and the Body**
+
+**The Argument:** Lodge treats the medium’s body as a biological object that must be physically restrained (tied up) or pathologised (treated as sick/hysterical) to explain her power.
+
+**Primary Source Evidence (Lodge & Crookes):**
+
+- **Lodge (On physical restraint):** **"Her feet were on a cushion... and were also tied with a silk ribbon to the legs of the chair"**.
+    
+- **Lodge (On holding her):** **"Her hands were held by the sitter on either side"**.
+    
+- **Crookes (On pathology/biology):** Crookes describes the force not as a spirit, but as a biological fluctuation, noting the medium is **"subject to unaccountable ebbs and flows of the force"**.
+    
+- **Lodge (On her nature):** He dismisses her behavior as **"tricky"** or implying a child-like/hysterical state.
+    
+
+**Secondary Source Evidence (Historians):**
+
+- **Marlene Tromp:** Argues that the **"scientific controls"** (holding hands/knees) allowed for illicit sexual intimacy in the dark.
+    
+- **Sofie Lachapelle:** Argues that scientists used a **"medical gaze"** to diagnose mediums as hysterical patients rather than spiritual leaders.
+    
+
+---
+
+### **SECTION 3: Science vs. Magic (Epistemology)**
+
+**The Argument:** Lodge tries to translate the "magic" of the séance into the "data" of the laboratory. He rejects the supernatural explanation and invents biological terms (like "prolongations") to make it sound scientific.
+
+**Primary Source Evidence (Lodge & Crookes):**
+
+- **Lodge (Scientific explanation):** He hypothesises that the spirit limbs are not ghosts, but a **"temporary prolongation of the body"** (ectoplasm/biology).
+    
+- **Crookes (On accuracy):** **"We must not mix up the exact and the inexact. The supremacy of accuracy must be absolute"**.
+    
+- **Crookes (Attacking "Fake" Science):** He complains about spiritualists who **"talk glibly of all sciences and arts... showing ignorance rather than understanding"**.
+    
+
+**Secondary Source Evidence (Historians):**
+
+- **Srdjan Smajić:** Argues the scientist acts as a **"detective"** looking for clues and fraud.
+    
+- **Richard Noakes:** Argues there was a clash between the **"male laboratory"** (order) and the **"female séance"** (chaos).
+    
+
+---
+
+### **Source Key (for your footnotes):**
+
+- **[1]** Lodge, p. 306.
+    
+- **[2]** Lodge, p. 322.
+    
+- **[7]** Crookes, p. 6 (or p. 4/5 for the extra quotes).
