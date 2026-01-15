@@ -312,3 +312,6 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 - **[2]** Lodge, p. 322.
     
 - **[7]** Crookes, p. 6 (or p. 4/5 for the extra quotes).
+
+
+
