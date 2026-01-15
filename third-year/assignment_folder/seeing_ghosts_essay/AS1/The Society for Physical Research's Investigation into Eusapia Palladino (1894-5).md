@@ -166,3 +166,65 @@ At the end of the report (p. 323–324), Lodge stakes his reputation on the phen
 
 "Any person... who might surmise that we were just deceived by the manual dexterity of a trickster... would be quite wrong." _Oliver Lodge_
 
+
+
+
+### **Section 1: Class and Performance (Completed)**
+
+- **The Argument:** Lodge cannot accept that an uneducated, working-class woman has power over him. He tries to strip her of authority by focusing on her "low" social status, but she uses this to her advantage by "performing" the role of the peasant to lower his guard.
+    
+- **Primary Evidence (The "Proof"):**
+    
+    - Lodge calls her an "uneducated Neapolitan woman" and "not a person of high education".
+        
+    - He is embarrassed by her "plain-spoken and barely polite" nature.
+        
+    - **Context:** William Crookes (1874) demanding "weights" instead of "flowers".
+        
+- **Historiography (The Historians):**
+    
+    - **Owen Davies:** The "plebeian ghost" (working-class spirits are seen as vulgar/noisy).
+        
+    - **De Ceglia & Leporiere:** Palladino was a "diva" who constructed her own myth.
+        
+    - **Simone Natale:** The séance is a "theatrical performance," not a science experiment.
+        
+
+---
+
+### **Section 2: Gender and the Body (Next Step)**
+
+- **The Argument:** Lodge treats Palladino’s body not as a spiritual vessel, but as a dangerous biological object that must be restrained. The "scientific controls" (tying her up, holding hands) are actually a way for elite men to impose physical dominance over a powerful female body.
+    
+- **Primary Evidence (The "Proof"):**
+    
+    - Lodge’s detailed list of restraints: "her feet were on a cushion... and were also tied with a silk ribbon".
+        
+    - "Her hands were held by the sitter on either side".
+        
+    - He notes she is "subject to unaccountable ebbs and flows" (pathologising her).
+        
+- **Historiography (The Historians):**
+    
+    - **Marlene Tromp:** The "sexual" nature of the séance (touching in the dark) required scientists to use clinical language to hide the intimacy.
+        
+    - **Sofie Lachapelle:** The "medical gaze"—scientists treated mediums like hysterical patients to explain away their power.
+        
+
+---
+
+### **Section 3: Science vs. Magic (The Epistemology)**
+
+- **The Argument:** Lodge tries to translate "Magic" into "Data." He cannot accept the supernatural, so he invents pseudo-scientific words (like "prolongations") to turn the séance into biology. He is acting like a detective at a crime scene, trying to force order onto chaos.
+    
+- **Primary Evidence (The "Proof"):**
+    
+    - Lodge hypothesises that spirit limbs are a "temporary prolongation of the body" (biological explanation).
+        
+    - He tries to distinguish between "what is really of interest" (data) and "tricky" behaviour.
+        
+- **Historiography (The Historians):**
+    
+    - **Srdjan Smajić:** The scientist as "detective"—reading signs to catch a criminal/fraud.
+        
+    - **Richard Noakes:** The clash between the "male laboratory" (order) and the "female séance" (chaos).
