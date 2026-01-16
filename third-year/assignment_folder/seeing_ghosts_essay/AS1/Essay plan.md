@@ -266,3 +266,6 @@ Lodge fails because he refuses to see the séance as performance.
 
 
 By treating Palladino as a biological specimen to be "secured," Lodge ignored her active role in shaping the encounter. Francesco Paolo de Ceglia and Lorenzo Leporiere suggest that Palladino was far from a passive object of study; instead, she was the **“diva of scientists,”** a title that reflects her agency in managing the attention and expectations of the men investigating her. This performative element undermined Lodge's experimental logic; while he looked for mechanical "prolongations," Palladino was actively directing a cultural and psychological spectacle. Ultimately, Lodge’s inability to account for the medium's self-constructed myth meant that his "scientific" results were always subordinate to her performative mastery.
+
+
+This performative element weakened Lodge’s experimental logic. While he searched for mechanical “prolongations,” Palladino was shaping a cultural and psychological spectacle. Because Lodge failed to recognise the myth she constructed around herself, his supposedly “scientific” findings remained secondary to her control of the performance.
