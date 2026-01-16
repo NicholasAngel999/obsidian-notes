@@ -262,10 +262,3 @@ Lodge fails because he refuses to see the séance as performance.
 - The séance resists being reduced to data
 
 
-
-
-Sir Oliver Lodge’s report on Eusapia Palladino ultimately reveals more about Victorian scientific anxiety than about spiritual phenomena themselves. While presented as an objective investigation, the report is shaped by Lodge’s attempts to reassert authority over a séance that resisted scientific control. His repeated emphasis on Palladino’s class, education, and bodily restraint reflects deep anxieties surrounding the presence of a working-class woman exercising influence within a space dominated by elite men.
-
-The report exposes how Victorian science struggled to manage phenomena that blurred the boundaries between the physical, psychological, and theatrical. By framing the séance as a laboratory experiment, Lodge attempted to impose order on an inherently unstable and performative environment. Yet this approach repeatedly failed. The need to physically restrain Palladino, to medicalise her body, and to defensively justify the legitimacy of the investigation demonstrates not scientific mastery, but uncertainty and insecurity.
-
-Ultimately, Lodge’s failure lay in his refusal to recognise Palladino as an active participant in the séance. By overlooking the performative and psychological dimensions of the encounter, he misunderstood the nature of the phenomena he sought to explain. As a result, the report stands not as proof of spiritual or scientific truth, but as a record of the limits of Victorian scientific authority in the face of experiences that defied conventional evidence and control.
