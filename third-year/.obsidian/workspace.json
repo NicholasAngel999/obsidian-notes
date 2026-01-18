@@ -22,21 +22,20 @@
             }
           },
           {
-            "id": "3ecbd6b019655b29",
+            "id": "30e688a3da09f404",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assignment_folder/Murder_Source_analysis/ES1/Reading.md",
+                "file": "assignment_folder/Murder_Source_analysis/ES1/Essay plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reading"
+              "title": "Essay plan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a68842be55fb6cd",
@@ -198,12 +198,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3ecbd6b019655b29",
+  "active": "6e9a8d49a1fe12c2",
   "lastOpenFiles": [
-    "assignment_folder/Murder_Source_analysis/ES1/readings/Ill effects_ the media_violence debate.pdf",
-    "assignment_folder/Murder_Source_analysis/ES1/readings",
     "assignment_folder/Murder_Source_analysis/ES1/Essay plan.md",
     "assignment_folder/Murder_Source_analysis/ES1/Reading.md",
+    "assignment_folder/Murder_Source_analysis/ES1/readings/Ill effects_ the media_violence debate.pdf",
+    "assignment_folder/Murder_Source_analysis/ES1/readings",
     "assignment_folder/seeing_ghosts_essay/AS1/Essay plan.md",
     "assignment_folder/Murder_Source_analysis/ES1",
     "assignment_folder/seeing_ghosts_essay/AS1/The Society for Physical Research's Investigation into Eusapia Palladino (1894-5).md",
@@ -219,7 +219,6 @@
     "assignment_folder/secret_intelligence/ES1/How does the contribution of COMINT compare with other forms of British intelligence during the Second World War?.md",
     "assignment_folder/seeing_ghosts_essay/AS1/Readings/other_dimensions_other_worlds.pdf",
     "assignment_folder/seeing_ghosts_essay/AS1/Readings/other_dimensions_other_worlds.pdf.opdownload",
-    "assignment_folder/seeing_ghosts_essay/AS1/Readings/Spiritualism_and_a_mid-Victori.pdf",
     "assignment_folder/secret_intelligence/ES1/Essay planning.md",
     "assignment_folder/secret_intelligence/AS1/planned reading list.md",
     "secret-intelligence/Battle of Britain and stuffs.md",
