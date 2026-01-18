@@ -100,8 +100,6 @@ E.J. Yeo, ‘“The Boy is the Father of the Man”: Moral Panic over Working-Cl
     
 - **Milligen, S.,** _Better to Reign in Hell: Serial Killers, Media Panics and the FBI_ (London: Headpress, 2006).
     
-- **Rowbotham, J., K. Stevenson, and S. Pegg,** _Crime News in Modern Britain: Press Reporting and Responsibility, 1820-2010_ (Basingstoke: Palgrave Macmillan, 2013).
-    
 - **Springhall, J.,** _Youth, Popular Culture and Moral Panics: Penny Gaffs to Gangsta-Rap, 1830-1996_ (Basingstoke: Palgrave Macmillan, 1998).
     
 - **Thompson, K.,** _Moral Panics_ (London: Routledge, 1998).
@@ -219,3 +217,29 @@ E.J. Yeo, ‘“The Boy is the Father of the Man”: Moral Panic over Working-Cl
 Bad news was found to constitute between 45% and 72% of the total output of the outlets during the sample period." (p. 3)
 
 "letters to the editor tend to be chosen in order to bolster 'the newspaper's image and public acceptance'" (p. 2)
+
+
+
+
+###  **Rowbotham, J., K. Stevenson, and S. Pegg,** _Crime News in Modern Britain: Press Reporting and Responsibility, 1820-2010_ (Basingstoke: Palgrave Macmillan, 2013).
+
+"Decisions on the presentation of crime narratives and representations of the perspectives taken by various titles set the framework through which we learn to understand the realities of the everyday legal world." (p. 2)
+
+"The media do not just transmit neutral information; they present a particular set of images about what the social world should be like." (p. 10)
+
+"Both the issues involved and the actors in a crime drama are now packaged into a series of stereotypes which lack both complexity and a sense of how these relate to the effective delivery of justice." (p. 181)
+
+"...understanding this is crucial to a comprehension of the moral panic surrounding the Leveson Inquiry and its 2013 Report (for moral panic, in Cohenian terms, we certainly believe it will come to be labelled)." (p. 2)
+
+"Using sensationalised and ideologically framed rhetoric... claiming the imperative of public interest, this has led to a series of panics linked to stories such as the murder of Sarah Payne." (p. 173)
+
+Sensational and emotive reportage has become more important as newspapers fight to retain their readership... This fast-paced delivery brings with it the danger of inaccuracy, particularly given the loss of specialist legal commentators." (p. 201)
+
+"Labour, for instance, successfully positioned itself as the ‘law-and-order’ party, wresting that title from the Conservatives, by promising to be ‘tough on crime and tough on the causes of crime’." (p. 176)
+
+"The same apparent helplessness in the face of consistently high levels of juvenile crime... was evident in the mid-twentieth century, with similar causes, from inappropriate reading matter to bad parenting and poor environments, being suggested." (p. 169)
+
+The accusation was that there was no will to remedy the system because it gave employment to 'Judges, Sheriffs, Criers, Barristers, Lawyers... and all the other machinery relating to crime'." (p. 19)
+
+
+

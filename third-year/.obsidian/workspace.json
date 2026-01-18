@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Essay plan"
             }
+          },
+          {
+            "id": "86fc6a719dcef25c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "assignment_folder/Murder_Source_analysis/ES1/Reading.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reading"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assignment_folder/secret_intelligence/ES1/Essay planning.md",
+                "file": "assignment_folder/Murder_Source_analysis/ES1/Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Essay planning"
+              "title": "Backlinks for Reading"
             }
           },
           {
@@ -162,8 +177,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,8 +198,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "df80a49d0d35e468",
+  "active": "86fc6a719dcef25c",
   "lastOpenFiles": [
+    "assignment_folder/Murder_Source_analysis/ES1/Essay plan.md",
     "assignment_folder/Murder_Source_analysis/ES1/Reading.md",
     "assignment_folder/Murder_Source_analysis/ES1/readings/Representing Order_ Crime, Law and Justice in the News Media.pdf",
     "assignment_folder/Murder_Source_analysis/ES1/readings/Ill effects_ the media_violence debate.pdf",
@@ -193,7 +208,6 @@
     "assignment_folder/Murder_Source_analysis/ES1/readings/Crime News in Modern Britain - Rowbotham, Judith;Stevenson, Kim;Pegg, Sam.pdf",
     "assignment_folder/Murder_Source_analysis/ES1/readings/9780203828250_previewpdf.pdf",
     "assignment_folder/Murder_Source_analysis/ES1/readings",
-    "assignment_folder/Murder_Source_analysis/ES1/Essay plan.md",
     "assignment_folder/Murder_Source_analysis/ES1",
     "assignment_folder/Murder_Source_analysis/ES1/readings/Unknown/Crime News in Modern Britain _ Press Reporting and Responsibility, 1820-2010/Crime News in Modern Britain _ Press Reporting and Responsibility, 1820-2010 - Unknown.pdf",
     "assignment_folder/Murder_Source_analysis/ES1/readings/Unknown/Crime News in Modern Britain _ Press Reporting and Responsibility, 1820-2010/Crime News in Modern Britain _ Press Reporting and Responsibility, 1820-2010 - Unknown.opf",
