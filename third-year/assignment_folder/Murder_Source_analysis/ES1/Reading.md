@@ -113,6 +113,9 @@ E.J. Yeo, ‘“The Boy is the Father of the Man”: Moral Panic over Working-Cl
 
 "the 'video nasty' issue was deliberately and explicitly used as an illustration of the dangers of the so-called 'underclass'." (p. 179)
 
+
+
+
 - **Cohen, S.,** _Folk Devils and Moral Panics: The Creation of the Mods and Rockers_, 3rd edn (London: Routledge, 2011).
     
 - **Critcher, C.,** _Moral Panics and the Media_ (Buckingham: Open University Press, 2003).
