@@ -81,3 +81,89 @@ US’, International Labour and Working-Class History, Vol. 74, No. 1 (2008), pp
 147.  
 E.J. Yeo, ‘“The Boy is the Father of the Man”: Moral Panic over Working-Class Youth,  
 1850 to the Present’, Labour History Review, Vol. 69, No. 2 (2004), pp. 185-199
+
+
+
+
+
+### Section 1: Media, Moral Panics, and the "Screen"
+
+**Focus:** How cinema and news reporting create "Moral Panics" and scapegoat cultural trends as the root cause of delinquency.
+
+- **Aldgate, A.,** _Censorship and the Permissive Society: British Cinema and Theatre, 1955-1965_ (Oxford: Clarendon Press, 1985).
+    
+- **Barker, M., and J. Petley, eds,** _Ill Effects: The Media/Violence Debate_, 2nd edn (London: Routledge, 2001).
+    
+- **Cohen, S.,** _Folk Devils and Moral Panics: The Creation of the Mods and Rockers_, 3rd edn (London: Routledge, 2011).
+    
+- **Critcher, C.,** _Moral Panics and the Media_ (Buckingham: Open University Press, 2003).
+    
+- **Critcher, C., ed.,** _Critical Readings: Moral Panics and the Media_ (Maidenhead: Open University Press, 2006).
+    
+- **Ericson, R. V., P. M. Baranek, and J. B. L. Chan,** _Representing Order: Crime, Law and Justice in the News Media_ (Milton Keynes: Open University Press, 1991).
+    
+- **Jenkins, P.,** _Intimate Enemies: Moral Panics in Contemporary Great Britain_ (New York: Aldine de Gruyter, 1992).
+    
+- **Milligen, S.,** _Better to Reign in Hell: Serial Killers, Media Panics and the FBI_ (London: Headpress, 2006).
+    
+- **Rowbotham, J., K. Stevenson, and S. Pegg,** _Crime News in Modern Britain: Press Reporting and Responsibility, 1820-2010_ (Basingstoke: Palgrave Macmillan, 2013).
+    
+- **Springhall, J.,** _Youth, Popular Culture and Moral Panics: Penny Gaffs to Gangsta-Rap, 1830-1996_ (Basingstoke: Palgrave Macmillan, 1998).
+    
+- **Thompson, K.,** _Moral Panics_ (London: Routledge, 1998).
+    
+
+---
+
+### Section 2: Subcultures, Identity, and Rituals
+
+**Focus:** Analyzing "Skinheads," Football/Ice Hockey Hooliganism, and music subcultures as expressions of social friction.
+
+- **Bradley, D.,** _Understanding Rock ‘n’ Roll: Popular Music in Britain, 1955-1964_ (Buckingham: Open University Press, 1992).
+    
+- **Davies, A.,** _Street Gangs and Violence in Glasgow in the 1920s and 1930s_ (Edinburgh: Edinburgh University Press, 2006).
+    
+- **Gurr, T. R., ed.,** _Violence in America: Volume I: The History of Crime_ (Newbury Park, CA: Sage, 1989).
+    
+- **Gurr, T. R., ed.,** _Violence in America: Volume II: Protest, Rebellion, Reform_ (Newbury Park, CA: Sage, 1989).
+    
+- **Osgerby, W.,** _Youth in Britain since 1945_ (Oxford: Blackwell, 1998).
+    
+- **Pearson, G.,** _Hooligan: A History of Respectable Fears_ (London: Macmillan, 1983).
+    
+- **Quinn, E.,** _Nuthin’ but a “G” Thang: The Culture and Commerce of Gangsta Rap_ (New York: Columbia University Press, 2005).
+    
+- **Rose, T.,** _Black Noise: Rap Music and Black Culture in Contemporary America_ (Hanover, NH: University Press of New England, 1994).
+    
+- **Savage, J.,** _England’s Dreaming: Sex Pistols and Punk Rock_ (London: Faber, 1991).
+    
+- **Simonelli, D.,** ‘Anarchy, Pop and Violence: Punk Rock Subculture and the Rhetoric of Class, 1976-78’, _Contemporary British History_, 16.2 (2002), 121–44.
+    
+- **Spergel, I. A.,** ‘Youth Gangs: Continuity and Change’, _Crime and Justice_, 12 (1990), 171–275.
+    
+- **Ward, C.,** _All Quiet on the Hooligan Front: Eight Years That Changed the Face of Football_ (London: Mainstream, 1996).
+    
+
+---
+
+### Section 3: Structural Roots and the "Limited Extent"
+
+**Focus:** Arguing that "Fashion," consumerism, and the "Underclass" are symptoms of economic exclusion and state control.
+
+- **Carrabine, E., and others,** _Crime in Modern Britain_ (Oxford: Oxford University Press, 2002).
+    
+- **Croall, H.,** _Crime and Society in Britain_, 2nd edn (Harlow: Longman, 2011).
+    
+- **Garland, D.,** _The Culture of Control: Crime and Social Order in Contemporary Society_ (Oxford: Oxford University Press, 2001).
+    
+- **Maguire, M., R. Morgan, and R. Reiner, eds,** _The Oxford Handbook of Criminology_, 5th edn (Oxford: Oxford University Press, 2012).
+    
+- **Melossi, D.,** ‘Changing Representations of the Criminal’, _British Journal of Criminology_, 40.2 (2000), 296–320.
+    
+- **Morris, T.,** _Crime and Criminal Justice Since 1945_ (Oxford: Basil Blackwell, 1989).
+    
+- **Oliver, W. M., and J. F. Hilgenberg,** _A History of Crime and Criminal Justice in America_, 3rd edn (London: Pearson, 2018).
+    
+- **Welshman, J.,** _Underclass: A History of the Excluded, 1880-2000_ (London: Hambledon and London, 2006).
+    
+- **Yeo, E. J.,** ‘“The Boy is the Father of the Man”: Moral Panic over Working-Class Youth, 1850 to the Present’, _Labour History Review_, 69.2 (2004), 185–99.
