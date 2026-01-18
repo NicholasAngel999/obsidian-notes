@@ -92,30 +92,6 @@ E.J. Yeo, ‘“The Boy is the Father of the Man”: Moral Panic over Working-Cl
 
 - **Aldgate, A.,** _Censorship and the Permissive Society: British Cinema and Theatre, 1955-1965_ (Oxford: Clarendon Press, 1985).
 
-###  **Barker, M., and J. Petley, eds,** _Ill Effects: The Media/Violence Debate_, 2nd edn (London: Routledge, 2001).
-
-"This simple image of direct effects draws its power from a deep reservoir of social fear and dogma which first formed in the mid-nineteenth century as commentators began to link the social costs of modernity with the proliferation of new forms of popular entertainment." (p. 150)
-
-"Now violence and terror lurk in the once-safe streets. The family no longer holds its proper place and parents have abandoned their responsibilities." (p. 151)
-
-"The result was banal science, which failed to ask awkward questions, to pursue other possible lines of inquiry or to place 'effects' in their social contexts." (p. 152)
-
- "Nevertheless, we cannot agree with the conclusion usually taken for granted in these cases, that the reading and the robbery stand in the relation of cause and effect." (p. 158)
-
-"From its inception the cinema has been regarded by moral entrepreneurs as a cause of decline and deterioration, and as a veritable textbook of bad examples to the young, the easily influenced, the working class." (p. 171)
-
-
-"the larger the audience, the lower the moral mass resistance to suggestion" (p. 176)
-
-"The fact is that crowded slums, machine labour...barren lives, starved emotions...are far more dangerous to morals, property and life than...any motion picture." (p. 160)
-
-"If we are to understand and respond constructively to social violence in contemporary Britain we need to place it in the context of the massive social and psychic disruptions set in motion by mass unemployment, the decay of communal life and public space, and the evaporation of hope." (p. 167)
-
-"the 'video nasty' issue was deliberately and explicitly used as an illustration of the dangers of the so-called 'underclass'." (p. 179)
-
-
-
-
 - **Cohen, S.,** _Folk Devils and Moral Panics: The Creation of the Mods and Rockers_, 3rd edn (London: Routledge, 2011).
     
 - **Critcher, C.,** _Moral Panics and the Media_ (Buckingham: Open University Press, 2003).
@@ -189,3 +165,34 @@ E.J. Yeo, ‘“The Boy is the Father of the Man”: Moral Panic over Working-Cl
 - **Welshman, J.,** _Underclass: A History of the Excluded, 1880-2000_ (London: Hambledon and London, 2006).
     
 - **Yeo, E. J.,** ‘“The Boy is the Father of the Man”: Moral Panic over Working-Class Youth, 1850 to the Present’, _Labour History Review_, 69.2 (2004), 185–99.
+
+
+
+
+
+
+
+
+
+# Section 1 
+---
+###  **Barker, M., and J. Petley, eds,** _Ill Effects: The Media/Violence Debate_, 2nd edn (London: Routledge, 2001).
+
+"This simple image of direct effects draws its power from a deep reservoir of social fear and dogma which first formed in the mid-nineteenth century as commentators began to link the social costs of modernity with the proliferation of new forms of popular entertainment." (p. 150)
+
+"Now violence and terror lurk in the once-safe streets. The family no longer holds its proper place and parents have abandoned their responsibilities." (p. 151)
+
+"The result was banal science, which failed to ask awkward questions, to pursue other possible lines of inquiry or to place 'effects' in their social contexts." (p. 152)
+
+ "Nevertheless, we cannot agree with the conclusion usually taken for granted in these cases, that the reading and the robbery stand in the relation of cause and effect." (p. 158)
+
+"From its inception the cinema has been regarded by moral entrepreneurs as a cause of decline and deterioration, and as a veritable textbook of bad examples to the young, the easily influenced, the working class." (p. 171)
+
+
+"the larger the audience, the lower the moral mass resistance to suggestion" (p. 176)
+
+"The fact is that crowded slums, machine labour...barren lives, starved emotions...are far more dangerous to morals, property and life than...any motion picture." (p. 160)
+
+"If we are to understand and respond constructively to social violence in contemporary Britain we need to place it in the context of the massive social and psychic disruptions set in motion by mass unemployment, the decay of communal life and public space, and the evaporation of hope." (p. 167)
+
+"the 'video nasty' issue was deliberately and explicitly used as an illustration of the dangers of the so-called 'underclass'." (p. 179)
