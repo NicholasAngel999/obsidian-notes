@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a68842be55fb6cd",
@@ -111,7 +110,7 @@
               "type": "backlink",
               "state": {
                 "file": "assignment_folder/Murder_Source_analysis/ES1/Reading.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -177,7 +176,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -198,7 +198,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "86fc6a719dcef25c",
+  "active": "df80a49d0d35e468",
   "lastOpenFiles": [
     "assignment_folder/Murder_Source_analysis/ES1/Essay plan.md",
     "assignment_folder/Murder_Source_analysis/ES1/Reading.md",
