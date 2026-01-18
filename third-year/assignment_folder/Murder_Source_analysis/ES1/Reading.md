@@ -197,11 +197,25 @@ E.J. Yeo, ‘“The Boy is the Father of the Man”: Moral Panic over Working-Cl
 
 ### **Cohen, S.,** _Folk Devils and Moral Panics: The Creation of the Mods and Rockers_, 3rd edn (London: Routledge, 2011).
 
-- "A condition, episode, person or group of persons emerges to become defined as a threat to societal values and interests; its nature is presented in a stylized and stereotypical fashion by the mass media; the moral barricades are manned by editors, bishops, politicians and other right-thinking people." (p. 1)
-- "The student of moral enterprise cannot but pay particular attention to the role of the mass media in defining and shaping social problems." (p. 9)
-- "The information characteristically is not received at first hand, it tends to be processed in such a form that the action or actors concerned are pictured in a highly stereotypical way." (p. 11)
-- "Disproportionality - an exaggeration of the number or strength of the cases, in terms of the damage caused, moral offensiveness, potential risk if ignored. Public concern is not directly proportionate to objective harm." (p. xxvii)
+"A condition, episode, person or group of persons emerges to become defined as a threat to societal values and interests; its nature is presented in a stylized and stereotypical fashion by the mass media; the moral barricades are manned by editors, bishops, politicians and other right-thinking people." (p. 1)
+
+ "The student of moral enterprise cannot but pay particular attention to the role of the mass media in defining and shaping social problems." (p. 9)
+ 
+ "The information characteristically is not received at first hand, it tends to be processed in such a form that the action or actors concerned are pictured in a highly stereotypical way." (p. 11)
+ 
+ "Disproportionality - an exaggeration of the number or strength of the cases, in terms of the damage caused, moral offensiveness, potential risk if ignored. Public concern is not directly proportionate to objective harm." (p. xxvii)
 
 
 ### **Ericson, R. V., P. M. Baranek, and J. B. L. Chan,** _Representing Order: Crime, Law and Justice in the News Media_ (Milton Keynes: Open University Press, 1991).
 
+"The news institution focuses upon what is out of place: the deviant, equivocal and unpredictable... and works to provide a set of classifications which 'establish the normal, reduce equivocality and increase predictability—that is, to represent order'." (p. 2)
+
+"the media are not simply the mouthpieces of their sources as has often been claimed. On the contrary, the media are powerful and frequently have the upper-hand in defining the news." (p. 2)
+
+"Conceptually, the news media are perceived as agencies which scan organizational activities in their endless search for signs of deviance." (p. 1)
+
+"the space available for participation in the public sphere has been bought out by the public-relations machines of the corporate and governmental conglomerates" (p. 2)
+
+Bad news was found to constitute between 45% and 72% of the total output of the outlets during the sample period." (p. 3)
+
+"letters to the editor tend to be chosen in order to bolster 'the newspaper's image and public acceptance'" (p. 2)
