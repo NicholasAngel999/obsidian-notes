@@ -91,8 +91,6 @@ E.J. Yeo, ‘“The Boy is the Father of the Man”: Moral Panic over Working-Cl
 **Focus:** How cinema and news reporting create "Moral Panics" and scapegoat cultural trends as the root cause of delinquency.
 
 - **Aldgate, A.,** _Censorship and the Permissive Society: British Cinema and Theatre, 1955-1965_ (Oxford: Clarendon Press, 1985).
-
-- **Cohen, S.,** _Folk Devils and Moral Panics: The Creation of the Mods and Rockers_, 3rd edn (London: Routledge, 2011).
     
 - **Critcher, C.,** _Moral Panics and the Media_ (Buckingham: Open University Press, 2003).
     
@@ -196,3 +194,12 @@ E.J. Yeo, ‘“The Boy is the Father of the Man”: Moral Panic over Working-Cl
 "If we are to understand and respond constructively to social violence in contemporary Britain we need to place it in the context of the massive social and psychic disruptions set in motion by mass unemployment, the decay of communal life and public space, and the evaporation of hope." (p. 167)
 
 "the 'video nasty' issue was deliberately and explicitly used as an illustration of the dangers of the so-called 'underclass'." (p. 179)
+
+
+
+### **Cohen, S.,** _Folk Devils and Moral Panics: The Creation of the Mods and Rockers_, 3rd edn (London: Routledge, 2011).
+
+- "A condition, episode, person or group of persons emerges to become defined as a threat to societal values and interests; its nature is presented in a stylized and stereotypical fashion by the mass media; the moral barricades are manned by editors, bishops, politicians and other right-thinking people." (p. 1)
+- "The student of moral enterprise cannot but pay particular attention to the role of the mass media in defining and shaping social problems." (p. 9)
+- "The information characteristically is not received at first hand, it tends to be processed in such a form that the action or actors concerned are pictured in a highly stereotypical way." (p. 11)
+- "Disproportionality - an exaggeration of the number or strength of the cases, in terms of the damage caused, moral offensiveness, potential risk if ignored. Public concern is not directly proportionate to objective harm." (p. xxvii)
