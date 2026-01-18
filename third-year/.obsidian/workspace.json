@@ -8,31 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e9a8d49a1fe12c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "assignment_folder/Murder_Source_analysis/ES1/Reading.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reading"
-            }
-          },
-          {
             "id": "30e688a3da09f404",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "assignment_folder/Murder_Source_analysis/ES1/Essay plan.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Essay plan"
+              "title": "New tab"
             }
           }
         ]
@@ -198,21 +180,21 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6e9a8d49a1fe12c2",
+  "active": "30e688a3da09f404",
   "lastOpenFiles": [
+    "assignment_folder/Murder_Source_analysis/ES1/readings/Representing Order_ Crime, Law and Justice in the News Media.pdf",
+    "assignment_folder/Murder_Source_analysis/ES1/readings/Ill effects_ the media_violence debate.pdf",
+    "assignment_folder/Murder_Source_analysis/ES1/readings/Crime News in Modern Britain : Press Reporting and Responsibility, 1820-2010.acsm",
+    "assignment_folder/Murder_Source_analysis/ES1/readings/Crime News in Modern Britain - Rowbotham, Judith;Stevenson, Kim;Pegg, Sam.pdf",
+    "assignment_folder/Murder_Source_analysis/ES1/readings/9780203828250_previewpdf.pdf",
+    "assignment_folder/Murder_Source_analysis/ES1/readings",
+    "assignment_folder/Murder_Source_analysis/ES1/Reading.md",
+    "assignment_folder/Murder_Source_analysis/ES1/Essay plan.md",
+    "assignment_folder/Murder_Source_analysis/ES1",
     "assignment_folder/Murder_Source_analysis/ES1/readings/Unknown/Crime News in Modern Britain _ Press Reporting and Responsibility, 1820-2010/Crime News in Modern Britain _ Press Reporting and Responsibility, 1820-2010 - Unknown.pdf",
     "assignment_folder/Murder_Source_analysis/ES1/readings/Unknown/Crime News in Modern Britain _ Press Reporting and Responsibility, 1820-2010/Crime News in Modern Britain _ Press Reporting and Responsibility, 1820-2010 - Unknown.opf",
     "assignment_folder/Murder_Source_analysis/ES1/readings/Unknown/Crime News in Modern Britain _ Press Reporting and Responsibility, 1820-2010",
     "assignment_folder/Murder_Source_analysis/ES1/readings/Unknown",
-    "assignment_folder/Murder_Source_analysis/ES1/readings/Representing Order_ Crime, Law and Justice in the News Media.pdf",
-    "assignment_folder/Murder_Source_analysis/ES1/readings/Ill effects_ the media_violence debate.pdf",
-    "assignment_folder/Murder_Source_analysis/ES1/readings/9780203828250_previewpdf.pdf",
-    "assignment_folder/Murder_Source_analysis/ES1/Reading.md",
-    "assignment_folder/Murder_Source_analysis/ES1/Essay plan.md",
-    "assignment_folder/Murder_Source_analysis/ES1/readings/Crime News in Modern Britain : Press Reporting and Responsibility, 1820-2010.acsm",
-    "assignment_folder/Murder_Source_analysis/ES1/readings/3027741.acsm",
-    "assignment_folder/Murder_Source_analysis/ES1/9780203828250_previewpdf.pdf",
-    "assignment_folder/Murder_Source_analysis/ES1/readings",
     "assignment_folder/seeing_ghosts_essay/AS1/Essay plan.md",
     "assignment_folder/seeing_ghosts_essay/AS1/The Society for Physical Research's Investigation into Eusapia Palladino (1894-5).md",
     "output/The Society for Physical Research's Investigation into Eusapia Palladino (1894-5).md",
