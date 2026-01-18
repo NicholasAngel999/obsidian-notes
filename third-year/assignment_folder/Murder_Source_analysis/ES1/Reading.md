@@ -96,8 +96,6 @@ E.J. Yeo, ‘“The Boy is the Father of the Man”: Moral Panic over Working-Cl
     
 - **Critcher, C., ed.,** _Critical Readings: Moral Panics and the Media_ (Maidenhead: Open University Press, 2006).
     
-- **Ericson, R. V., P. M. Baranek, and J. B. L. Chan,** _Representing Order: Crime, Law and Justice in the News Media_ (Milton Keynes: Open University Press, 1991).
-    
 - **Jenkins, P.,** _Intimate Enemies: Moral Panics in Contemporary Great Britain_ (New York: Aldine de Gruyter, 1992).
     
 - **Milligen, S.,** _Better to Reign in Hell: Serial Killers, Media Panics and the FBI_ (London: Headpress, 2006).
@@ -203,3 +201,7 @@ E.J. Yeo, ‘“The Boy is the Father of the Man”: Moral Panic over Working-Cl
 - "The student of moral enterprise cannot but pay particular attention to the role of the mass media in defining and shaping social problems." (p. 9)
 - "The information characteristically is not received at first hand, it tends to be processed in such a form that the action or actors concerned are pictured in a highly stereotypical way." (p. 11)
 - "Disproportionality - an exaggeration of the number or strength of the cases, in terms of the damage caused, moral offensiveness, potential risk if ignored. Public concern is not directly proportionate to objective harm." (p. xxvii)
+
+
+### **Ericson, R. V., P. M. Baranek, and J. B. L. Chan,** _Representing Order: Crime, Law and Justice in the News Media_ (Milton Keynes: Open University Press, 1991).
+
