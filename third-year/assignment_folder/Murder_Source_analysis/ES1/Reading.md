@@ -243,3 +243,11 @@ The accusation was that there was no will to remedy the system because it gave e
 
 ### **Thompson, K.,** _Moral Panics_ (London: Routledge, 1998).
 
+"Newspaper headlines continually warn of some new danger resulting from moral laxity, and television programmes echo the theme with sensational documentaries." **(p. 1)**
+
+"Britain is exceptional for the extent to which it has national mass media that are highly concentrated and closely linked... the London-based national newspapers are dominant." **(p. 25-26)**
+
+"Concentrated media attention confers the status of high public concern on issues which are highlighted; these generally become understood by everyone as the 'pressing issues of the day'." **(p. 58)**
+
+"The mass media operate with certain definitions of what is newsworthy... There are built-in factors... to structured ideological biases, which predispose the media to make a certain event into news." **(p.35)**
+
