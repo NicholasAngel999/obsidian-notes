@@ -25,14 +25,12 @@
             "id": "86fc6a719dcef25c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "assignment_folder/Murder_Source_analysis/ES1/Reading.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20251029131017.png"
               },
-              "icon": "lucide-file",
-              "title": "Reading"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251029131017"
             }
           }
         ],
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assignment_folder/Murder_Source_analysis/ES1/Reading.md",
+                "file": "Pasted image 20251029131017.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Reading"
+              "title": "Backlinks for Pasted image 20251029131017"
             }
           },
           {
@@ -198,10 +196,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "df80a49d0d35e468",
+  "active": "83e6535bbf22e0aa",
   "lastOpenFiles": [
-    "assignment_folder/Murder_Source_analysis/ES1/Essay plan.md",
     "assignment_folder/Murder_Source_analysis/ES1/Reading.md",
+    "assignment_folder/Murder_Source_analysis/ES1/Essay plan.md",
     "assignment_folder/Murder_Source_analysis/ES1/readings/Representing Order_ Crime, Law and Justice in the News Media.pdf",
     "assignment_folder/Murder_Source_analysis/ES1/readings/Ill effects_ the media_violence debate.pdf",
     "assignment_folder/Murder_Source_analysis/ES1/readings/Crime News in Modern Britain : Press Reporting and Responsibility, 1820-2010.acsm",
