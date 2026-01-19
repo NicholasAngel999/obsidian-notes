@@ -360,3 +360,6 @@ The findings from this study... indicate that gangs and violence on Chicago’s 
 
 "Thus, from an ultra-realist perspective, the 2011 London riots should be understood primarily as 'consumer riots'—that is, rather than seeking to challenge the established political orthodoxy, the rioters (in the main) illustrated a deep commitment to the ideology of consumer capitalism." **(p. 554)**
 
+
+### Welshman, John, _Underclass: A History of the Excluded, 1880-2000_ (London: Hambledon Continuum, 2006)
+
