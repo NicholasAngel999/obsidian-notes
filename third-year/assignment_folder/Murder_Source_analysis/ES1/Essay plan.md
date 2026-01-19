@@ -40,8 +40,31 @@ Both recognise cultural impact of cinema on subcultures
 
 Blamed for creating a *culture of violence*
 
+### Hooligans treated as a modern folk devil symbolising social decline
+
+"rapid oscillation from one such devil to another... the soccer hooligan, the hippy, the skinhead" (p. 3).
+
+ "repressive legislation" like the 1994 Criminal Justice Act (p. 318).
 
 
+### Hooliganism isnt a new cultural phenomena its a stable feature of British history
+
+"stable feature of a changing society" (p. 615).
+
+"convenient metaphor for wider social tensions" (p. 615)
+
+"real social issues... unemployment, shabby entertainment, racism and poor housing" (p. 616).
+
+
+### Violence within these groups is usually a survival mechanism in the face of poverty not copying the media
+
+"functional adaptation to an uncompromising social environment" (p. 231)
+
+where the gang replaces the family and school (p. 171).
+
+"demolition of nearly all of Chicago’s public housing" (p. 28) 
+
+which "shattered" the social order (p. 43).
 
 # Section 3 - *Fashion and Consumerism*
 ---
