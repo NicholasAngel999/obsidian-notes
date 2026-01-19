@@ -23,7 +23,16 @@ Both recognise cultural impact of cinema on subcultures
 
 "Folk Devils" who are "visible reminders of what we should not be" (p. 2).
 
+"focuses upon what is out of place... to represent order" (p. 2).
 
+
+### rise in crime is often actually a rise in reporting of crime to sell papers
+
+"Sensational and emotive reportage has become more important as newspapers fight to retain their readership" (p. 201).
+
+"banal science" (p. 152)
+
+"mass unemployment, the decay of communal life... and the evaporation of hope" (p. 167).
 
 
 # Section 2 - *Sports Hooliganism (Football and Ice Hockey*
