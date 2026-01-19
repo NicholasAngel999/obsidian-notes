@@ -311,3 +311,25 @@ He insists that to focus on hooliganism... is to trivialize the real social issu
 
 "Some Latin street gangs in southern California have existed within particular localities for two or more generations... 'Parents and in some cases even grandparents were members of the same gang. There is a sense of continuity of family identity'." **(p. 214)**
 
+
+### **Aspholm, Roberto R., _Views from the Streets: The Transformation of Gangs and Violence on Chicago's South Side_ (New York: Columbia University Press, 2020)**
+
+"The demolition of nearly all of Chicago’s public housing developments, then, not only served to eradicate many of the drug markets that had been the most profitable for the city’s street gangs, it also served to eliminate gang strongholds and disrupt long-standing gang networks." **(p. 28)**
+
+"The arrival of thousands of gang members from demolished public housing developments into existing gang territories in other distressed black neighborhoods... frequently led to violent clashes within these receiving communities." **(p. 28)**
+
+"The incarceration of increasing numbers of gang members and, especially, gang leaders also had the effect of weakening existing gang structures.... federal authorities 'went and locked all the heavies up.'" **(p. 31)**
+
+"The collective weight of these circumstances effectively shattered the black street gangs on Chicago’s South Side during the first decade of the twenty-first century." **(p. 43)**
+
+"Today’s gangs are organized very differently than—indeed, in many ways, in diametrical opposition to—their hierarchical, corporate-style predecessors." **(p. 17)**
+
+"Formal positions of leadership at the neighborhood level have also been largely, if not universally, eliminated.... Chicago’s youthful African American gang members have established egalitarian arrangements based on a delicate balance of collectivist ideals, mutual respect, and personal autonomy." **(p. 48)**
+
+"Aside from their mention of gang fracturing, this research bears out that everything in this statement is erroneous, and everything, including the alleged cause of gang fracturing, is manufactured to depict gang members as morally bankrupt savages." **(p. 76)**
+
+"The black gangs on Chicago’s South Side today, moreover, are not really 'factions' at all, as this term implies that these independent neighborhood-based groups remain part of broader, coherent gang organizations that, in reality, no longer exist." **(p. 76)**
+
+The findings from this study... indicate that gangs and violence on Chicago’s South Side are the products of a complex, interrelated set of conditions... particularly those related to marginalization and despair, poverty and economic exclusion, and pervasive community violence." **(p. 171)**
+
+"Gangs provide... resistance identities that facilitate the reconstruction of dignity and self-esteem systematically undermined by a lifetime of marginalization and vilification." **(p. 171)**
