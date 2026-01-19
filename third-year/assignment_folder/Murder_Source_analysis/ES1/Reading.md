@@ -124,15 +124,13 @@ E.J. Yeo, ‘“The Boy is the Father of the Man”: Moral Panic over Working-Cl
 
 ---
 
-### Section 3: Structural Roots and the "Limited Extent"
+## Section 3: Structural Roots and the "Limited Extent"
 
 **Focus:** Arguing that "Fashion," consumerism, and the "Underclass" are symptoms of economic exclusion and state control.
 
 - **Carrabine, E., and others,** _Crime in Modern Britain_ (Oxford: Oxford University Press, 2002).
     
 - **Croall, H.,** _Crime and Society in Britain_, 2nd edn (Harlow: Longman, 2011).
-    
-- **Garland, D.,** _The Culture of Control: Crime and Social Order in Contemporary Society_ (Oxford: Oxford University Press, 2001).
     
 - **Maguire, M., R. Morgan, and R. Reiner, eds,** _The Oxford Handbook of Criminology_, 5th edn (Oxford: Oxford University Press, 2012).
     
@@ -333,3 +331,10 @@ He insists that to focus on hooliganism... is to trivialize the real social issu
 The findings from this study... indicate that gangs and violence on Chicago’s South Side are the products of a complex, interrelated set of conditions... particularly those related to marginalization and despair, poverty and economic exclusion, and pervasive community violence." **(p. 171)**
 
 "Gangs provide... resistance identities that facilitate the reconstruction of dignity and self-esteem systematically undermined by a lifetime of marginalization and vilification." **(p. 171)**
+
+
+
+# Section 3
+---
+
+### **Garland, D.,** _The Culture of Control: Crime and Social Order in Contemporary Society_ (Oxford: Oxford University Press, 2001).
