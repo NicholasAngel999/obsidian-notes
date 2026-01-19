@@ -294,3 +294,20 @@ He insists that to focus on hooliganism... is to trivialize the real social issu
 "It highlights the way in which a reformist spirit of rehabilitation and welfare was replaced, during the seventies and eighties, by a more punitive set of intervention strategies, as a change towards a more authoritarian form of political state took place." (p. 318)
 
 "Moral panics regarding youth behaviour arose... political authorities met these developments by the passage of the 1994 Criminal Justice Act, according to the author 'one of the most repressive pieces of legislation to be introduced by a modern British government'." (p. 318)
+
+
+
+### **Spergel, I. A.,** ‘Youth Gangs: Continuity and Change’, _Crime and Justice_, 12 (1990), 171–275.
+
+"The gang is an important social institution for low-income male youths... because it often serves social, cultural, and economic functions no longer adequately performed by the family, the school, and the labor market." **(p. 171)**
+
+"Race or ethnicity and social isolation interact with poverty and community disorganization to account for much of the gang problem." **(p. 171)**
+
+"Few of these youths have experienced anything but severe economic deprivation... 'Survival through hustling or fighting is a functional adaptation to an uncompromising social environment'." **(p. 231)**
+
+"Youth gangs are not unique to contemporary urban America. They have existed across time and cultures... Youth gangs tend to develop during times of rapid social change and political instability." **(p. 171)**
+
+"Youth gangs may be an endemic feature of urban culture that varies over time in its form, social meaning, and antisocial character." **(p. 174)**
+
+"Some Latin street gangs in southern California have existed within particular localities for two or more generations... 'Parents and in some cases even grandparents were members of the same gang. There is a sense of continuity of family identity'." **(p. 214)**
+
