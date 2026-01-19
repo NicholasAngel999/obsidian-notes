@@ -363,3 +363,16 @@ The findings from this study... indicate that gangs and violence on Chicago’s 
 
 ### Welshman, John, _Underclass: A History of the Excluded, 1880-2000_ (London: Hambledon Continuum, 2006)
 
+"By the 1980s, the meaning of the term 'underclass' had changed significantly... The dominant image had become 'one of people with serious character flaws entrenched by a welfare subculture and who have only themselves to blame'." (p. 141)
+
+"Murray argued that... 'The choices may be seen... as the behaviour of people responding to the reality of the world around them... rational choices'... The poor were encouraged to behave in ways that were advantageous in the short term but destructive in the long term."  (pp. 136, 134)
+
+"Murray argued that 'latent poverty' (those who were below the official poverty line, plus those who were above it only because of welfare payments)... began to increase again after 1972... Calling this the 'most damning of statistics', Murray argued that economic independence was the key factor in determining the quality of a family's life." (pp.134-135)
+
+"Macnicol identified five important underlying strands... First, he claimed it was an artificial 'administrative' definition... In this respect, it was a statistical artefact in that its size would be affected by such factors as eligibility, take-up of benefits, and changing levels of unemployment." (p. xix)
+
+"The concept of an inter-generational underclass... has been reconstructed periodically over at least the past one hundred years... Underclass stereotypes have always been a part of the discourse on poverty in advanced industrial societies." (p. xix)
+
+"The idea of the 'undeserving poor' and the stigmas with which people are labelled persist... because they are useful to the people who are not poor." (p. xvii)
+
+"Katz has also suggested that the underclass is a 'metaphor for social transformation' and evokes perceptions of novelty, complexity, and danger." (p. xvii)
