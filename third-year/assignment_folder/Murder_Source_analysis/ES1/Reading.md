@@ -276,3 +276,21 @@ The accusation was that there was no will to remedy the system because it gave e
 "Jumping back twenty or thirty years at a time - from the black muggers of today, through the Teds of the '50s... right back to the 1600s - he examines the basis of respectable fears to do with law and disorder." (p. 615)
 
 "Certainly such behaviour has historically been viewed as un-British, and non-British scapegoats - particularly blacks and Irish (the very word 'Hooligan' is of Irish origin) - have been identified as the source of this disruption." (p. 616)
+
+"Crime and hooliganism, Pearson maintains, are in fact the stable features of a changing society." (p. 615)
+
+"Preoccupations with mounting social disorder... have served as 'a convenient metaphor for wider social tensions which attend the advance of democratization'." (p. 615)
+
+He insists that to focus on hooliganism... is to trivialize the real social issues of today - unemployment, shabby entertainment, racism and poor housing." (p. 616)
+
+
+
+### Elteren, Mel van, review of _Youth in Britain since 1945_, by Bill Osgerby, _International Review of Social History_, 44.2 (1999), 317–19
+
+"[The book examines] the post-war stereotyping of young people by moral authorities as the embodiment of both the best and the worst aspects of social and cultural change." (p. 317)
+
+"Youth subcultures have always been intertwined with the institutions of the market in an ongoing relationship of exchange... rather than [being] autonomous grassroots cultures." (p. 318)
+
+"It highlights the way in which a reformist spirit of rehabilitation and welfare was replaced, during the seventies and eighties, by a more punitive set of intervention strategies, as a change towards a more authoritarian form of political state took place." (p. 318)
+
+"Moral panics regarding youth behaviour arose... political authorities met these developments by the passage of the 1994 Criminal Justice Act, according to the author 'one of the most repressive pieces of legislation to be introduced by a modern British government'." (p. 318)
