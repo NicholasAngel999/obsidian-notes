@@ -71,3 +71,27 @@ which "shattered" the social order (p. 43).
 
 "Culture and Commerce" of specific urban fashions—often linked to **Gangsta Rap**—were similarly blamed for promoting a "gang" lifestyle.
 
+### The new right argues that a specific culture (fashion) is responsible for crime
+
+"underclass" is defined by "illegitimacy, violent crime, and drop-out from the labour force" (p. 163)
+
+"rational choices" to rely on welfare (p. 136).
+
+"lens through which to view the poor—as undeserving, deviant, dangerous" (p. 102).
+
+
+### It is not the style of fashion that causes crime but the pressure to own it in an unequal society that does
+
+Consumerism cultivates "insatiable desire" (p. 551)
+
+where the lack of goods is felt as a "state of humiliation" (p. 548).
+
+"consumer riots"—an attempt to join the "ideology of consumer capitalism" (p. 554).
+
+
+### People turn to crime to afford these fashions because the legitimate economy has rejected them
+
+"sharply stratified labour market" (p. 82)
+
+"systematically excluded" inner-city youths (p. 82).
+
