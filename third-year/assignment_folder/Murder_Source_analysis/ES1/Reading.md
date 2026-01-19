@@ -132,8 +132,6 @@ E.J. Yeo, ‘“The Boy is the Father of the Man”: Moral Panic over Working-Cl
     
 - **Croall, H.,** _Crime and Society in Britain_, 2nd edn (Harlow: Longman, 2011).
     
-- **Maguire, M., R. Morgan, and R. Reiner, eds,** _The Oxford Handbook of Criminology_, 5th edn (Oxford: Oxford University Press, 2012).
-    
 - **Melossi, D.,** ‘Changing Representations of the Criminal’, _British Journal of Criminology_, 40.2 (2000), 296–320.
     
 - **Morris, T.,** _Crime and Criminal Justice Since 1945_ (Oxford: Basil Blackwell, 1989).
