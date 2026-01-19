@@ -350,3 +350,15 @@ The findings from this study... indicate that gangs and violence on Chicago’s 
 "In the political reaction against the welfare state and late modernity, crime acted as a lens through which to view the poor—as undeserving, deviant, dangerous, different." **(p. 102)**
 
 
+### Hayward, Keith, and Oliver Smith, 'Crime and consumer culture', in _The Oxford Handbook of Criminology_, ed. by Alison Liebling, Shadd Maruna and Lesley McAra, 7th edn (Oxford: Oxford University Press, 2023), pp. 542–64
+
+"The crime-consumerism nexus asserts that consumerism cultivates—especially among young people—new forms of subjectivity based around desire, individualism, hedonism, and impulsivity, which, in many instances, can find expression in transgressive and even criminal behaviour." **(p. 550)**
+
+"A unique feature of contemporary consumer culture is that insatiable desire is now not only normalized but essential to the very survival of the current socio-economic order... The criminogenic consequences of this 'strange combination of perpetual dissatisfaction and a longing for the new' hardly need spelling out." **(p. 551)**
+
+"The structural predicament of the ghetto poor is not simply a deficit of goods... it is a state of humiliation." **(p. 548)**
+
+"Consumer capitalism therefore relies upon a culture of competitive interpersonal relations to cultivate envy and a pervasive, deep-rooted sense of dissatisfaction." **(p. 553)**
+
+"Thus, from an ultra-realist perspective, the 2011 London riots should be understood primarily as 'consumer riots'—that is, rather than seeking to challenge the established political orthodoxy, the rioters (in the main) illustrated a deep commitment to the ideology of consumer capitalism." **(p. 554)**
+
