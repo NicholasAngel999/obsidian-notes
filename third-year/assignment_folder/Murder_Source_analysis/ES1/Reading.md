@@ -269,3 +269,10 @@ The accusation was that there was no will to remedy the system because it gave e
 
 
 
+### Williamson, Howard, review of _Hooligan: A History of Respectable Fears_, by Geoffrey Pearson, _Sociology_, 17.4 (1983), 614–16
+
+"Pearson attempts, and fails, to trace such a time... He accuses writers, politicians and social commentators of a 'nostalgic amnesia' through which they romanticize the past." (p. 614)
+
+"Jumping back twenty or thirty years at a time - from the black muggers of today, through the Teds of the '50s... right back to the 1600s - he examines the basis of respectable fears to do with law and disorder." (p. 615)
+
+"Certainly such behaviour has historically been viewed as un-British, and non-British scapegoats - particularly blacks and Irish (the very word 'Hooligan' is of Irish origin) - have been identified as the source of this disruption." (p. 616)
