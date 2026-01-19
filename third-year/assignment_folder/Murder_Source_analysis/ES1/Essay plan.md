@@ -46,6 +46,7 @@ Blamed for creating a *culture of violence*
 
  "repressive legislation" like the 1994 Criminal Justice Act (p. 318).
 
+"LA-style girl gang culture" (p. 105)
 
 ### Hooliganism isnt a new cultural phenomena its a stable feature of British history
 
