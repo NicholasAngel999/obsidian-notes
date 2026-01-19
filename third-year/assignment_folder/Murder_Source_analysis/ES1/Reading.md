@@ -105,7 +105,7 @@ E.J. Yeo, ‘“The Boy is the Father of the Man”: Moral Panic over Working-Cl
 
 ---
 
-### Section 2: Subcultures, Identity, and Rituals
+## Section 2: Subcultures, Identity, and Rituals
 
 **Focus:** Analyzing "Skinheads," Football/Ice Hockey Hooliganism, and music subcultures as expressions of social friction.
 
@@ -250,4 +250,34 @@ The accusation was that there was no will to remedy the system because it gave e
 "Concentrated media attention confers the status of high public concern on issues which are highlighted; these generally become understood by everyone as the 'pressing issues of the day'." **(p. 58)**
 
 "The mass media operate with certain definitions of what is newsworthy... There are built-in factors... to structured ideological biases, which predispose the media to make a certain event into news." **(p.35)**
+
+
+
+
+# Section 2 
+---
+
+### **Cohen, S.,** _Folk Devils and Moral Panics: The Creation of the Mods and Rockers_, 3rd edn (London: Routledge, 2011).
+
+"In the gallery of types that society erects to show its members which roles should be avoided and which should be emulated, these groups have occupied a constant position as folk devils: visible reminders of what we should not be." **(p. 2)**
+
+"These years witnessed rapid oscillation from one such devil to another: the Mod, the Rocker, the Greaser, the student militant, the drug fiend, the vandal, the soccer hooligan, the hippy, the skinhead." **(p. 3)**
+
+"The Mods and Rockers are one of the many sets of figures through which the sixties in Britain will be remembered... the Mods and Rockers stand alongside the Profumo affair, the Great Train Robbery... as the types and scenes of the sixties." **(p. 3)**
+
+
+
+### **Thompson, K.,** _Moral Panics_ (London: Routledge, 1998).
+
+"The Mods and Rockers symbolized something far more important than what they actually did. They touched the delicate and ambivalent nerves through which post-war social change in Britain was experienced." **(p. 40)**
+
+"As with the Mods and Rockers of the 1960s, the tabloid media, police and moral establishment rapidly sought ways to condemn and control these latter-day folk-devils." **(p. 50)**
+
+"The probation service and ex-offender organizations found themselves bombarded with requests from journalists seeking out case histories to illustrate this apparent explosion of LA-style girl gang culture on the streets of Britain." **(p. 105)**
+
+"The discourse had all the elements required to generate a moral panic: suggestions of a spreading risk from out-of-control folk devils—in this case, teenage girls acting against their feminine nature and behaving like men." **(p. 108)**
+
+"Girl gangs may be just a symptom of a wider malaise produced as the taboos of female violence and vulgarity are breached in all walks of life." **(p. 106)**
+
+
 
