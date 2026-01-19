@@ -25,12 +25,14 @@
             "id": "86fc6a719dcef25c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251029131017.png"
+                "file": "assignment_folder/Murder_Source_analysis/ES1/Reading.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251029131017"
+              "icon": "lucide-file",
+              "title": "Reading"
             }
           }
         ],
@@ -91,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a68842be55fb6cd",
@@ -196,8 +199,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "83e6535bbf22e0aa",
+  "active": "86fc6a719dcef25c",
   "lastOpenFiles": [
+    "assignment_folder/Murder_Source_analysis/ES1/readings/MORAL PANICS - Kenneth Thompson.pdf",
+    "assignment_folder/Murder_Source_analysis/ES1/readings/Thompson, Kenneth/MORAL PANICS/MORAL PANICS - Kenneth Thompson.pdf",
+    "assignment_folder/Murder_Source_analysis/ES1/readings/Thompson, Kenneth/MORAL PANICS/MORAL PANICS - Kenneth Thompson.opf",
+    "assignment_folder/Murder_Source_analysis/ES1/readings/Thompson, Kenneth/MORAL PANICS/MORAL PANICS - Kenneth Thompson.jpg",
+    "assignment_folder/Murder_Source_analysis/ES1/readings/Thompson, Kenneth/MORAL PANICS",
+    "assignment_folder/Murder_Source_analysis/ES1/readings/Thompson, Kenneth",
+    "assignment_folder/Murder_Source_analysis/ES1/readings/240338.acsm",
+    "Pasted image 20251029131017.png",
     "assignment_folder/Murder_Source_analysis/ES1/Reading.md",
     "assignment_folder/Murder_Source_analysis/ES1/Essay plan.md",
     "assignment_folder/Murder_Source_analysis/ES1/readings/Representing Order_ Crime, Law and Justice in the News Media.pdf",
@@ -205,16 +216,10 @@
     "assignment_folder/Murder_Source_analysis/ES1/readings/Crime News in Modern Britain : Press Reporting and Responsibility, 1820-2010.acsm",
     "assignment_folder/Murder_Source_analysis/ES1/readings/Crime News in Modern Britain - Rowbotham, Judith;Stevenson, Kim;Pegg, Sam.pdf",
     "assignment_folder/Murder_Source_analysis/ES1/readings/9780203828250_previewpdf.pdf",
-    "assignment_folder/Murder_Source_analysis/ES1/readings",
-    "assignment_folder/Murder_Source_analysis/ES1",
-    "assignment_folder/Murder_Source_analysis/ES1/readings/Unknown/Crime News in Modern Britain _ Press Reporting and Responsibility, 1820-2010/Crime News in Modern Britain _ Press Reporting and Responsibility, 1820-2010 - Unknown.pdf",
-    "assignment_folder/Murder_Source_analysis/ES1/readings/Unknown/Crime News in Modern Britain _ Press Reporting and Responsibility, 1820-2010/Crime News in Modern Britain _ Press Reporting and Responsibility, 1820-2010 - Unknown.opf",
-    "assignment_folder/Murder_Source_analysis/ES1/readings/Unknown/Crime News in Modern Britain _ Press Reporting and Responsibility, 1820-2010",
     "assignment_folder/seeing_ghosts_essay/AS1/Essay plan.md",
     "assignment_folder/seeing_ghosts_essay/AS1/The Society for Physical Research's Investigation into Eusapia Palladino (1894-5).md",
     "output/The Society for Physical Research's Investigation into Eusapia Palladino (1894-5).md",
     "Pasted image 20251107082536.png",
-    "Pasted image 20251029131017.png",
     "Pasted image 20251029131142.png",
     "assignment_folder/secret_intelligence/ES1/How does the contribution of COMINT compare with other forms of British intelligence during the Second World War?.md",
     "assignment_folder/secret_intelligence/ES1/Essay planning.md",

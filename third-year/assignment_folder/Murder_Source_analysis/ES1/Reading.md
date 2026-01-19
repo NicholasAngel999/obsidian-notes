@@ -102,8 +102,6 @@ E.J. Yeo, ‘“The Boy is the Father of the Man”: Moral Panic over Working-Cl
     
 - **Springhall, J.,** _Youth, Popular Culture and Moral Panics: Penny Gaffs to Gangsta-Rap, 1830-1996_ (Basingstoke: Palgrave Macmillan, 1998).
     
-- **Thompson, K.,** _Moral Panics_ (London: Routledge, 1998).
-    
 
 ---
 
@@ -242,4 +240,6 @@ Sensational and emotive reportage has become more important as newspapers fight 
 The accusation was that there was no will to remedy the system because it gave employment to 'Judges, Sheriffs, Criers, Barristers, Lawyers... and all the other machinery relating to crime'." (p. 19)
 
 
+
+### **Thompson, K.,** _Moral Panics_ (London: Routledge, 1998).
 
