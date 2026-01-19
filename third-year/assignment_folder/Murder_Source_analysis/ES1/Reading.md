@@ -109,30 +109,18 @@ E.J. Yeo, ‘“The Boy is the Father of the Man”: Moral Panic over Working-Cl
 
 **Focus:** Analyzing "Skinheads," Football/Ice Hockey Hooliganism, and music subcultures as expressions of social friction.
 
-- **Bradley, D.,** _Understanding Rock ‘n’ Roll: Popular Music in Britain, 1955-1964_ (Buckingham: Open University Press, 1992).
-    
-- **Davies, A.,** _Street Gangs and Violence in Glasgow in the 1920s and 1930s_ (Edinburgh: Edinburgh University Press, 2006).
-    
-- **Gurr, T. R., ed.,** _Violence in America: Volume I: The History of Crime_ (Newbury Park, CA: Sage, 1989).
-    
-- **Gurr, T. R., ed.,** _Violence in America: Volume II: Protest, Rebellion, Reform_ (Newbury Park, CA: Sage, 1989).
-    
-- **Osgerby, W.,** _Youth in Britain since 1945_ (Oxford: Blackwell, 1998).
-    
-- **Pearson, G.,** _Hooligan: A History of Respectable Fears_ (London: Macmillan, 1983).
-    
-- **Quinn, E.,** _Nuthin’ but a “G” Thang: The Culture and Commerce of Gangsta Rap_ (New York: Columbia University Press, 2005).
-    
-- **Rose, T.,** _Black Noise: Rap Music and Black Culture in Contemporary America_ (Hanover, NH: University Press of New England, 1994).
-    
-- **Savage, J.,** _England’s Dreaming: Sex Pistols and Punk Rock_ (London: Faber, 1991).
-    
-- **Simonelli, D.,** ‘Anarchy, Pop and Violence: Punk Rock Subculture and the Rhetoric of Class, 1976-78’, _Contemporary British History_, 16.2 (2002), 121–44.
-    
-- **Spergel, I. A.,** ‘Youth Gangs: Continuity and Change’, _Crime and Justice_, 12 (1990), 171–275.
+
+ **Pearson, G.,** _Hooligan: A History of Respectable Fears_ (London: Macmillan, 1983).
     
 - **Ward, C.,** _All Quiet on the Hooligan Front: Eight Years That Changed the Face of Football_ (London: Mainstream, 1996).
-    
+
+- **Osgerby, W.,** _Youth in Britain since 1945_ (Oxford: Blackwell, 1998).
+
+- **Spergel, I. A.,** ‘Youth Gangs: Continuity and Change’, _Crime and Justice_, 12 (1990), 171–275.
+
+- **Davies, A.,** _Street Gangs and Violence in Glasgow in the 1920s and 1930s_ (Edinburgh: Edinburgh University Press, 2006)..
+        
+- **Gurr, T. R., ed.,** _Violence in America: Volume I: The History of Crime_ (Newbury Park, CA: Sage, 1989).
 
 ---
 
