@@ -337,4 +337,16 @@ The findings from this study... indicate that gangs and violence on Chicago’s 
 # Section 3
 ---
 
-### **Garland, D.,** _The Culture of Control: Crime and Social Order in Contemporary Society_ (Oxford: Oxford University Press, 2001).
+### **Garland, David,** _The Culture of Control: Crime and Social Order in Contemporary Society_ (Oxford: Oxford University Press, 2001).
+
+"The correlation between late modern social change and increased crime rates was no mere coincidence... the evidence strongly suggests a causal link between the coming of late modernity and society's increased susceptibility to crime." **(p. 90)**
+
+"The high crime rates of the 1960s and 1970s were a precipitate of these social changes—an unplanned but altogether predictable product of the interaction of these elements." **(p. 91)**
+
+"The consequence was a more sharply stratified labour market, with growing inequalities separating the top and bottom tiers... and ultimately, fewer ties of solidarity between these groups." **(p. 82)**
+
+"Whole sectors of the population—particularly inner-city youths in poor or minority communities—were systematically excluded from the labour market just as many of their parents had been before them." **(p. 82)**
+
+"In the political reaction against the welfare state and late modernity, crime acted as a lens through which to view the poor—as undeserving, deviant, dangerous, different." **(p. 102)**
+
+
