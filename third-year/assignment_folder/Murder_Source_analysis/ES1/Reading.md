@@ -96,7 +96,7 @@
 
  "The student of moral enterprise cannot but pay particular attention to the role of the mass media in defining and shaping social problems." (p. 9)
  
- "The information characteristically is not received at first hand, it tends to be processed in such a form that the action or actors concerned are pictured in a highly stereotypical way." (p. 11)
+ "This information characteristically is not received at first hand, it tends to be processed in such a form that the action or actors concerned are pictured in a highly stereotypical way." (p. 11)
  
  "Disproportionality - an exaggeration of the number or strength of the cases, in terms of the damage caused, moral offensiveness, potential risk if ignored. Public concern is not directly proportionate to objective harm." (p. xxvii)
 
