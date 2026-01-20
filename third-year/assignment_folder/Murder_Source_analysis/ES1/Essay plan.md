@@ -96,3 +96,62 @@ where the lack of goods is felt as a "state of humiliation" (p. 548).
 
 "systematically excluded" inner-city youths (p. 82).
 
+
+
+
+---
+# Section 2 -- Expanded to US/UK
+
+### **1. The UK Context: Hooligans & Repressive Laws**
+
+_Focus: The State blaming culture and passing laws to stop it._
+
+- **The Folk Devil:**
+    
+    - "rapid oscillation from one such devil to another... the soccer hooligan, the hippy, the skinhead" (p. 3).
+        
+- **The Reaction (Legislation):**
+    
+    - "repressive legislation" like the **1994 Criminal Justice Act** (p. 318).
+        
+- **The Reality (It's not new, it's historical):**
+    
+    - Hooliganism isn't a new cultural phenomenon; it is a "stable feature of a changing society" (p. 615).
+        
+- **The True Cause (Structural):**
+    
+    - The fixation on hooligans is a "convenient metaphor for wider social tensions" (p. 615).
+        
+    - It distracts from "real social issues... unemployment, shabby entertainment, racism and poor housing" (p. 616).
+        
+
+---
+
+### **2. The US Context: Gangs & Housing Demolition**
+
+_Focus: The State destroying the environment, forcing gangs to form for survival._
+
+- **The Folk Devil:**
+    
+    - "LA-style girl gang culture" (p. 105).
+        
+- **The Reality (Survival Mechanism):**
+    
+    - Violence within these groups is a "functional adaptation to an uncompromising social environment" (p. 231).
+        
+    - This occurs in environments "where the gang replaces the family and school" (p. 171).
+        
+- **The True Cause (State Destruction):**
+    
+    - The rise in disorder followed the "demolition of nearly all of Chicago’s public housing" (p. 28).
+        
+    - This removal of structure "shattered" the social order (p. 43).
+        
+
+---
+
+### **How to use this in Section 2:**
+
+- **Paragraph 1 (UK):** Use the top notes to argue that Britain treats "Hooligans" as symbols of decline and uses laws (CJA 1994) to crush them, ignoring the "unemployment and shabby entertainment."
+    
+- **Paragraph 2 (US):** Use the bottom notes to argue that in America (Chicago/LA), the violence isn't "culture"—it's a "functional adaptation" because the state destroyed the public housing (Chicago).
