@@ -35,7 +35,7 @@ Both recognise cultural impact of cinema on subcultures
 "mass unemployment, the decay of communal life... and the evaporation of hope" (p. 167).
 
 
-# Section 2 - *Sports Hooliganism (Football and Ice Hockey*
+# Section 2 - *Sports Hooliganism (Football and Ice Hockey)*
 ---
 
 Blamed for creating a *culture of violence*
