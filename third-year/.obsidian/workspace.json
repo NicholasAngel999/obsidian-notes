@@ -34,8 +34,21 @@
               "icon": "lucide-file",
               "title": "Reading"
             }
+          },
+          {
+            "id": "b23f0f8ca6ab3b94",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,7 +211,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "df80a49d0d35e468",
+  "active": "b23f0f8ca6ab3b94",
   "lastOpenFiles": [
     "assignment_folder/Murder_Source_analysis/ES1/lu2050876u50.tmp",
     "assignment_folder/Murder_Source_analysis/ES1/lu2050876u4x.tmp",
