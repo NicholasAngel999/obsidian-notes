@@ -140,6 +140,7 @@ Focus on how the State uses the "Hooligan" to distract from poverty._
 2. **The Point:** Explain that when the State removes support systems (schools/families), the gang fills the void.
     
     - **The Note to use:** It occurs where "the gang replaces the family and school" **(Spergel, p. 171)**.
+	    - occurring in spaces where the gang performs cultural and economic functions **"no longer adequately performed by the family, the school, and the labor market"**
         
 3. **The Point:** Give the specific evidence. The State didn't just ignore these areas; they actively destroyed the buildings.
     
