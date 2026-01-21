@@ -35,68 +35,6 @@ Both recognise cultural impact of cinema on subcultures
 "mass unemployment, the decay of communal life... and the evaporation of hope" (p. 167).
 
 
-# Section 2 - *Sports Hooliganism (Football and Ice Hockey)*
----
-
-Blamed for creating a *culture of violence*
-
-### Hooligans treated as a modern folk devil symbolising social decline
-
-"rapid oscillation from one such devil to another... the soccer hooligan, the hippy, the skinhead" (p. 3).
-
- "repressive legislation" like the 1994 Criminal Justice Act (p. 318).
-
-"LA-style girl gang culture" (p. 105)
-
-### Hooliganism isnt a new cultural phenomena its a stable feature of British history
-
-"stable feature of a changing society" (p. 615).
-
-"convenient metaphor for wider social tensions" (p. 615)
-
-"real social issues... unemployment, shabby entertainment, racism and poor housing" (p. 616).
-
-
-### Violence within these groups is usually a survival mechanism in the face of poverty not copying the media
-
-"functional adaptation to an uncompromising social environment" (p. 231)
-
-where the gang replaces the family and school (p. 171).
-
-"demolition of nearly all of Chicago’s public housing" (p. 28) 
-
-which "shattered" the social order (p. 43).
-
-# Section 3 - *Fashion and Consumerism*
----
-
-"Culture and Commerce" of specific urban fashions—often linked to **Gangsta Rap**—were similarly blamed for promoting a "gang" lifestyle.
-
-### The new right argues that a specific culture (fashion) is responsible for crime
-
-"underclass" is defined by "illegitimacy, violent crime, and drop-out from the labour force" (p. 163)
-
-"rational choices" to rely on welfare (p. 136).
-
-"lens through which to view the poor—as undeserving, deviant, dangerous" (p. 102).
-
-
-### It is not the style of fashion that causes crime but the pressure to own it in an unequal society that does
-
-Consumerism cultivates "insatiable desire" (p. 551)
-
-where the lack of goods is felt as a "state of humiliation" (p. 548).
-
-"consumer riots"—an attempt to join the "ideology of consumer capitalism" (p. 554).
-
-
-### People turn to crime to afford these fashions because the legitimate economy has rejected them
-
-"sharply stratified labour market" (p. 82)
-
-"systematically excluded" inner-city youths (p. 82).
-
-
 
 ---
 # Section 2 -- Expanded to US/UK
@@ -149,6 +87,58 @@ Focus on how the State uses the "Hooligan" to distract from poverty._
 4. **The Point:** Conclude by saying this physical destruction is what caused the chaos, not "culture."
     
     - **The Note to use:** This destruction "shattered" the social order **(Aspholm, p. 43)**.
+        
+
+---
+
+
+
+# Section 3: Structural Roots and the "Limited Extent"
+
+_Focus: Arguing that "Fashion," consumerism, and the "Underclass" are symptoms of economic exclusion and state control._
+
+### **Part 1: The UK Argument (Consumerism as the Driver)**
+
+_Focus: It is not "gang culture" that drives crime, but the desperate need to participate in consumer capitalism (Fashion/Brands)._
+
+1. **The Point:** Start by introducing the "Underclass" label. The UK adopted this idea to suggest that poverty is caused by "character flaws" rather than the economy.
+    
+    - **The Note to use:** The dominant image became "one of people with serious character flaws... who have only themselves to blame" **(Welshman, p. 141)**.
+        
+2. **The Point:** Argue that the real driver of youth crime isn't a rejection of society, but an _obsession_ with its values (Consumerism). Capitalism creates a constant hunger for new things.
+    
+    - **The Note to use:** Consumerism cultivates an "insatiable desire" which is essential for the economy but causes crime **(Hayward & Smith, p. 551)**.
+        
+3. **The Point:** Explain the emotional impact. For young people, not having the right "fashion" or brands isn't just annoying—it is shameful.
+    
+    - **The Note to use:** The lack of goods is felt as a "state of humiliation" **(Hayward & Smith, p. 548)**.
+        
+4. **The Point:** Use the **2011 Riots** as the proof. These weren't political protests or "gang wars"; they were people smashing windows to get the products they were told they needed.
+    
+    - **The Note to use:** The riots should be understood as **"consumer riots"**—an attempt to join the "ideology of consumer capitalism" **(Hayward & Smith, p. 554)**.
+        
+
+---
+
+### **Part 2: The US Argument (Exclusion from the Economy)**
+
+_Focus: It is not a "culture of laziness" (Murray), but a "stratified labour market" (Garland) that forces people into crime._
+
+1. **The Point:** Switch to the US context. Here, the argument is often that the poor make a "choice" to be poor or criminal (The New Right view).
+    
+    - **The Note to use:** Murray argues they make **"rational choices"** to rely on welfare because it pays better than low-wage work **(Welshman, p. 136)**.
+        
+2. **The Point:** Explain how the State uses this "culture" argument to punish the poor instead of helping them.
+    
+    - **The Note to use:** Crime acts as a **"lens through which to view the poor—as undeserving, deviant, dangerous"** **(Garland, p. 102)**.
+        
+3. **The Point:** Counter this with the structural reality. The economy changed ("Late Modernity"), and the good jobs disappeared.
+    
+    - **The Note to use:** This created a **"sharply stratified labour market"** with fewer ties between the rich and poor **(Garland, p. 82)**.
+        
+4. **The Point:** Conclude by showing that inner-city youth aren't "dropping out" of work; they are being locked out.
+    
+    - **The Note to use:** Whole sectors of the population have been **"systematically excluded"** from the labour market **(Garland, p. 82)**.
         
 
 ---
