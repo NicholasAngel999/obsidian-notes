@@ -135,6 +135,7 @@ Focus on how the State uses the "Hooligan" to distract from poverty._
 1. **The Point:** Switch to the US. Here, the violence isn't a "style" or a "rebellion" like in the UK. It is a logical reaction to a destroyed environment.
     
     - **The Note to use:** Violence is a "functional adaptation to an uncompromising social environment" **(Spergel, p. 231)**.
+	    - "These kids aren't violent because they are crazy or influenced by movies; they are violent because it is the only tool that works to keep them safe in a broken world."
         
 2. **The Point:** Explain that when the State removes support systems (schools/families), the gang fills the void.
     
